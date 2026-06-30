@@ -382,6 +382,16 @@
       background: #fff;
     }
 
+    .order-row.good {
+      border-color: #7ebc9a;
+      background: #ebf8f1;
+    }
+
+    .order-row.bad {
+      border-color: #e19b9b;
+      background: #fff0f0;
+    }
+
     .order-actions {
       display: flex;
       gap: 6px;

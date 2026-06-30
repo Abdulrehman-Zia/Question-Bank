@@ -565,8 +565,10 @@
           <div class="order-list">
             ${st.order.map((label, i) => {
               const item = itemByLabel(label);
+              const expectedLabel = (question.answer?.order || [])[i];
+              const rowClass = st.graded ? (label === expectedLabel ? " good" : " bad") : "";
               return `
-                <div class="order-row">
+                <div class="order-row${rowClass}">
                   <div><strong>${i + 1}.</strong> ${escapeHtml(item.label)}. ${escapeHtml(item.text || "")}</div>
                   <div class="order-actions">
                     <button type="button" class="mini" data-move="up" data-idx="${i}" aria-label="Move up" ${st.graded || i === 0 ? "disabled" : ""}>&uarr;</button>
@@ -576,7 +578,7 @@
               `;
             }).join("")}
           </div>
-          <button class="btn primary" id="submitOrder" ${st.graded ? "disabled" : ""}>Submit Order</button>
+          <button class="btn primary" id="submitOrder" ${st.graded ? "disabled" : ""}>Submit Answer</button>
         `;
 
         mount.querySelectorAll("button[data-move]").forEach((btn) => {
