@@ -156,7 +156,7 @@
         labels: REPORT_SETTINGS.labels.join(",")
       });
       const issueUrl = `https://github.com/${repo.owner}/${repo.repoName}/issues/new?${params.toString()}`;
-      window.open(issueUrl, "_blank", "noopener");
+      window.location.href = issueUrl;
     }
 
     function isQuestionCorrect(question, state) {
