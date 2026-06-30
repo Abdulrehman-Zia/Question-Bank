@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which vitamin is primarily produced in skin after sun exposure?",
+      "options": [
+        { "label": "a", "text": "Vitamin A" },
+        { "label": "b", "text": "Vitamin C" },
+        { "label": "c", "text": "Vitamin D" },
+        { "label": "d", "text": "Vitamin K" }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "UVB exposure helps synthesize Vitamin D in the skin."
+      }
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Which findings are commonly associated with uncontrolled diabetes? Choose 2.",
+      "options": [
+        { "label": "a", "text": "Polyuria" },
+        { "label": "b", "text": "Polydipsia" },
+        { "label": "c", "text": "Bradycardia" },
+        { "label": "d", "text": "Hypothermia" }
+      ],
+      "answer": {
+        "correct_options": ["a", "b"],
+        "explanation": "Polyuria and polydipsia are classic hyperglycemia symptoms."
+      }
+    },
+    {
+      "id": 3,
+      "type": "matching",
+      "prompt": "Match each hormone to its primary gland of secretion.",
+      "terms": [
+        { "label": "a", "text": "Insulin" },
+        { "label": "b", "text": "Thyroxine (T4)" },
+        { "label": "c", "text": "Cortisol" }
+      ],
+      "choices": [
+        { "label": "i", "text": "Adrenal cortex" },
+        { "label": "ii", "text": "Pancreas" },
+        { "label": "iii", "text": "Thyroid" }
+      ],
+      "answer": {
+        "matches": [
+          { "term_label": "a", "answer_label": "ii" },
+          { "term_label": "b", "answer_label": "iii" },
+          { "term_label": "c", "answer_label": "i" }
+        ],
+        "explanation": "Insulin->pancreas, T4->thyroid, cortisol->adrenal cortex."
+      }
+    },
+    {
+      "id": 4,
+      "type": "ordering",
+      "prompt": "Order the diagnostic workflow from first to last.",
+      "options": [
+        { "label": "a", "text": "Take patient history" },
+        { "label": "b", "text": "Order targeted investigations" },
+        { "label": "c", "text": "Perform focused physical exam" },
+        { "label": "d", "text": "Finalize diagnosis and plan" }
+      ],
+      "answer": {
+        "order": ["a", "c", "b", "d"],
+        "explanation": "Typical sequence is history, exam, investigations, then plan."
+      }
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "prompt": "Briefly define insulin resistance.",
+      "answer": {
+        "text": "Insulin resistance is a reduced biological response to normal circulating insulin levels, requiring higher insulin concentrations to achieve the same effect.",
+        "explanation": "Accept equivalent wording that captures reduced tissue sensitivity to insulin."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Identify the abnormality shown in this image.",
+      "media": {
+        "type": "image",
+        "url": "./example-image.jpg"
+      },
+      "options": [
+        { "label": "a", "text": "Normal finding" },
+        { "label": "b", "text": "Mild edema" },
+        { "label": "c", "text": "Severe edema" },
+        { "label": "d", "text": "Cannot determine" }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Replace this with the real interpretation for your image."
+      }
+    }
+  ]
+}
