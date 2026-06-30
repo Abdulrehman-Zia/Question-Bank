@@ -1,0 +1,652 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following is not a manifestation of hyperactivity/impulsivity:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Blurts out answers before question is finished"
+        },
+        {
+          "label": "b",
+          "text": "Unable to stay seated"
+        },
+        {
+          "label": "c",
+          "text": "Fidgets"
+        },
+        {
+          "label": "d",
+          "text": "Careless mistakes"
+        },
+        {
+          "label": "e",
+          "text": "Difficulty playing quietly"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "T/F: ADHD resolves upon adulthood",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "ADHD persists into adulthood in about 60%"
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "T’F: The DSM-5 criteria for learning disorders require a test of IQ",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "but LDAO does require one!"
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following is not a risk factor for learning disabilities:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Genetics"
+        },
+        {
+          "label": "b",
+          "text": "Perinatal maternal EtOH consumption"
+        },
+        {
+          "label": "c",
+          "text": "Presence of lisp"
+        },
+        {
+          "label": "d",
+          "text": "Low birthweight"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "T/F: Articulation disorders increase with age",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following is true about language disorders:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Language disorders are more common in girls"
+        },
+        {
+          "label": "b",
+          "text": "Bilingual children with language disorders will preferentially develop one language only"
+        },
+        {
+          "label": "c",
+          "text": "90% of late talkers will catch up on their own"
+        },
+        {
+          "label": "d",
+          "text": "Language disorders are highly heritable"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "Which of the following is true about ASD:",
+      "options": [
+        {
+          "label": "a",
+          "text": "It is a degenerative disorder"
+        },
+        {
+          "label": "b",
+          "text": "Anyone with a diagnosis of ASD should have genetic testing with a clinical microarray"
+        },
+        {
+          "label": "c",
+          "text": "Patients often have a reduced brain size compared to the general population"
+        },
+        {
+          "label": "d",
+          "text": "75% of those with ASD have Intellectual Disability"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Treatment for aggression in ASD include:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fluoxetine"
+        },
+        {
+          "label": "b",
+          "text": "Benzodiazepine"
+        },
+        {
+          "label": "c",
+          "text": "Risperidone"
+        },
+        {
+          "label": "d",
+          "text": "Amitriptyline"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following is a risk factor for disruptive behaviour disorders:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Chronic physical illness"
+        },
+        {
+          "label": "b",
+          "text": "Female sex"
+        },
+        {
+          "label": "c",
+          "text": "High birth weight"
+        },
+        {
+          "label": "d",
+          "text": "Overactivity of amygdala"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following is not a presentation of conduct disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Lack of empathy"
+        },
+        {
+          "label": "b",
+          "text": "Guilt and remorse"
+        },
+        {
+          "label": "c",
+          "text": "Flat affect"
+        },
+        {
+          "label": "d",
+          "text": "Theft"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "Which of the following is not in the same cluster of personality disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Borderline Personality Disorder"
+        },
+        {
+          "label": "b",
+          "text": "Obsessive-Compulsive Personality Disorder"
+        },
+        {
+          "label": "c",
+          "text": "Histrionic Personality Disorder"
+        },
+        {
+          "label": "d",
+          "text": "Antisocial Personality Disorder"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "What is the most common type of personality disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Antisocial Personality Disorder"
+        },
+        {
+          "label": "b",
+          "text": "Narcissistic Personality Disorder"
+        },
+        {
+          "label": "c",
+          "text": "Borderline Personality Disorder"
+        },
+        {
+          "label": "d",
+          "text": "Schizotypal Personality Disorder"
+        },
+        {
+          "label": "e",
+          "text": "Paranoid Personality Disorder"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which of the following situations meet the criteria A for PTSD?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Failing an Exam"
+        },
+        {
+          "label": "b",
+          "text": "Almost losing your life from house fire"
+        },
+        {
+          "label": "c",
+          "text": "Having a big fight with your best friend"
+        },
+        {
+          "label": "d",
+          "text": "Being suspended from school"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "What are the first line pharmacological therapies used for PTSD?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fluoxetine, Paroxetine, Sertraline, Venlafaxine"
+        },
+        {
+          "label": "b",
+          "text": "Amitryptiline, Aripiprazole, Bupropion, Topiramate"
+        },
+        {
+          "label": "c",
+          "text": "Olanzapine, Fluvoxamine, Mirtazapine, Fluvoxamine"
+        },
+        {
+          "label": "d",
+          "text": "Fluoxetine, Paroxetine, Sertraline, Citalopram"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "How long do you need to show symptoms of PTSD to be qualified for a diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 week"
+        },
+        {
+          "label": "b",
+          "text": "6 months"
+        },
+        {
+          "label": "c",
+          "text": "12 weeks"
+        },
+        {
+          "label": "d",
+          "text": "3 months"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "prompt": "Which of the following disorders are dissociation symptoms concomitantly found in? (Can choose more than 1)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Borderline Personality Disorder"
+        },
+        {
+          "label": "b",
+          "text": "PTSD"
+        },
+        {
+          "label": "c",
+          "text": "Panic Disorder"
+        },
+        {
+          "label": "d",
+          "text": "Narcissistic Personality Disorder"
+        },
+        {
+          "label": "e",
+          "text": "Autism Spectrum Disorder"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": ""
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "Which scale is used to evaluate severity of Dissociation Disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "PHQ-9"
+        },
+        {
+          "label": "b",
+          "text": "YBOCS"
+        },
+        {
+          "label": "c",
+          "text": "MMSE"
+        },
+        {
+          "label": "d",
+          "text": "Dissociative Expriences Scale II (DES)"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "Average non-clinical population score on DES is…",
+      "options": [
+        {
+          "label": "a",
+          "text": "≥26"
+        },
+        {
+          "label": "b",
+          "text": "30"
+        },
+        {
+          "label": "c",
+          "text": "11"
+        },
+        {
+          "label": "d",
+          "text": "40"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Which of the following are not one of the risk factors for developing anxiety disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Family history of anxiety"
+        },
+        {
+          "label": "b",
+          "text": "Personal history of anxiety or mood disorders (i.e., MDD, ADHD)"
+        },
+        {
+          "label": "c",
+          "text": "Childhood stressful life events/trauma"
+        },
+        {
+          "label": "d",
+          "text": "Chronic medical illness"
+        },
+        {
+          "label": "e",
+          "text": "Being male"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "prompt": "Choose medical conditions that can present as anxiety or panic disorders",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hyper/hypothyroidism"
+        },
+        {
+          "label": "b",
+          "text": "Caffeine"
+        },
+        {
+          "label": "c",
+          "text": "Anemia"
+        },
+        {
+          "label": "d",
+          "text": "Vitamin B12 deficiency"
+        },
+        {
+          "label": "e",
+          "text": "COPD"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "explanation": ""
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "What is the median age for onset of OCD?",
+      "options": [
+        {
+          "label": "a",
+          "text": "7"
+        },
+        {
+          "label": "b",
+          "text": "15"
+        },
+        {
+          "label": "c",
+          "text": "25"
+        },
+        {
+          "label": "d",
+          "text": "19"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "earlier onset in men)"
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "T/F: the difference between worry and obsession is that obsession is almost exclusively experienced just as a thought.",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "worry is almost exclusively experienced as a thought while obsession is experienced as intrusive thoughts, images, or impulses."
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "Choose a combination of SSRI side effects with its appropriate treatments.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Sexual side effects: use benzodiazepine"
+        },
+        {
+          "label": "b",
+          "text": "Restlessness: use bupropion"
+        },
+        {
+          "label": "c",
+          "text": "Sleep disturbance: use trazodone"
+        },
+        {
+          "label": "d",
+          "text": "Indigestion: use pepcid"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "Which one of the following are an appropriate example for each type of exposure therapies for anxiety Disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Situational - hyperventilating to provoke trembling/shaking for panic disorder treatment"
+        },
+        {
+          "label": "b",
+          "text": "Interoceptive - going back to the location where you were mugged, to treat PTSD"
+        },
+        {
+          "label": "c",
+          "text": "Imaginal - running back and forth to simulate symptoms of panic disorder"
+        },
+        {
+          "label": "d",
+          "text": "Virtual - exposure to computer simulation of a war you’ve fought in, to treat PTSD"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    }
+  ]
+}

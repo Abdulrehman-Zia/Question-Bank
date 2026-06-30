@@ -1,0 +1,1138 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following is true about hCG levels in a viable intrauterine pregnancy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "hCG levels increase exponentially until the end of the second trimester"
+        },
+        {
+          "label": "b",
+          "text": "hCG levels start to rise in the second trimester"
+        },
+        {
+          "label": "c",
+          "text": "hCG levels plateau during the late first trimester"
+        },
+        {
+          "label": "d",
+          "text": "hCG levels remain constant until delivery"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "hCG levels increase exponentially in early pregnancy, then plateau during the late first trimmest and steadily decline until they reach a steady state in the second and third trimesters."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Once an embryo is clearly seen on ultrasound, the most accurate estimate of gestational age can be provided by:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Crown to rump length (CRL)"
+        },
+        {
+          "label": "b",
+          "text": "Mean sac diameter (MSD)"
+        },
+        {
+          "label": "c",
+          "text": "Yolk sac"
+        },
+        {
+          "label": "d",
+          "text": "hCG levels"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Once an embryo is visible, the MSD should no longer be used to estimate gestational age as CRL is the most accurate method. Options c and d are distractors and are not used to estimate gestational age."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "What is the most common cause of an ectopic pregnancy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Endometriosis"
+        },
+        {
+          "label": "b",
+          "text": "IUD use"
+        },
+        {
+          "label": "c",
+          "text": "Pelvic inflammatory disease"
+        },
+        {
+          "label": "d",
+          "text": "Adenomyosis"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Pelvic inflammatory disease is the commonest cause of ectopic pregnancy. Endometriosis and IUD use have also been linked with ectopic pregnancy. Adenomyosis is not a known risk factor for ectopic pregnancy."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following is true regarding gestational trophoblastic disease?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The most common site of metastases for choriocarcinoma is the liver"
+        },
+        {
+          "label": "b",
+          "text": "A snowstorm pattern on pelvic ultrasound without a fetus present suggests complete hydatidiform mole"
+        },
+        {
+          "label": "c",
+          "text": "Partial hydatidiform moles contain only paternal chromosomes"
+        },
+        {
+          "label": "d",
+          "text": "After a complete hydatidiform mole, patients should not conceive until at least 3 months after serum beta hCG has returned to baseline"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Most common site for choriocarcinoma metastases is the lungs. Partial hydatidiform moles contain 2 sets of paternal chromosomes and 1 set of maternal chromosomes. After a complete hydatidiform mole, patients should abstain from conception for at least a year after serum beta hCG levels have returned to baseline."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "In which case would you manage an ectopic pregnancy surgically instead of medically?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Patient is hemodynamically stable"
+        },
+        {
+          "label": "b",
+          "text": "Patient's mass has ruptured"
+        },
+        {
+          "label": "c",
+          "text": "Patient is not chestfeeding"
+        },
+        {
+          "label": "d",
+          "text": "Patient is compliant to follow-up"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "If the patient’s mass has ruptured, surgical management is indicated. If a patient were hemodynamically unstable, chestfeeding, or non-compliant to follow-up, these would also be indications for surgical management."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following about medical management for spontaneous abortion is false?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Mifepristone + misoprostol combination therapy is very costly"
+        },
+        {
+          "label": "b",
+          "text": "Mifepristone + misoprostol combination therapy is first line treatment for threatened spontaneous abortion"
+        },
+        {
+          "label": "c",
+          "text": "Side effects of misoprostol include nausea, diarrhea and fever"
+        },
+        {
+          "label": "d",
+          "text": "IV broad spectrum antibiotics should be used in septic spontaneous abortion"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "First line therapy for threatened spontaneous abortion is expectant management and treatment of BV if present."
+      }
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Which of the following are the 3 most common complications of D&C?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Infection"
+        },
+        {
+          "label": "b",
+          "text": "Uterine perforation"
+        },
+        {
+          "label": "c",
+          "text": "Hemorrhage"
+        },
+        {
+          "label": "d",
+          "text": "Hematometra"
+        },
+        {
+          "label": "e",
+          "text": "Asherman's Syndrome"
+        },
+        {
+          "label": "f",
+          "text": "Retained products of conception"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "f"
+        ],
+        "explanation": "other options are possible but less common complications of D&C."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "A patient presents to your clinic following a D&C with acute pain and urinary retention but no vaginal bleeding. Which complication does she likely have?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Infection"
+        },
+        {
+          "label": "b",
+          "text": "Hematometra"
+        },
+        {
+          "label": "c",
+          "text": "Cervical shock"
+        },
+        {
+          "label": "d",
+          "text": "Cervical trauma"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Patients with hematometra (post-abortal syndrome) commonly present with acute pain and no vaginal bleeding and may have urinary retention as blood accumulates in the uterine cavity. The uterus should be re-evacuated immediately."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following are the most commonly required supplements in pregnancy",
+      "options": [
+        {
+          "label": "a",
+          "text": "Iron and vitamin C"
+        },
+        {
+          "label": "b",
+          "text": "Folate and calcium"
+        },
+        {
+          "label": "c",
+          "text": "Zinc and folate"
+        },
+        {
+          "label": "d",
+          "text": "Iron and folate"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Iron and folate are both needed in significant quantities by the developing fetus and are often limited in typical diets worldwide. Calcium, zinc, and vitamin C may be indicated based on maternal issues."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following vaccinations is recommended in all pregnancies?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pertussis (Tdap)"
+        },
+        {
+          "label": "b",
+          "text": "Measles-Mumps-Rubella (MMR)"
+        },
+        {
+          "label": "c",
+          "text": "Hepatitis A"
+        },
+        {
+          "label": "d",
+          "text": "BCC for tuberculosis"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The pertussis (Tdap) vaccine is recommended at 27-32 weeks to provide passive immunity to the baby as maternal antibodies cross the placenta. MMR and BCC for tuberculosis are contraindicated as they are live attenuated vaccines. Hepatitis A may be indicated in select scenarios but is not recommended for all pregnancies."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "A new patient comes to your clinic, and you confirm he is 11 weeks pregnant. Which of the following is not a recommended investigation?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Rubella test"
+        },
+        {
+          "label": "b",
+          "text": "Enhanced first trimester screening (eFTS)"
+        },
+        {
+          "label": "c",
+          "text": "2-hour glucose tolerance test"
+        },
+        {
+          "label": "d",
+          "text": "Group and screen"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Once pregnancy has been confirmed, recommended investigations include CBC, Group and Screen, testing for: Rubella, hepatitis B, HIV, VDRL, GC/Chlamydia, and a urine culture. Investigations for gestational diabetes occurs between weeks 24 and 28 of pregnancy."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "Which of the following symptoms is more commonly experienced during the second and third trimesters, as opposed to the first trimester?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Amenorrhea"
+        },
+        {
+          "label": "b",
+          "text": "Abdominal bloating"
+        },
+        {
+          "label": "c",
+          "text": "Mood swings"
+        },
+        {
+          "label": "d",
+          "text": "Breast tenderness"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Amenorrhea is common throughout all trimesters. Mood swings and breast tenderness are more commonly experienced in the first trimester. Abdominal bloating is more common in the second and third trimesters."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "In which of the following cases would an OHIP-covered NIPT be indicated?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pregnant parent older than 35 years"
+        },
+        {
+          "label": "b",
+          "text": "Parents have a previous child with trisomy 21"
+        },
+        {
+          "label": "c",
+          "text": "Nuchal translucency > 3.0mm"
+        },
+        {
+          "label": "d",
+          "text": "Pregnant parent’s first gestation"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Indications for NIPT: age of pregnant parent >40 years, previous child with trisomy, nuchal translucency >3.5mm, positive eFTS."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following is a risk of amniocentesis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Miscarriage risk of ~0.5%"
+        },
+        {
+          "label": "b",
+          "text": "Miscarriage risk of ~1%"
+        },
+        {
+          "label": "c",
+          "text": "Maternal cell contamination"
+        },
+        {
+          "label": "d",
+          "text": "Confined placental mosaicism"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "B, C, and D are all risks of chorionic villus sampling (CVS) which occurs between 11-13 weeks."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Which of the following pregnant people should be offered an ultrasound for fetal assessment?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A 50-year-old G2T1L0 at 15 weeks gestation who had a stillbirth one year ago with a baby who was diagnosed with a complex congenital heart defect"
+        },
+        {
+          "label": "b",
+          "text": "A 41-year-old G2 in her second pregnancy at 8 weeks gestation whose previous child has Trisomy 21"
+        },
+        {
+          "label": "c",
+          "text": "A 30-year-old G6T0P0A5L0 with 5 previous first trimester pregnancy losses who is now 16 weeks gestation"
+        },
+        {
+          "label": "d",
+          "text": "An 18-year-old in her first pregnancy at 19 weeks with no significant risk factors identified at the initial prenatal visit"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Fetal anatomy scans are not offered until 18 weeks’ gestation, at which point they will be offered for all pregnancies, regardless of risk and history."
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "Which of the following is a part of the standard second trimester ultrasound?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Assessment of fetal “well-being” through Biophysical Profile"
+        },
+        {
+          "label": "b",
+          "text": "Assessment of gestational sac diameter"
+        },
+        {
+          "label": "c",
+          "text": "Assessment of placental location"
+        },
+        {
+          "label": "d",
+          "text": "Assessment of amount of amniotic fluid"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Assessment of fetal “well-being” through Biophysical Profile and assessment of amniotic fluid are considered during the third trimester. Gestational sac diameter is observed during the first trimester."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "Which of the following teratogen exposures will pose the greatest risk to the fetus?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A pregnant patient contracts influenza despite having received the influenza vaccine at 20 weeks gestation"
+        },
+        {
+          "label": "b",
+          "text": "A pregnant patient contracts Rubella at 25 weeks gestation"
+        },
+        {
+          "label": "c",
+          "text": "A pregnant patient starts smoking at 36 weeks gestation"
+        },
+        {
+          "label": "d",
+          "text": "A pregnant patient smokes from conception until they discover they’re pregnant at 10 weeks gestation"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "The purpose of this question is to demonstrate that the greatest sensitivity to teratogens occurs until the 10th week of gestation, as this is when most organogenesis is taking place."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "Which of the following is not considered a teratogen?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Zika virus"
+        },
+        {
+          "label": "b",
+          "text": "Toxoplasmosis"
+        },
+        {
+          "label": "c",
+          "text": "Hyperthermia"
+        },
+        {
+          "label": "d",
+          "text": "Acetaminophen"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Zika virus is considered the newest addition to “TORCH” infections. Toxoplasmosis is a “TORCH” infection. Hyperthermia can result in spontaneous abortion, neural tube defects, cardiovascular defects, and abdominal wall defects. Acetaminophen is generally considered safe in pregnancy and not a teratogen."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a contraindication to labour?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Active genital herpes"
+        },
+        {
+          "label": "b",
+          "text": "Placenta previa"
+        },
+        {
+          "label": "c",
+          "text": "Unfavourable pelvic architecture"
+        },
+        {
+          "label": "d",
+          "text": "Abnormal fetal lie"
+        },
+        {
+          "label": "e",
+          "text": "Significant prior uterine surgery"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Passage is one of the 4 P’s that influence labour and delivery and refers to the bony pelvis of the mother. Even if the maternal pelvic architecture is not considered favourable for childbirth, this is not a contraindication to labour."
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "Prior to normal labour, which of the following occurs?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The cervix becomes thicker and stronger to help push out the baby – this is known as cervical effacement"
+        },
+        {
+          "label": "b",
+          "text": "Braxton-Hicks contractions occur and indicate the onset of labour"
+        },
+        {
+          "label": "c",
+          "text": "The fetal heart rate begins to undergo regular decelerations"
+        },
+        {
+          "label": "d",
+          "text": "The fetal head becomes fixed in the pelvis – this is known as engagement"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "In primiparous women, engagement occurs approximately 2 weeks prior to labour. Cervical effacement describes cervical thinning and softening. Braxton-Hicks contractions do not indicate the onset of labour as they typically begin around the 28th week. The fetal heart rate is monitored during labour and should not undergo regular decelerations in normal labour."
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "During the 1st stage of labour, which of the following is NOT a consideration?",
+      "options": [
+        {
+          "label": "a",
+          "text": "More frequent checks of cervical effacement and dilatation improve outcomes"
+        },
+        {
+          "label": "b",
+          "text": "A score of +2 for assessing fetal station indicates the head of the fetus is in the vagina"
+        },
+        {
+          "label": "c",
+          "text": "A fully dilated cervix is approximately 10 cm in diameter"
+        },
+        {
+          "label": "d",
+          "text": "A vaginal exam can assess fetal position, with an anterior occiput being the most favourable for delivery"
+        },
+        {
+          "label": "e",
+          "text": "A fetus with breech presentation may or may not be delivered vaginally"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "More frequent cervical checks increase the likelihood of chorioamnionitis. The remaining answers are true. Some breech presentations can be delivered vaginally, like extended/frank breech, while others are unfavourable, like footling breech."
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "Which of the following regarding the 2nd stage of labour is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "This process usually occurs more rapidly in multiparous women compared to primiparous women"
+        },
+        {
+          "label": "b",
+          "text": "Cardinal movements describe the series of movements the baby undergoes during delivery"
+        },
+        {
+          "label": "c",
+          "text": "Placental delivery usually occurs within the first 30 minutes"
+        },
+        {
+          "label": "d",
+          "text": "A pelvic xray is not an adequate test to determine pelvic adequacy for delivery"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The placenta is delivered during the 3rd stage of labour, usually 2-30 minutes after delivery of the fetus."
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a contraindication for maternal discharge after delivery?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fever"
+        },
+        {
+          "label": "b",
+          "text": "Labour dystocia"
+        },
+        {
+          "label": "c",
+          "text": "Postpartum hemorrhage"
+        },
+        {
+          "label": "d",
+          "text": "Pre-eclampsia"
+        },
+        {
+          "label": "e",
+          "text": "Unresolved gestational hypertension"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Labour dystocia describes abnormally slow progress through labour. It is not a life-threatening or concerning finding after delivery, unlike the other conditions."
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "Which of the following is correct regarding postpartum care?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Contraception is not required after birth, particularly if a woman is breastfeeding"
+        },
+        {
+          "label": "b",
+          "text": "Per rectum suppositories can help with postpartum hemorrhoids and constipation in 4th degree tears"
+        },
+        {
+          "label": "c",
+          "text": "An initial breastfeed of golden yellow milk is a common sign of mastitis"
+        },
+        {
+          "label": "d",
+          "text": "Sitz baths are recommended for perineal tears"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Contraception should begin/resume at week 6 postpartum or whenever sexual activity resumes, and lactational amenorrhea from breastfeeding is not fully reliable. Per rectum medications should be avoided in 3rd and 4th degree tears. Golden yellow milk is colostrum, which is produced exclusively in the first several days of breastfeeding postpartum, contains many different immune factors, and is not a sign of mastitis."
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "prompt": "Pam, one of your patients, successfully delivered a healthy baby girl, Cece, by spontaneous vaginal delivery 2 days ago. There were no complications and she is ready to be discharged. While her husband Jim searches for their car, she tells you that she already feels drained as she did not sleep well last night. Which of the following statements is NOT true?",
+      "options": [
+        {
+          "label": "a",
+          "text": "She may experience periods of weepiness and irritability in addition to her insomnia over the next few days, known as the “blues”"
+        },
+        {
+          "label": "b",
+          "text": "She can minimize her sleep disturbances from feedings throughout the night by reducing her exposure to bright lights"
+        },
+        {
+          "label": "c",
+          "text": "Having a baby is a significant life event and is it is normal to experience an adjustment period that may affect her sleep"
+        },
+        {
+          "label": "d",
+          "text": "She should seek help if the “blues” persist beyond 2 weeks as she may have postpartum depression"
+        },
+        {
+          "label": "e",
+          "text": "After delivery, she will be in a hyperestrogenic state that may be contributing to her insomnia"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "After delivery, Pam will be in a hypoestrogenic state, not hyperestrogenic, that will persist if she is breastfeeding."
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a responsibility that family physicians with extra training in obstetrical care provide?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Provide antenatal, intrapartum, and postpartum care for low-risk pregnancies"
+        },
+        {
+          "label": "b",
+          "text": "Administer oxytocin as necessarily during labour"
+        },
+        {
+          "label": "c",
+          "text": "Provide care for patients with all degrees of postpartum hemorrhage"
+        },
+        {
+          "label": "d",
+          "text": "Perform vacuum-assisted vaginal deliveries"
+        },
+        {
+          "label": "e",
+          "text": "Provide routine maternal and neonatal care"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Cases of severe postpartum hemorrhage should be referred to and cared for by obstetricians and would not be a responsibility of family physicians."
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "prompt": "Which of the following statements about midwifery is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A consultation with a midwife tends to run longer than with physicians, which allows them to provide more holistic care"
+        },
+        {
+          "label": "b",
+          "text": "Midwifery availability and regulation varies across Canada"
+        },
+        {
+          "label": "c",
+          "text": "All midwives can provide support with medications like epidurals and oxytocin"
+        },
+        {
+          "label": "d",
+          "text": "The midwifery model requires midwives to provide informed choice rather than informed consent"
+        },
+        {
+          "label": "e",
+          "text": "One benefit to midwives is that they may provide home visits to patients"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Midwife scope of practice varies across Canada and the world and depends on the midwife’s location, training, and regulation."
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "prompt": "Which of the following regarding lactation and milk let-down regulation is true?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Nipple stimulation inhibits the release of oxytocin"
+        },
+        {
+          "label": "b",
+          "text": "The posterior pituitary releases prolactin to facilitate milk let-down"
+        },
+        {
+          "label": "c",
+          "text": "The anterior pituitary releases oxytocin, which drives lactogenesis"
+        },
+        {
+          "label": "d",
+          "text": "Dopamine levels decrease in response to nipple stimulation and milk removal, which drives an increase in prolactin"
+        },
+        {
+          "label": "e",
+          "text": "Placental delivery drives an increase in progesterone, which facilitates lactogenesis"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Nipple stimulation increases oxytocin release. The posterior pituitary releases oxytocin to facilitate milk let-down. The anterior pituitary releases prolactin, which drives lactogenesis. Placental delivery causes a decrease in progesterone, which drives an increase in prolactin and lactogenesis."
+      }
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "prompt": "Rachel has recently become a mother to a healthy baby girl, Emma. Although the pregnancy was unexpected, her partner Ross is ecstatic, despite the 3% chance of pregnancy with their contraceptive of choice. Ross insists that Emma be breastfed, although Rachel is unsure. Which of the follow statements regarding breastfeeding is FALSE and should not be used to help Rachel decide to breastfeed?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Breastfeeding provides a host of long-term health benefits to both Emma and Rachel"
+        },
+        {
+          "label": "b",
+          "text": "Breastmilk is a sustainable, waste-free, environmentally-friendly practice"
+        },
+        {
+          "label": "c",
+          "text": "Breastmilk is the recommended exclusive nutrition for the first 6 months of life"
+        },
+        {
+          "label": "d",
+          "text": "Breastfeeding is a reliable method of contraception"
+        },
+        {
+          "label": "e",
+          "text": "Colostrum will provide Emma passive immunity to help prevent infections"
+        },
+        {
+          "label": "f",
+          "text": "Breastfeeding can help accelerate Rachel’s recovery from childbirth"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Breastfeeding can prolong postpartum anovulation and provide some contraceptive benefit but should not be relied on. Contraception should be implemented 6 weeks postpartum or whenever sexual activity resumes."
+      }
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "prompt": "Which of the following contraceptives should NOT be used by a woman who is breastfeeding and in a heterosexual relationship to avoid future pregnancy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Depo-Provera"
+        },
+        {
+          "label": "b",
+          "text": "Progesterone-only pill"
+        },
+        {
+          "label": "c",
+          "text": "Condoms"
+        },
+        {
+          "label": "d",
+          "text": "Mirena IUD"
+        },
+        {
+          "label": "e",
+          "text": "Combined oral contraceptive"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Estrogen-containing contraceptives should be avoided in breastfeeding as it decreases the quantity and quality of milk production."
+      }
+    },
+    {
+      "id": 31,
+      "type": "single_choice",
+      "prompt": "In the Newborn Resuscitation Program, what is the primary resuscitation intervention of focus?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Oxygenation—Give free flow O2"
+        },
+        {
+          "label": "b",
+          "text": "Circulation—perform CPR"
+        },
+        {
+          "label": "c",
+          "text": "Airway obstruction—always suction the airway"
+        },
+        {
+          "label": "d",
+          "text": "Ventilation—give positive pressure ventilation"
+        },
+        {
+          "label": "e",
+          "text": "Hypovolemia—give fluid bolus"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Ventilation is the most important focus of NRP. Of all babies born, 10% will need some resuscitation, and of those, 90% will do well with effective positive pressure ventilation."
+      }
+    },
+    {
+      "id": 32,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding normal cardiovascular and pulmonary adaptation is true?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Surfactant is made in the lungs to increase surface tension within the alveoli"
+        },
+        {
+          "label": "b",
+          "text": "The foramen ovale closes after birth due to increased pulmonary vascular resistance"
+        },
+        {
+          "label": "c",
+          "text": "Lung fluid reabsorption in the neonate is facilitated by ENaC channels within the alveoli"
+        },
+        {
+          "label": "d",
+          "text": "The ductus arteriosus serves to move deoxygenated blood from the right side of the heart to the systemic circulation during fetal development"
+        },
+        {
+          "label": "e",
+          "text": "Normal blood oxygen saturation immediately at birth should be 95+%"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Surfactant is made in the lungs to decrease surface tension within the alveoli to prevent their collapse. The foramen ovale closes after birth due to decreased pulmonary vascular resistance. The ductus arteriosus serves to move nutrient-rich oxygenated blood from the pulmonary trunk to the aorta during development, allowing the blood to bypass the non-functioning lungs. Normal blood oxygen saturation immediately at birth is 60-65% and normalizes after ~10 minutes."
+      }
+    },
+    {
+      "id": 33,
+      "type": "single_choice",
+      "prompt": "Which of the following is FALSE regarding common respiratory problems in neonates?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Findings on chest x-ray for neonates with meconium aspiration include normal lung volume and fluid extending between the lobes of the lung"
+        },
+        {
+          "label": "b",
+          "text": "Preterm infants are at greater risk of respiratory distress syndrome due to immaturity of surfactant production"
+        },
+        {
+          "label": "c",
+          "text": "Pneumomediastinum can be identified on a chest x-ray, lateral view"
+        },
+        {
+          "label": "d",
+          "text": "Transient tachypnea of the newborn is more common in babies delivered by Caesarian section without preceding labour"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "A chest x-ray in a neonate with normal lung volume and fluid extending between the lobes of the lung describes the x-ray findings of a neonate with transient tachypnea of the newborn, not meconium aspiration."
+      }
+    },
+    {
+      "id": 34,
+      "type": "single_choice",
+      "prompt": "Neonatal sepsis risk factors include all of the following except:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Preterm labour"
+        },
+        {
+          "label": "b",
+          "text": "Meconium aspiration"
+        },
+        {
+          "label": "c",
+          "text": "Fetal heart rate accelerations"
+        },
+        {
+          "label": "d",
+          "text": "Chorioamnionitis"
+        },
+        {
+          "label": "e",
+          "text": "Untreated maternal GBS"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Fetal decelerations are a risk factor for neonatal sepsis, not accelerations."
+      }
+    },
+    {
+      "id": 35,
+      "type": "single_choice",
+      "prompt": "Management of neonatal sepsis includes all of the following except:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Perform blood, urine, and CSF cultures to identify the causative agent"
+        },
+        {
+          "label": "b",
+          "text": "Chest x-ray"
+        },
+        {
+          "label": "c",
+          "text": "Broad-spectrum antibiotic use, including antivirals if HSV is suspected"
+        },
+        {
+          "label": "d",
+          "text": "Provide hemodynamic and ventilation support as necessary"
+        },
+        {
+          "label": "e",
+          "text": "Begin antibiotics once culture and sensitivity results are available"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Broad-spectrum antibiotics should be initiated immediately if neonatal sepsis is suspected, and can be adjusted after culture and sensitivity results are available."
+      }
+    },
+    {
+      "id": 36,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT one of the 4 P’s that influence labour and delivery?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Passage"
+        },
+        {
+          "label": "b",
+          "text": "Power"
+        },
+        {
+          "label": "c",
+          "text": "Passenger"
+        },
+        {
+          "label": "d",
+          "text": "Prematurity"
+        },
+        {
+          "label": "e",
+          "text": "Psyche"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Prematurity is not one of the 4 P’s. A premature baby is likely a smaller Passenger, which is one the of 4 P’s."
+      }
+    },
+    {
+      "id": 37,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT true regarding induction of birth?",
+      "options": [
+        {
+          "label": "a",
+          "text": "It is acceptable to induce birth when a neonate has surpassed its expected delivery date"
+        },
+        {
+          "label": "b",
+          "text": "The cervix can be ripened using medical or mechanical means as a method of induction"
+        },
+        {
+          "label": "c",
+          "text": "Labour may be induced by artificially rupturing the membranes"
+        },
+        {
+          "label": "d",
+          "text": "In cases of maternal cardiac disease it is best to delay induction"
+        },
+        {
+          "label": "e",
+          "text": "Contractions can be initiated using IV oxytocin"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Maternal cardiac disease is an indication for induction."
+      }
+    },
+    {
+      "id": 38,
+      "type": "single_choice",
+      "prompt": "Which of the following regarding operative vaginal delivery is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fetal malpresentation often requires rotation and is an indication for operative vaginal delivery"
+        },
+        {
+          "label": "b",
+          "text": "Operative vaginal delivery can be safely performed in cases of incomplete cervical dilation"
+        },
+        {
+          "label": "c",
+          "text": "Atypical and abnormal fetal heart tracings are the most common indication for performing an operative vaginal delivery"
+        },
+        {
+          "label": "d",
+          "text": "Methods of operative vaginal delivery include forceps use and vacuum assistance"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Incomplete cervical dilation is an absolute contraindication for operative vaginal delivery."
+      }
+    },
+    {
+      "id": 39,
+      "type": "single_choice",
+      "prompt": "Which of the following regarding postpartum hemorrhage is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "One potential cause of postpartum hemorrhage is retained products"
+        },
+        {
+          "label": "b",
+          "text": "Women with pre-existing coagulopathy, like von Willebrand disease, are at a greater risk of postpartum hemorrhage"
+        },
+        {
+          "label": "c",
+          "text": "Poor lactation is a possible complication of postpartum hemorrhage"
+        },
+        {
+          "label": "d",
+          "text": "Prolonged labour is a protective factor against postpartum hemorrhage as it increases time for hemostasis"
+        },
+        {
+          "label": "e",
+          "text": "Uterine inversion is a serious condition where the uterus turns inside out and is a potential cause of postpartum hemorrhage"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Prolonged labour can cause uterine muscle exhaustion and is a Tone cause of postpartum hemorrhage. Postpartum hemorrhage causes fall under the 4 T’s: Tone, Tissue, Trauma, and Thrombin. Retained products is a Tissue cause of postpartum hemorrhage. von Willebrand disease is a Thrombin cause of postpartum hemorrhage. Poor lactation following postpartum hemorrhage may represent Sheehan’s syndrome where the pituitary gland infarcts and impacts prolactin-producing cells. Uterine inversion is a Trauma cause of postpartum hemorrhage."
+      }
+    }
+  ]
+}

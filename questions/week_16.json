@@ -1,0 +1,597 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "An 71-year-old woman walks into your family practice office, complaining of a headache that started recently and scalp tenderness when she combs her hair. On fundoscopy you notice a swollen optic disc and flame hemorrhages. What is the most likely immediate treatment?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Refer to ophthalmology intra-ocular injection of anti-VEGF antibodies."
+        },
+        {
+          "label": "b",
+          "text": "Prescribe NSAIDs, provide reassurance and advise patient for better sleep hygiene"
+        },
+        {
+          "label": "c",
+          "text": "Start high dose steroids"
+        },
+        {
+          "label": "d",
+          "text": "Refer to ophthalmology for laser therapy"
+        },
+        {
+          "label": "e",
+          "text": "Refer to optometry for a full eye exam"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "High clinical suspicion of giant cell ateritis, immediate high dose steroid helps prevent vision loss."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "A 2-year old boy is brought into your family practice clinic for the well baby visit. You noticed the following image when checking his eyes with the ophthalmoscope. What is the most appropriate next step? i. Make an urgent referral to ophthalmology ii. Start topical steroid eyedrops immediately iii. Ask parents for previous close-up shots of the eyes for comparison iv. Refer to optometry for a more extensive eye exam v. Provide parents with reassurance that this is a self limiting condition and their son will grow out of it vi. Try ophthalmoscope from an different angle and reassess",
+      "media": {
+        "type": "image",
+        "url": "./images/w16q2.jpg"
+      },
+      "options": [
+        {
+          "label": "a",
+          "text": "i, ii, vi"
+        },
+        {
+          "label": "b",
+          "text": "i, iii"
+        },
+        {
+          "label": "c",
+          "text": "ii, iv, v"
+        },
+        {
+          "label": "d",
+          "text": "v, vi"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The photo depicts leukocoria in the right eye and it’s critical to rule out retinoblastoma, which warrants an urgent referral to ophthalmology. Topical steroids are better to be reserved for opthamologists to prescribe; past photos are helpful to get a sense of the disease progression; this is not physiological leukocoria, which typically seen when light source is 15° off axis."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following statement is TRUE for presbycusis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "It is the most common conductive hearing loss in elderly"
+        },
+        {
+          "label": "b",
+          "text": "The loss is most common at higher frequency"
+        },
+        {
+          "label": "c",
+          "text": "It’s reversible with early treatment"
+        },
+        {
+          "label": "d",
+          "text": "Weber test will lateralize to the affected ear"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Presbycusis is a form of sensorineural hearing loss and typically affects both ears. It’s progressive and irreversible. Conductive hearing losses are typically lateralized to the affected ear."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "A 39-year old male complains of hearing loss. He is a construction worker and is exposed to loud noises daily. You suspect that he may have noise-induced hearing loss. Which of the following findings is the most consistent with this diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "An air-bone gap on audiometric testing"
+        },
+        {
+          "label": "b",
+          "text": "Bone conduction greater than air conduction bilaterally when performing a Rinne test"
+        },
+        {
+          "label": "c",
+          "text": "A characteristic 4000 Hz notch on an audiogram"
+        },
+        {
+          "label": "d",
+          "text": "Symptoms of vertigo and aural fullness"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Noise-induced hearing loss is sensineural and both air-bone gap on audiometry and bone > air on Rinne test suggest conductive hearing loss. Hearing loss plus vertigo symptoms would suggest Meniere’s Disease."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "A 36-year-old male presents to your family practice with a concern of dizziness. He says the episodes last for about 30 seconds, are typically triggered when he “moves too fast,” and when they occur it feels like the room is “spinning around him.” He denies any changes in hearing. He does not take any medications and his past medical history is unremarkable. Given the most likely diagnosis, what treatment would you suggest?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reassurance, vestibular rehabilitation exercises, no pharmacologic treatment"
+        },
+        {
+          "label": "b",
+          "text": "Reassurance, rest, and symptomatic treatment (e.g. gravol)"
+        },
+        {
+          "label": "c",
+          "text": "Smoking cessation, reduced-salt diet, diuretics, anti-nausea drugs"
+        },
+        {
+          "label": "d",
+          "text": "Reassurance, NSAIDs, beta-blockers, calcium-channel blockers, tranquilizers, 5-HT agonists"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The stem suggests BPPV and it can be treated with particle reposition maneuvers, which are considered as a type of vestibular rehabilitation exercise. B describes symptomatic treatment for vestibular neuronitis. C describes treatment options for Meniere’s Diseases. D describes treamnt for migrainous vertigo."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following is an example of a cause of death?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cardiac arrhythmia"
+        },
+        {
+          "label": "b",
+          "text": "Septic shock"
+        },
+        {
+          "label": "c",
+          "text": "Suicide"
+        },
+        {
+          "label": "d",
+          "text": "Myocardial infarction"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Septic shock & cardiac arrhythmia are MECHANISMS of death, and suicide is a MANNER of death."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A 25-year-old patient presents to your office with right-sided painless vision loss and a left RAPD. Upon examination, you find that their optic disc appears to be swollen. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reassure the patient it will resolve on its own"
+        },
+        {
+          "label": "b",
+          "text": "Consult with neuro-ophthalmology for management of optic neuritis"
+        },
+        {
+          "label": "c",
+          "text": "Consult with neurology to investigate underlying Multiple Sclerosis"
+        },
+        {
+          "label": "d",
+          "text": "B and C"
+        },
+        {
+          "label": "e",
+          "text": "B only"
+        },
+        {
+          "label": "f",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Optic neuritis is one of the symptoms of MS. For a patient of this age, a referral to neurology to rule out MS is indicated"
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "A 55-year-old patient presents to your office to follow up on an injury after a recent car accident. The patient tells you that they’ve been having trouble driving at night often seeing glares and haloes around lights. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cataracts"
+        },
+        {
+          "label": "b",
+          "text": "Glaucoma"
+        },
+        {
+          "label": "c",
+          "text": "Vitreous hemorrhage"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "These symptoms are consistent with cataracts"
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "You are on your ER rotation and a 20-year-old patient presents with significant eye discharge that started in the last 10 hours. On history, the patient tells you she had sexual intercourse 2 days ago. She did not use any protection methods. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anterior uveitis"
+        },
+        {
+          "label": "b",
+          "text": "Viral conjunctivitis"
+        },
+        {
+          "label": "c",
+          "text": "Gonococcal conjunctivitis"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Given the patient’s history and symptoms, this is consistent with a gonococcal conjunctivitis"
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "A patient presents to your office with red eye, worsening vision, ocular pain, and photophobia. On exam you find that their cornea looks hazy. The patient tells you that they recently replaced their glasses with contact lenses. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Refer the patient to ophthalmology immediately"
+        },
+        {
+          "label": "b",
+          "text": "Advise the patient to continue wearing their lenses"
+        },
+        {
+          "label": "c",
+          "text": "Refer the patient to an optometrist"
+        },
+        {
+          "label": "d",
+          "text": "Start the patient on steroid medication"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "These symptoms are consistent with contact lens associated keratitis. A referral to ophthalmology is indicated since this can lead to permanent vision loss"
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "A patient presents to your office with hearing loss that started 2 days ago. The patient also complains of fullness in their ears and feeling like the world around them is “spinning”. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Order an MRI to rule out acoustic neuroma"
+        },
+        {
+          "label": "b",
+          "text": "Refer the patient to ENT urgently"
+        },
+        {
+          "label": "c",
+          "text": "Watchful waiting"
+        },
+        {
+          "label": "d",
+          "text": "Both A and B"
+        },
+        {
+          "label": "e",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "This is a case of sudden SNHL which is an otologic emergency requiring referral to ENT and an MRI to rule out acoustic neuroma"
+      }
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is associated with ototoxicity? Pick all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "b",
+          "text": "Loop Diuretics"
+        },
+        {
+          "label": "c",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "d",
+          "text": "A and C only"
+        },
+        {
+          "label": "e",
+          "text": "A, B and C"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "e"
+        ],
+        "explanation": "All of these agents are ototoxic"
+      }
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is characteristic of benign positional paroxysmal vertigo (BPPV)? Pick all that apply",
+      "options": [
+        {
+          "label": "a",
+          "text": "Brief episodes of vertigo"
+        },
+        {
+          "label": "b",
+          "text": "Motion sensitivity"
+        },
+        {
+          "label": "c",
+          "text": "Vision loss"
+        },
+        {
+          "label": "d",
+          "text": "A and B"
+        },
+        {
+          "label": "e",
+          "text": "A, B and C"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "d"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "What is the best course of management for a patient presenting with the symptoms in Question 13?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Referral to ENT"
+        },
+        {
+          "label": "b",
+          "text": "Labyrinthectomy"
+        },
+        {
+          "label": "c",
+          "text": "Particle repositioning"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Particle repositioning is the first course of management for patients with BPPV"
+      }
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is a red flag for headaches? Pick all that apply",
+      "options": [
+        {
+          "label": "a",
+          "text": "Worse when standing up"
+        },
+        {
+          "label": "b",
+          "text": "Age over 60"
+        },
+        {
+          "label": "c",
+          "text": "Associated with systemic symptoms (e.g. fever, chills)"
+        },
+        {
+          "label": "d",
+          "text": "Chronic or insidious onset"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "b",
+          "c"
+        ],
+        "explanation": "Headaches that are worse when supine rather than standing up are a red flag due to increased ICP. Acute onset rather than insidious onset headaches are also red flags"
+      }
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is an example of a migraine aura? Pick all that apply",
+      "options": [
+        {
+          "label": "a",
+          "text": "Coma"
+        },
+        {
+          "label": "b",
+          "text": "Transient loss of vision"
+        },
+        {
+          "label": "c",
+          "text": "Numbness and tingling"
+        },
+        {
+          "label": "d",
+          "text": "Fever"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "b",
+          "c"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "In the event of patient death, which of the following is an indication to contact the coroner?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Maternal deaths"
+        },
+        {
+          "label": "b",
+          "text": "Family concerns about patient care"
+        },
+        {
+          "label": "c",
+          "text": "Cancer deaths"
+        },
+        {
+          "label": "d",
+          "text": "A and B only"
+        },
+        {
+          "label": "e",
+          "text": "A, B and C"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "A patient dying of cancer is not in and of itself an indication to contact the coroner"
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "Which of the following is true about MAID?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Patients under 18 years old are eligible for MAID under the present law in Canada"
+        },
+        {
+          "label": "b",
+          "text": "A patient needs to give consent to MAID once during the process"
+        },
+        {
+          "label": "c",
+          "text": "Patient eligibility needs to be certified by 2 independent physicians or nurse practitioners"
+        },
+        {
+          "label": "d",
+          "text": "MAID must occur in a hospital"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Which of the following is associated with a white light reflex (leukocoria) in a child?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cataract"
+        },
+        {
+          "label": "b",
+          "text": "Retinoblastoma"
+        },
+        {
+          "label": "c",
+          "text": "Retinopathy of prematurity"
+        },
+        {
+          "label": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is an indication for referral to a pediatric ophthalmologist? Pick all that apply",
+      "options": [
+        {
+          "label": "a",
+          "text": "Nystagmus"
+        },
+        {
+          "label": "b",
+          "text": "Constant deviation"
+        },
+        {
+          "label": "c",
+          "text": "Occasional deviation for a month"
+        },
+        {
+          "label": "d",
+          "text": "A and B only"
+        },
+        {
+          "label": "e",
+          "text": "A, B and C"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "d"
+        ],
+        "explanation": "A referral to an ophthalmologist is indicated if occasional deviation lasts beyond 3-4 months"
+      }
+    }
+  ]
+}

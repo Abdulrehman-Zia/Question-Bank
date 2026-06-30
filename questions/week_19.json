@@ -1,0 +1,423 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which one of the following is a hallmark of refeeding syndrome?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hypophosphatemia"
+        },
+        {
+          "label": "b",
+          "text": "Hypomagnesemia"
+        },
+        {
+          "label": "c",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "d",
+          "text": "Diuresis"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which one of the following is false regarding eating disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Eating disorders can involve behaviors in both food intake and output"
+        },
+        {
+          "label": "b",
+          "text": "Some eating disorders have comorbidities with intellectual disabilities"
+        },
+        {
+          "label": "c",
+          "text": "Anorexia nervosa is associated with heat intolerance and diarrhea"
+        },
+        {
+          "label": "d",
+          "text": "Heritability and family history are risk factors for many eating disorders"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Anorexia nervosa is associated with cold intolerance and constipation."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Your 7 year old patient was brought into your clinic by their father for having a limp. As you examine the patient, you notice multiple bruises along their legs. You ask the father about the bruises and he tells you it’s none of your business and he will sue you if you report the findings to CAS. Should you report to CAS?",
+      "options": [
+        {
+          "label": "a",
+          "text": "No, at least not yet because you will face prosecution if your suspicions were eventually proved wrong"
+        },
+        {
+          "label": "b",
+          "text": "No, you can not report child abuse against the parents/guardian’s will"
+        },
+        {
+          "label": "c",
+          "text": "Yes, any suspected child abuse should be reported and you will be granted immunity from civil action as long as the report is not made \"maliciously or without reasonable cause"
+        },
+        {
+          "label": "d",
+          "text": "Yes, because you are 100% certain that this is a child abuse case and the father will not win if he sued you"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 4,
+      "type": "ordering",
+      "prompt": "For a child with Indigenous heritage in need of protection from child abuse, rank the placement of the child in order of priority:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Another Indigenous family"
+        },
+        {
+          "label": "b",
+          "text": "A member of the child's band or Indigenous community"
+        },
+        {
+          "label": "c",
+          "text": "A member of the child's extended family"
+        }
+      ],
+      "answer": {
+        "order": [
+          "c",
+          "b",
+          "a"
+        ],
+        "explanation": "C, B, A. According to the Child and Family Services Act."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "As a third year medical student on your psychiatry rotation, you are asked to assess a new patient. The patient tells you that they discovered 2 years ago that their cat is actually a tiny alien in disguise. They also state that they can hear their cat communicating with their alien friends through a walkie talkie every night. They also report that there were weeks where they felt very energetic and invincible and then they will fall into a depressive phase. How would you differentiate between a potential bipolar disorder with psychosis versus schizoaffective disorder in this case?",
+      "options": [
+        {
+          "label": "a",
+          "text": "If psychotic symptoms are present outside the major mood episodes for more than 2 weeks, it is schizoaffective disorder"
+        },
+        {
+          "label": "b",
+          "text": "If psychotic symptoms are present outside the major mood episodes for more than 2 weeks, it is bipolar disorder with psychosis"
+        },
+        {
+          "label": "c",
+          "text": "If psychotic symptoms were present during the mania episode, it is schizoaffective disorder"
+        },
+        {
+          "label": "d",
+          "text": "If the psychotic symptoms were present during the depressive episode, it is bipolar disorder with psychosis"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following patients with schizophrenia will have the better prognosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A patient who’s first psychotic episode happened at 15 years old and they use cannabis"
+        },
+        {
+          "label": "b",
+          "text": "A married patient who suddenly developed psychotic episodes at 55"
+        },
+        {
+          "label": "c",
+          "text": "A patient with dementia who gradually developed symptoms of psychosis over 2 years"
+        },
+        {
+          "label": "d",
+          "text": "A patient with only negative symptoms"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Positive prognostic factors of schizophrenia include: late onset, acute onset, good premorbid functioning, married, exclusively positive symptoms. Negative prognostic factors of schizophrenia include: early onset, insidious onset, poor premorbid functioning, single/divorced/widowed, negative symptoms."
+      }
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "What is responsible for the negative and positive symptoms of psychosis (multiple correct answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Negative symptoms are the result of a lack of dopamine in the mesocortical pathway"
+        },
+        {
+          "label": "b",
+          "text": "Positive symptoms are a result of excess dopamine in the mesolimbic pathway"
+        },
+        {
+          "label": "c",
+          "text": "Negative symptoms are the result of a lack of dopamine in the mesolimbic pathway"
+        },
+        {
+          "label": "d",
+          "text": "Positive symptoms are the result of a excess dopamine in the mesocortical pathway"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "What are the differences between first and second generation antipsychotics (multiple correct answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Clozapine is more effective than haloperidol, but there is a risk of agranulocytosis with clozapine use"
+        },
+        {
+          "label": "b",
+          "text": "Haloperidol has higher risks of producing extrapyramidal symptoms and low blood pressure compared to olanzapine"
+        },
+        {
+          "label": "c",
+          "text": "Quetiapine has a higher risk of producing metabolic and cardiovascular side effects compared to first generation antipsychotics."
+        },
+        {
+          "label": "d",
+          "text": "Clozapine has a higher potency compared to haloperidol"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following would NOT be considered an important part of informed consent?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The healthcare provider should explain the most common and serious side effects of the procedure"
+        },
+        {
+          "label": "b",
+          "text": "The healthcare provider must explain the consequences of no treatment"
+        },
+        {
+          "label": "c",
+          "text": "Substitute decision makers should base their choice of consent off the patient’s prior wishes"
+        },
+        {
+          "label": "d",
+          "text": "The healthcare provider must provide information on every detail of the procedure being consented to"
+        },
+        {
+          "label": "e",
+          "text": "The patient must be able to understand the information they are being provided and appreciate the consequences of their decision"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "When obtaining informed consent, healthcare providers must provide the patient with information that a reasonable person would want to know. This would not include explaining every detail of a procedure you are seeking consent to provide."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding involuntary admission for psychiatric assessment is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Form 1 is valid for 7 days and can detain a patient for up to 72 hours"
+        },
+        {
+          "label": "b",
+          "text": "A person must have a mental disorder and pose imminent danger to themselves or others to meet the criteria of Form 1"
+        },
+        {
+          "label": "c",
+          "text": "Form 1 can only be completed by a psychiatrist"
+        },
+        {
+          "label": "d",
+          "text": "Patients have the right to contest a Form"
+        },
+        {
+          "label": "e",
+          "text": "Form 3 must be completed by a different physician than the physician who completed Form 1"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Form 1 (Application for Psychiatric Assessment) can be completed by any physician if they feel the criteria have been met."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "JB was once a highly successful businessman and stock broker. His business empire came crashing down for many reasons, including money laundering and securities fraud. While operating his brokerage house JB developed a substance abuse disorder and was abusing multiple substances, including cocaine, alcohol, and “Ludes.” Which of the following statements would NOT meet criteria for his substance abuse disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "JB required greater and greater amounts of substance to achieve the same high"
+        },
+        {
+          "label": "b",
+          "text": "JB used substances while operating motor vehicles"
+        },
+        {
+          "label": "c",
+          "text": "Between uses, JB experienced headaches, cravings, sweats, and chills, among other symptoms"
+        },
+        {
+          "label": "d",
+          "text": "JB’s social and occupational activities were maintained while he was abusing substances"
+        },
+        {
+          "label": "e",
+          "text": "JB had only ever intended to try “Ludes” once but began using them on a regular basis"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "JB meets many of the criteria for a substance use disorder. However, one criteria used for diagnosis of a substance use disorder is reduced or given up social, occupational, or recreational activities due to substance use. JB’s ability to maintain his involvement in social and occupational activities would not meet this criteria. However, JB still meets many other criteria for a substance use disorder, and a diagnosis of substance use disorder would be appropriate. Requiring increased amounts of substance to achieve the same high is tolerance. Substance use in situations where it is physically hazardous, like driving, is a criteria for substance use disorder. The symptoms described by JB are likely withdrawal symptoms. Substance use taken in larger amounts or over a longer period of time than intended is a criteria for substance use disorder."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "BR, a 22 year old male, is a new patient of yours. When you ask him about his alcohol consumption habits, he admits that he drinks more than he probably should. His AUDIT score flags him for hazardous drinking. He also explains that although he has not tried to reduce drinking, he occasionally feels fidgety, itchy, sweaty, and has a mild-moderate headache. Which of the following would NOT be a part of your next steps?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Assess him for withdrawal symptoms using the Clinical Institute Withdrawal Assessment of Alcohol Scale (CIWA) and consider starting him on thiamine, a multivitamin, and folic acid"
+        },
+        {
+          "label": "b",
+          "text": "Advise him of his AUDIT screening result and provide advice to reduce or stop drinking"
+        },
+        {
+          "label": "c",
+          "text": "Determine his Stages of Change stage to help move him to the next step"
+        },
+        {
+          "label": "d",
+          "text": "Refer him to a concurrent disorders program"
+        },
+        {
+          "label": "e",
+          "text": "Explore his ambivalence towards reducing his drinking"
+        },
+        {
+          "label": "f",
+          "text": "Assess him for any underlying psychiatric comorbidities that may be causing or exacerbating his alcohol use"
+        },
+        {
+          "label": "g",
+          "text": "Ask him about changes in his mood, functioning, and dangerous activity associated with alcohol use"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Referral to a concurrent disorders program would not be indicated at this stage. We have not yet determined that BR has a concurrent psychiatric disorder, nor have we determined the severity of the psychiatric disorder and the severity of his alcohol abuse disorder. Assessing BR with the CIWA is a good place to start since he endorses alcohol withdrawal-like symptoms. If he meets criteria, starting him on thiamine, a multivitamin, and folic acid will be beneficial. He may also score high enough to warrant the use of lorazepam or diazepam. Advise him of his AUDIT score to indicate your level of concern, and encourage him to reduce or stop drinking. Explore whether he is in the pre-contemplation or contemplation Stage of Change, since he is aware he drinks more than he should but has not attempted to reduce his drinking; this will help you determine how to move him to the next Stage, whether that is contemplation or preparation. Exploring his ambivalence towards reducing his drinking is a part of Motivational Interviewing, and provides an opportunity to resolve his ambivalence and move him in the right direction, even if he does not have a diagnosis of alcohol abuse disorder. Taking a more detailed history will help you determine if there is a psychiatric disorder that is contributing to or feeding his alcohol abuse, and addressing both will be required. Finally, the first step that should be taken in all cases like this would be to take a more detailed history, with an additional focus on BR’s alcohol-related behaviours in order to determine if he meets diagnostic criteria for a substance use disorder."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding the assessment of concurrent disorders is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Urine toxicology can result in criminal charges if illegal substances are identified"
+        },
+        {
+          "label": "b",
+          "text": "Components of a good patient history include substance use, psychiatric history, and collateral information from other sources if necessary"
+        },
+        {
+          "label": "c",
+          "text": "Substance use disorders are the most common comorbid disorder for people with severe mental illness"
+        },
+        {
+          "label": "d",
+          "text": "Recovery involves empowering patients, improving their functioning, and engaging them with care teams"
+        },
+        {
+          "label": "e",
+          "text": "The effects of substances can often mimic psychiatric disorders"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Patients should be aware that their care is free from criminalization. Urine toxicology is helpful (although not perfectly reliable) to help understand a patient’s drug use. It can also help identify a substance used if the patient does not know what they took."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding different concurrent psychiatric and substance abuse disorders is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anxiety disorders often precede alcohol abuse disorder"
+        },
+        {
+          "label": "b",
+          "text": "Genetics, environmental factors, and psychological factors all influence the development of concurrent factors to varying degrees"
+        },
+        {
+          "label": "c",
+          "text": "Mood disorders nearly always precede the development of a substance use disorder"
+        },
+        {
+          "label": "d",
+          "text": "Tobacco is the most commonly abused substance in individuals with concurrent schizophrenia"
+        },
+        {
+          "label": "e",
+          "text": "Psychiatric disorders and substance abuse disorders are best treated simultaneously"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Mood disorders can lead to the development of a substance use disorder, but substance use disorders may also precede the development of a mood disorder."
+      }
+    }
+  ]
+}

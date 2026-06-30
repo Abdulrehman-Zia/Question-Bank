@@ -1,0 +1,581 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is TRUE regarding UMN vs LMN lesions?",
+      "options": [
+        {
+          "label": "a",
+          "text": "LMN lesions may present with reduced or absent reflexes."
+        },
+        {
+          "label": "b",
+          "text": "LMN lesions may present with hyperreflexia and spasticity."
+        },
+        {
+          "label": "c",
+          "text": "UMN lesions can present with muscle atrophy while LMN lesions can present with normal bulk or atrophy."
+        },
+        {
+          "label": "d",
+          "text": "UMN lesions can present with weak arm extensors and leg flexors."
+        },
+        {
+          "label": "e",
+          "text": "UMN lesions can localize to the brain, brainstem, spinal cord, or anterior horn cells."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "UMN lesions follow a pyramidal pattern of weakness (patients may have their arm flexed to chest and walk with a straight leg (because of stronger arm flexors and leg extensors). Incorrect answers: A – LMN lesions can also present with normal reflexes. B – both are characteristic of UMN lesions. C – UMN lesions present with normal bulk, LMN lesions present with atrophy. E – anterior horn cells are a localization of LMN lesions."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Based on the presentation, identify the cerebral artery territory most likely impacted. Answers may be used more than once.",
+      "options": [
+        {
+          "label": "a",
+          "text": "ACA"
+        },
+        {
+          "label": "b",
+          "text": "MCA"
+        },
+        {
+          "label": "c",
+          "text": "PCA 1) ____ can follow commands but produces nonsensical speech. Severe arm weakness, facial droop. 2) ____ moderate leg weakness, mild arm weakness. 3) ____ Paralysis of left arm, leg and lower face. Complete sensory loss in left arm, leg and face. 4) ____ dizziness, diplopia, contralateral homonymous hemianopsia. 5) ____ neglect of left side, left asomatognosia, left hemianesthesia, left face and arm weakness."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "left MCA. 2) A – ACA (clue is leg > arm weakness). 3) B – MCA, likely internal capsule. 4) C 5) B – right MCA."
+      }
+    },
+    {
+      "id": 3,
+      "type": "matching",
+      "prompt": "Match the following localizations to the patient presentations:",
+      "terms": [
+        {
+          "label": "1",
+          "text": "____ 80 y/o man with numb feet and reduced pin-prick sensation over medial/lateral/posterior leg. Bilateral dorsiflexion and plantarflexion were 4’s, remainder of power is full. Absent ankle reflexes, other reflexes normal.hm"
+        },
+        {
+          "label": "2",
+          "text": "____ 55 y/o man with moderate weakness of bilateral deltoids, triceps, hip flexors and hip abductors. Normal reflexes, tone, and sensation."
+        },
+        {
+          "label": "3",
+          "text": "____ 29 y/o woman with reduced sensation in left face, left arm, and left leg."
+        },
+        {
+          "label": "4",
+          "text": "____ 32 y/o woman with ptosis that gets worse through the day. Normal reflexes and sensation."
+        },
+        {
+          "label": "5",
+          "text": "____ 40 y/o woman with progressive balance difficulties. 4/5 hip flexors, 4/5 knee flexors, and 4/5 dorsiflexors, all bilaterally; other lower and upper extremity power testing was normal. Hyperreflexia at knees and ankles. Reduced pinprick sensation diffusely over leg extending up to umbilicus."
+        },
+        {
+          "label": "6",
+          "text": "____ 45 y/o man with vertigo and headache. Reduced sensation noted in right face, left arm extensors, and left hip flexors."
+        },
+        {
+          "label": "7",
+          "text": "____ 77 y/o woman unable to see objects in left visual field. Loss of sensation in left face and left arm."
+        }
+      ],
+      "choices": [
+        {
+          "label": "A",
+          "text": "cortex"
+        },
+        {
+          "label": "B",
+          "text": "subcortical"
+        },
+        {
+          "label": "C",
+          "text": "brainstem"
+        },
+        {
+          "label": "D",
+          "text": "spinal cord"
+        },
+        {
+          "label": "E",
+          "text": "peripheral nerve"
+        },
+        {
+          "label": "F",
+          "text": "neuromuscular junction"
+        },
+        {
+          "label": "G",
+          "text": "muscle"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "1",
+            "answer_label": "E"
+          },
+          {
+            "term_label": "2",
+            "answer_label": "G"
+          },
+          {
+            "term_label": "3",
+            "answer_label": "B"
+          },
+          {
+            "term_label": "4",
+            "answer_label": "F"
+          },
+          {
+            "term_label": "5",
+            "answer_label": "D"
+          },
+          {
+            "term_label": "6",
+            "answer_label": "C"
+          },
+          {
+            "term_label": "7",
+            "answer_label": "A"
+          }
+        ],
+        "explanation": "1) E peripheral nerve – sensory stocking distribution, distal weakness in foot. 2) G muscle – symmetric, proximal weakness in the shoulder and hip girdle with no sensory involvement. 3) B subcortical sign of pure sensory hemibody affecting face, arm, and leg equally. 4) F NMJ – fatiguing weakness in ocular muscles. 5) D – spinal cord signs of pyramidal weakness with weak leg flexors, hyperreflexia suggesting UMN lesion, and sensory level at T10. 6) C brainstem – vertigo + another symptom, crossed sensory symptoms, pyramidal weakness. 7) A cortical sign of contralateral homonymous hemianopsia and contralateral sensory loss."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "A 25 year-old man is brought to the ER following a high-speed motor vehicle accident. What should you NOT include in your immediate management and investigations?",
+      "options": [
+        {
+          "label": "a",
+          "text": "C-spine precaution and intubation"
+        },
+        {
+          "label": "b",
+          "text": "Large bore IVs"
+        },
+        {
+          "label": "c",
+          "text": "Bloodwork"
+        },
+        {
+          "label": "d",
+          "text": "STAT CT"
+        },
+        {
+          "label": "e",
+          "text": "MRI"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "MRI is usually ordered after an emergent/screening CT."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Which statement is FALSE regarding severe traumatic brain injuries?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Subdural hematomas show up as “crescent-shaped” on CT, while intracerebral hemorrhages show mixed hyper- and hypodense areas on CT."
+        },
+        {
+          "label": "b",
+          "text": "Basilar skull fractures may present with raccoon eyes, Battle sign, and CSF rhinorrhea."
+        },
+        {
+          "label": "c",
+          "text": "Subdural hematomas result from an acceleration/deceleration injury that tears the bridging vessels."
+        },
+        {
+          "label": "d",
+          "text": "Subarachnoid hemorrhages often co-exist with diffuse axonal injury."
+        },
+        {
+          "label": "e",
+          "text": "Cerebral contusions can result in bruising of the brain beneath and/or opposite the impact site."
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Cerebral contusions show mixed density areas on CT."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which statement is TRUE in the diagnosis and management of concussion?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The Concussion Recognition Tool (CRT5) is used as a diagnostic aid by a physician in clinic while the Sport Concussion Assessment Tool (SCAT5) is used as a diagnostic aid by a coach on the field."
+        },
+        {
+          "label": "b",
+          "text": "If a player suffers an impact to the head during a game but rests until they are symptom-free, they may return to play with added precautions."
+        },
+        {
+          "label": "c",
+          "text": "Extended rest for 2 weeks following a concussion is recommended."
+        },
+        {
+          "label": "d",
+          "text": "Sending a player to the ER following a hit to the head is indicated if they show deteriorating mental status, worsening symptoms, or a GCS < 15."
+        },
+        {
+          "label": "e",
+          "text": "To diagnose a concussion, a minimum of 3 concussion symptoms and mechanism of injury involving head impact (either direct or indirect) is required."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "indications for urgent referral to ER include GCS < 15, deteriorating mental status, potential spinal injury, and progressive/worsening symptoms or new neurologic signs. A) CRT is used on the field and SCAT5 is used in clinic. B) if concussion is suspected, players are NOT allowed to return to play until assessed by a medical professional. C) extended rest is NOT recommended at all. E) only 1 concussion symptom is needed for diagnosis."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "Which statement is TRUE regarding multiple sclerosis (MS)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Multiple sclerosis is most commonly found in 40-60 year old females of Caucasian/Northern European descent."
+        },
+        {
+          "label": "b",
+          "text": "Primary progressive MS is often seen in young men with genetic risk factors."
+        },
+        {
+          "label": "c",
+          "text": "Investigations for diagnosing MS include MRI and lumbar puncture."
+        },
+        {
+          "label": "d",
+          "text": "Vitamin D deficiency is not a risk factor for MS."
+        },
+        {
+          "label": "e",
+          "text": "Management of MS includes disease modifying therapies, treatment of symptoms, and surgical consult for myelin grafts."
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "A) 20-40 year old females. B) older men."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which is NOT a treatment option used for neuropathic pain?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Amitriptyline"
+        },
+        {
+          "label": "b",
+          "text": "NSAIDs"
+        },
+        {
+          "label": "c",
+          "text": "Gabapentin"
+        },
+        {
+          "label": "d",
+          "text": "Capsaicin"
+        },
+        {
+          "label": "e",
+          "text": "Cannabinoids"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "NSAIDs are used for treating nociceptive pain."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following best describes the typical progression of symptoms for an epidural hematoma?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Acute post-traumatic coma"
+        },
+        {
+          "label": "b",
+          "text": "A period of alertness followed by a rapid descent into unconsciousness"
+        },
+        {
+          "label": "c",
+          "text": "Headaches, dizziness, alteration of alertness"
+        },
+        {
+          "label": "d",
+          "text": "Nausea, vertigo, and rapid descent into unconsciousness"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Lucid period followed by rapid deterioration is characteristic of epidural hematoma. Intracranial pressure progressively builds as blood accumulates within the epidural space."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "What is the appropriate management for an acute hydrocephalus?",
+      "options": [
+        {
+          "label": "a",
+          "text": "External ventricular drainage"
+        },
+        {
+          "label": "b",
+          "text": "Ventriculoperitoneal shunt"
+        },
+        {
+          "label": "c",
+          "text": "Mannitol"
+        },
+        {
+          "label": "d",
+          "text": "Decadron"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Ventriculoperiotoneal shunt is for chronic hydrocephalus, the other two are medical modalities for decompression only (vs. drainage)."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "A patient presents with a month-long progressive weakness running up from her foot to her knees to the point where she is having trouble walking for long periods of time. You find reduced Achilles and patellar reflexes on physical exam. What is at the top of your differential?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "b",
+          "text": "Multiple sclerosis"
+        },
+        {
+          "label": "c",
+          "text": "Guillain Barre syndrome"
+        },
+        {
+          "label": "d",
+          "text": "Radiculopathy"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The presentation is consistent with a LMN disease, more specifically a polyneuropathy. The progressive ascending weakness is characteristic of GBS."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "What is the pathophysiology of distal dying back neuropathy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Degeneration of the distal portion of the axon, progressing proximally"
+        },
+        {
+          "label": "b",
+          "text": "Degeneration of the distal portion of the axon, progressing distally"
+        },
+        {
+          "label": "c",
+          "text": "Transient dysfunction of the ion channels"
+        },
+        {
+          "label": "d",
+          "text": "Degeneration of the neuronal cell body"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Distal dying back often due to impaired transport down the axon, resulting in degeneration starting from the distal portion of the axon. B best describes Wallerian degeneration, C best describes functional block, and D best describes neuronopathy."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "A patient was involved in a MVA and fell into unconsciousness at the scene. Upon examination, you find that they are not able to open their eyes, have no verbal communication, but are able to flex their arm towards a painful stimulus. What is the GCS score for this patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "(option text not extracted)"
+        },
+        {
+          "label": "b",
+          "text": "(option text not extracted)"
+        },
+        {
+          "label": "c",
+          "text": "(option text not extracted)"
+        },
+        {
+          "label": "d",
+          "text": "(option text not extracted)"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "No eye opening or verbalization is a 1 for each category. Flexion towards painful stimuli is an abnormal flexion response, which is a 3 for the motor response category."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "You are evaluating a patient during your morning rounds. They are unconscious, and because you haven’t yet reviewed their chart, you are unaware of the cause. However, you observe that they are lying with straight legs but bent elbows and wrists. You can thus surmise that the lesion is likely:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Within the cerebral cortex"
+        },
+        {
+          "label": "b",
+          "text": "Within the midbrain"
+        },
+        {
+          "label": "c",
+          "text": "Within the medulla"
+        },
+        {
+          "label": "d",
+          "text": "Within the spinal cord"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The patient is presenting with a decorticate response or flexor posturing, which is indicative of a lesion above the red nucleus (within the midbrain or above)."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT diagnostic of epilepsy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "At least 2 unprovoked seizures within 24hrs"
+        },
+        {
+          "label": "b",
+          "text": "One unprovoked seizure and an abnormal investigation that indicates high risk of recurrence"
+        },
+        {
+          "label": "c",
+          "text": "Diagnosis of an epileptic syndrome"
+        },
+        {
+          "label": "d",
+          "text": "One unprovoked seizure and a probability of further seizures occurring over the next 10 years"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Multiple seizures occurring within 24hrs could be indicative of a common unknown provoking factor and would not be diagnostic. At least 2 unprovoked seizures more than 24hrs apart would be a diagnostic criteria of epilepsy."
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "What is the difference between epileptic and non-epileptic seizures?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Epileptic seizures are due to an epilepsy disorder while non-epileptic seizures are not"
+        },
+        {
+          "label": "b",
+          "text": "Epileptic seizures have a motor component while non-epileptic seizures do not"
+        },
+        {
+          "label": "c",
+          "text": "Epileptic seizures are recurring while non-epileptic seizures are not"
+        },
+        {
+          "label": "d",
+          "text": "Epileptic seizures have an abnormal EEG finding while non-epileptic seizures do not"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "This is the definition of epileptic and non-epileptic seizures."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "Mr. Diaz is a 72 year old gentleman who was found collapsed on his kitchen floor by his wife. He was found to have a droopy face on his left side, and weakness in his left arm and leg. He was rushed to the emergency room on a stroke protocol. He was found to have a BP of 140/80, normal glucose, and no current medications. Does he currently show any contraindications to tPA?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Yes, due to his advanced age"
+        },
+        {
+          "label": "b",
+          "text": "Yes, due to his hypertension"
+        },
+        {
+          "label": "c",
+          "text": "Yes, due to the time from onset"
+        },
+        {
+          "label": "d",
+          "text": "No"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Because he experienced an unwitnessed onset, we cannot know for sure how long it has been since onset. TPA would thus be contraindicated in case it has been too long to be effective."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "What is the first and primary imaging modality for patients with suspected strokes?",
+      "options": [
+        {
+          "label": "a",
+          "text": "CT"
+        },
+        {
+          "label": "b",
+          "text": "CTA"
+        },
+        {
+          "label": "c",
+          "text": "MRI"
+        },
+        {
+          "label": "d",
+          "text": "MRA"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Start with CT, and then can do CTA to assess for large vessel occlusion. MRIs not routinely done in a stroke protocol."
+      }
+    }
+  ]
+}

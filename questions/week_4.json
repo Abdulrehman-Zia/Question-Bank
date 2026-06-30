@@ -1,0 +1,448 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following characteristic and corresponding phase of the sexual response cycle is INCORRECTLY matched.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Excitement – penile erection in males; breast enlargement and nipple erection in females"
+        },
+        {
+          "label": "b",
+          "text": "Plateau – increase in circumference in coronal ridge of penis in males, uterus becomes fully elevated in females"
+        },
+        {
+          "label": "c",
+          "text": "Organism – Contraction of the vas deferens, seminal vesicles and prostate in males; rhythmic contractions of vaginal walls in females"
+        },
+        {
+          "label": "d",
+          "text": "Resolution – males do not experience a refractory period and are able to ejaculate many times; females experience a refractory period making them incapable of experiencing multiple orgasms"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "this answer is reversed. Men experience a refractory period while women do not."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is true?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hormones such as GABA and vasopressin have an excitatory effect in initiating the sexual response."
+        },
+        {
+          "label": "b",
+          "text": "Orgasms are primarily through to be a cerebral event as it has been demonstrated in studies that those with spinal cord injuries can still experience orgasms."
+        },
+        {
+          "label": "c",
+          "text": "During the plateau phase of the sexual response cycle, in females, blood pressure decreases in order to promote vasocongestion of the of the lower 1/3rd of the vagina."
+        },
+        {
+          "label": "d",
+          "text": "Visual and tactile stimuli play a more important role in females compared to males in intimating the sexual response."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "A is wrong because GABA and vasopressin are inhibitory. C is wrong because BP increases in plateau phase. D is wrong as visual/tactile stimuli are more important in men than women in initiating of sexual response cycle."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following is INCORRECT with regards to the presentation of a benign breast pathology?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fat necrosis – Bloody nipple discharge"
+        },
+        {
+          "label": "b",
+          "text": "Fibroadenoma – Usually occur in women ages 20-30"
+        },
+        {
+          "label": "c",
+          "text": "Mastitis – tense, hot, painful breast"
+        },
+        {
+          "label": "d",
+          "text": "Fibrocystic change – masses that fluctuate throughout menstrual cycle"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Intraductal papillomas typically present with bloody discharge, not fat necrosis."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a risk factor for breast cancer?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Early menarche"
+        },
+        {
+          "label": "b",
+          "text": "Alcohol"
+        },
+        {
+          "label": "c",
+          "text": "Multiparity"
+        },
+        {
+          "label": "d",
+          "text": "Does not breast feed"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Nulliparity is a risk factor for breast cancer, not multiparity."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "A 38yr old woman presents to the clinic with a palpable round lump in her left breast measuring 2.5 x 1.5 cm. The lump has irregular boarders, is fixed, non-tender, and hard. She denies any chest pain, SOB, or systemic symptoms. Her past medical hx is significant for hypothyroidism, for which she takes levothyroxine. She does not smoke or drink. Physical exam revealed no other concerning findings. Which is the next best investigation for this patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Ultrasound"
+        },
+        {
+          "label": "b",
+          "text": "Mammogram"
+        },
+        {
+          "label": "c",
+          "text": "MRI"
+        },
+        {
+          "label": "d",
+          "text": "No investigations necessary at this time. Follow up in 3 months."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The lump has malignant features, so you want to investigate it (D is eliminated). Mammogram is the ix modality of choice in women >35, so this eliminates A and C. It is possible that you would both do both a mammogram and an US for women over 35 but this question is asking what the next best investigation is, so it requires you that a mammogram is definitely needed for someone over 35 presenting with a breast lump with high suspicion for malignancy."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following statements about breast pain & its various causes are false?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Non-cyclical causes of breast pain in conditions such mastitis, medication (HRT/OCP), and Cooper’s ligament stretch."
+        },
+        {
+          "label": "b",
+          "text": "Supportive therapy for breast pain can include NSAIDs, hot/cold compresses, and supportive bras"
+        },
+        {
+          "label": "c",
+          "text": "Individuals with mastitis should refrain from breast feeding as there is a risk of infecting the infant with contaminated breast milk"
+        },
+        {
+          "label": "d",
+          "text": "The most common cause of mastitis is Staphylococcus aureus"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Individuals with mastitis should continue to breast feed as emptying the breast can help resolve the condition."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A 43yr old women with irregular menstrual cycles presents for postcoital vaginal bleeding. As part of your work up, you order a pap smear. The results from the smear read – high grade squamous intraepithelial lesion (HSIL). What is the next best step in the management of this patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Refer to colposcopy and biopsy."
+        },
+        {
+          "label": "b",
+          "text": "HPV DNA testing"
+        },
+        {
+          "label": "c",
+          "text": "Repeat cytology in 12 months"
+        },
+        {
+          "label": "d",
+          "text": "Repeat cytology immediately"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "HSIL is an immediate referral to colposcopy."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following women are eligible for cervical cancer screening?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Woman A who is 25 and sexually active"
+        },
+        {
+          "label": "b",
+          "text": "Women B who is 23 and sexually active"
+        },
+        {
+          "label": "c",
+          "text": "Women C who is 21, immunocompromised, and sexually active."
+        },
+        {
+          "label": "d",
+          "text": "All of the above"
+        },
+        {
+          "label": "e",
+          "text": "A and C"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Current Ontario screening recommendations (2022) say that you should delay screening for women until age 25 and if they are sexually active. However, you can begin screening at age 21 if they are immunocompromised and are or ever have been sexually active. The current guidelines do not recommend screening earlier than age 25 even if they are sexually active. See the attached guidance document in the module"
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following infections are diagnosed using serology? i. Chlamydia ii. Gonorrhea iii. Syphilis iv. Hepatitis B v. HIV",
+      "options": [
+        {
+          "label": "a",
+          "text": "I, ii, IV"
+        },
+        {
+          "label": "b",
+          "text": "I, iii, V"
+        },
+        {
+          "label": "c",
+          "text": "III, I"
+        },
+        {
+          "label": "d",
+          "text": "III, IV, V"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following symptoms is present during the secondary stage of syphilis infection?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Painless chancre"
+        },
+        {
+          "label": "b",
+          "text": "Condyloma lata"
+        },
+        {
+          "label": "c",
+          "text": "Gummatous syphilis"
+        },
+        {
+          "label": "d",
+          "text": "CNS complications (meningitis, stroke, or seizures)"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "What is the most common STI in the London/Middlesex region?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Chlamydia"
+        },
+        {
+          "label": "b",
+          "text": "Hepatitis C"
+        },
+        {
+          "label": "c",
+          "text": "Gonorrhea"
+        },
+        {
+          "label": "d",
+          "text": "HIV"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "Which of the following is not a risk factor for contracting an STI?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Injection drug use"
+        },
+        {
+          "label": "b",
+          "text": "Sexually active youth under 25 years of age."
+        },
+        {
+          "label": "c",
+          "text": "No contraception or sole use of non-barrier methods of"
+        },
+        {
+          "label": "d",
+          "text": "Previous STI"
+        },
+        {
+          "label": "e",
+          "text": "All of the above are risk factors for STIs"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which one of the following is not part of the BRATS acronym for common genital injuries sustained from an acute sexual assault?",
+      "options": [
+        {
+          "label": "a",
+          "text": "B – bruises"
+        },
+        {
+          "label": "b",
+          "text": "R – redness"
+        },
+        {
+          "label": "c",
+          "text": "A – abrasions"
+        },
+        {
+          "label": "d",
+          "text": "T – tears"
+        },
+        {
+          "label": "e",
+          "text": "S – soreness"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "The S in BRATS is swelling, not soreness."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "You are working as a new resident doctor in the Sexual Assault and Domestic Violence Program at St. Joseph’s hospital. You are assisting in seeing a 26 yr old female patient who was just recently sexually assaulted by an unknown assailant. She is quite distraught, emotional, and frightened. What would be the first step in your assessment of this patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Refer the patient to appropriate mental health professionals and social support groups"
+        },
+        {
+          "label": "b",
+          "text": "Prescribe the morning after pill (levonorgestrel), anti-retroviral medication for HIV prophylaxis, and antibiotics for prophylaxis of chlamydia and gonorrhea."
+        },
+        {
+          "label": "c",
+          "text": "Perform a detailed history and physical exam, ensuring to gather medically relevant details about the assault and look for corroborating evidence on the physical."
+        },
+        {
+          "label": "d",
+          "text": "Obtain informed consent from the patient to begin the examination, knowing that the patient may consent to any or all 3 of aspects of the exam: medical exam & tx for the effects of the assault; collection and documentation of medical legal evidence; and disclosure of results to the police for potential legal action."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "All of these options may be included in your assessment of a sexual assault survivor. However, the most important step is to obtain informed consent from the patient before you begin."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "A 26-year-old female presents to your clinic for complaints of foul and “fishy” smelling vaginal discharge that is grey in colour. Her medications only consist of a Mirena IUD. You perform some investigations and here are the results: Wet mount reveals 22% clue cells, pH of discharge is 5.7, and a positive Whiff test. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Trichomonas"
+        },
+        {
+          "label": "b",
+          "text": "Bacterial vaginosis"
+        },
+        {
+          "label": "c",
+          "text": "Atrophic vaginitis"
+        },
+        {
+          "label": "d",
+          "text": "Candidiasis"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is not a difference between bacterial vaginosis (BV) and candidiasis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Candidiasis is caused by a fungal agent while BV is caused by a bacterial agent"
+        },
+        {
+          "label": "b",
+          "text": "Candidiasis is treated using metronidazole while BV is treated using Miconazole or Fluconazole"
+        },
+        {
+          "label": "c",
+          "text": "Candidiasis will show budding yeast, hyphae or pseudohyphae on wet mount while BV will show increased clue cells on wet mount"
+        },
+        {
+          "label": "d",
+          "text": "Candidiasis will present with cottage cheese like discharge while BV will present with thin white/grey vaginal discharge"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following are not a characteristic of Progestin?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Many POCs increase aldosterone production, leading to fluid retention and weight gain."
+        },
+        {
+          "label": "b",
+          "text": "POCs thicken cervical mucus, making it difficult for sperm penetration"
+        },
+        {
+          "label": "c",
+          "text": "The effect of Progesterone on GnRH suppression is weaker than Estrogen’s effect"
+        },
+        {
+          "label": "d",
+          "text": "When taking POC, patient compliance is not as important"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "It is paramount that POCs are taken at the same time, every single day, because progesterone’s effect on GnRH suppression is “weaker” as it only decreases the chance of ovulation suppression. It heavily relies on its secondary effects (i.e.,thickening of cervical mucus, alteration of tubal peristalsis, suppression of uterine contractility), and therefore these effects wane over time, reverting the endometrium back to the “receptive” condition."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "True or False: Taking antibiotics inferes with COCs effectiveness in contraception",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "This is a common myth; there is no clinical relevance between antibiotic consumption & COC’s effectiveness. However, if the patient develops side effect from antibiotics (i.e., vomiting, diarrhea), it may affect plasma concentration of OCPs, therefore making it “less effective”."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Where does capacitation occur?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fallopian tube"
+        },
+        {
+          "label": "b",
+          "text": "Uterus"
+        },
+        {
+          "label": "c",
+          "text": "Vagina"
+        },
+        {
+          "label": "d",
+          "text": "Cervix"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Capacitation is the cellular and molecular changes that ejaculated spermatozoa must undergo in order to fertilize. It occurs while the sperm are in the fallopian tube. It is characterized by three accomplishments: 1) The ability to bind to the zona pellucida (noncellular porous layer of glycoproteins secreted by the oocyte; separates the oocyte from cumulus cells). 2) The ability to undergo acrosomal reaction. 3) The acquisition of hypermotility."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "True or false: egg deposited in cul-de-sac by transvaginal injection can never lead to conception.",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "It can in fact be picked up by the fallopian tubes; in fact, some women were shown to achieve pregnancy despite having only one ovary and a single tube located on the contralateral side. The tubal transport is a complex system! It is dependent on 1) ciliary motion, 2) muscular contractility, and 3) tubal fluid →these contribute to varying degrees to effective tubal transport."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Which of the following contraceptive methods should never be used in high risk individuals?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Diaphragm and Cervical cap"
+        },
+        {
+          "label": "b",
+          "text": "Nonoxynol-9"
+        },
+        {
+          "label": "c",
+          "text": "Tubal ligation"
+        },
+        {
+          "label": "d",
+          "text": "Condoms"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Nanoxynol-9 is a spermicide that causes vaginal epithelium damage and therefore increase risk of STI and HIV transmission. This should absolutely not be used in high risk individuals and in fact, has largely been removed from the market."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following statements are FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The most common complication of tubal ligation is patient regret"
+        },
+        {
+          "label": "b",
+          "text": "Women must take contraceptives for maximum 1 month post procedure."
+        },
+        {
+          "label": "c",
+          "text": "Vasectomy is safer than tubal ligation and hysteroscopic tubal occlusion"
+        },
+        {
+          "label": "d",
+          "text": "Progestin-only pills suppress ovulation in 50%"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "After hysteroscopic tubal ligation, it takes 3 months for tissue to grow to fill the inserted coil and therefore block/occlude the fallopian tube. Therefore, patients must take contraceptive methods for minimum of 3 months post operation - in fact, patients need 3 month follow up with imaging."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "Which of the following are not offered methods of abortion in First Trimester?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Manual Vacuum Aspiration"
+        },
+        {
+          "label": "b",
+          "text": "Mifepristone + Misoprostol"
+        },
+        {
+          "label": "c",
+          "text": "Misoprostol + Methotrexate"
+        },
+        {
+          "label": "d",
+          "text": "Dilation and Curettage"
+        },
+        {
+          "label": "e",
+          "text": "Misoprostol + intracardiac injection of KCl or Digoxin"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "This option is used in 2nd trimester abortion."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following are NOT a potential complication of D&C?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cervical shock"
+        },
+        {
+          "label": "b",
+          "text": "Uterine perforation"
+        },
+        {
+          "label": "c",
+          "text": "Post abortal syndrome (Hematometra)"
+        },
+        {
+          "label": "d",
+          "text": "Hemorrhage"
+        },
+        {
+          "label": "e",
+          "text": "Infertility"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following are not common places for ectopic pregnancy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fallopian tube"
+        },
+        {
+          "label": "b",
+          "text": "Ovaries"
+        },
+        {
+          "label": "c",
+          "text": "C-section scars"
+        },
+        {
+          "label": "d",
+          "text": "Urethra"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Ectopic pregnancy occurs in the fallopian tube most of the times. Other sites include: ovarian, cervical, cornual, abdominal, C-section scars."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following statements are FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Ruptured ovarian cysts are commonly self-limited"
+        },
+        {
+          "label": "b",
+          "text": "Risk of ovarian torsion increases when there is ovarian enlargement"
+        },
+        {
+          "label": "c",
+          "text": "Ectopic pregnancy often leads to ovarian ischemia, resulting in ovarian necrosis, infarction and local hemorrhage"
+        },
+        {
+          "label": "d",
+          "text": "Ovarian torsion can occur in women of all ages"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Ovarian torsion often results in reduced venous outflow while there is continuous arterial inflow. This leads to ovarian edema →ovarian enlargement →further vascular compression → ovarian ischemia →ovarian necrosis, infarction and local hemorrhage."
+      }
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "prompt": "Dysmenorrhea is… (select all that applies)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Purely a clinical diagnosis"
+        },
+        {
+          "label": "b",
+          "text": "There are no abnormal laboratory nor physical findings"
+        },
+        {
+          "label": "c",
+          "text": "Best treated with NSAIDS or ovulatory suppression (OCP)"
+        },
+        {
+          "label": "d",
+          "text": "Occurs due to prostaglandin release, which ultimately leads to stimulation of type A neurons."
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Dysmenorrhea Occurs due to prostaglandin release, which ultimately leads to stimulation of type C neurons."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "True or False: first line treatment for endometriosis is hysterectomy and/or laparoscopic excision/ablation.",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "False: although the definitive management of endometriosis is hysterectomy with or without oophorectomy, this is not a first line treatment. Rather, the mainstay treatment of endometriosis is ovulatory suppression and pain control using NSAIDs."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which of the following are not on the differential diagnosis for chronic pelvic pain?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Dysmenorrhea"
+        },
+        {
+          "label": "b",
+          "text": "Endometriosis"
+        },
+        {
+          "label": "c",
+          "text": "Adenomyosis"
+        },
+        {
+          "label": "d",
+          "text": "Fibroids"
+        },
+        {
+          "label": "e",
+          "text": "Ruptured ovarian cyst"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Ruptured ovarian cyst would present as acute pelvic pain."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following are not considered hormone-dependent growth?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Endometrial polyp"
+        },
+        {
+          "label": "b",
+          "text": "Adenomyosis"
+        },
+        {
+          "label": "c",
+          "text": "Leiomyoma"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Which of the following is the most common benign neoplasm in females?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Endometrial polyp"
+        },
+        {
+          "label": "b",
+          "text": "Adenomyosis"
+        },
+        {
+          "label": "c",
+          "text": "Leiomyoma"
+        },
+        {
+          "label": "d",
+          "text": "Endometrial hyperplasia"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "True or False: Borderline tumor may progress to high grade carcinoma",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "False: Borderline tumor may progress to low grade carcinoma."
+      }
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "prompt": "Malignant epithelial tumors are… (select all that applies)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Serous carcinoma is #1 form of ovarian cancer"
+        },
+        {
+          "label": "b",
+          "text": "Often found unilaterally"
+        },
+        {
+          "label": "c",
+          "text": "Often found at advanced stage"
+        },
+        {
+          "label": "d",
+          "text": "Often post menopausal (younger if familial)"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "b"
+        ],
+        "explanation": "Malignant Epithelial tumors are often bilateral; except mucinous."
+      }
+    },
+    {
+      "id": 18,
+      "type": "matching",
+      "prompt": "Match the correct marker substances for each pathology",
+      "terms": [
+        {
+          "label": "a",
+          "text": "Dysgerminoma"
+        },
+        {
+          "label": "b",
+          "text": "Yolk sac tumor"
+        },
+        {
+          "label": "c",
+          "text": "Choriocarcinoma"
+        }
+      ],
+      "choices": [
+        {
+          "label": "i",
+          "text": "b-hCG"
+        },
+        {
+          "label": "ii",
+          "text": "a-FP"
+        },
+        {
+          "label": "iii",
+          "text": "LDH"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "a",
+            "answer_label": "iii"
+          },
+          {
+            "term_label": "b",
+            "answer_label": "ii"
+          },
+          {
+            "term_label": "c",
+            "answer_label": "i"
+          }
+        ],
+        "explanation": "a-iii/ b-ii/ c-i"
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Which of the following conditions mimic PCOS?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Exogenous testosterone intake"
+        },
+        {
+          "label": "b",
+          "text": "Pregnancy"
+        },
+        {
+          "label": "c",
+          "text": "Ovarian Tumor"
+        },
+        {
+          "label": "d",
+          "text": "CAH"
+        },
+        {
+          "label": "e",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Exogenous testosterone, CAH, and ovarian tumor lead to hyperandrogenism; while pregnancy causes oligomenorrhea. Hyperandrogenism & Oligomenorrhea are common features of PCOS."
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "Select common features found in patients with PCOS",
+      "options": [
+        {
+          "label": "a",
+          "text": "Acanthosis"
+        },
+        {
+          "label": "b",
+          "text": "Hirsutism"
+        },
+        {
+          "label": "c",
+          "text": "Acne"
+        },
+        {
+          "label": "d",
+          "text": "Female alopecia"
+        },
+        {
+          "label": "e",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "prompt": "Which of the following are recommended during workup of PCOS? Select all that applies.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Prolactin levels"
+        },
+        {
+          "label": "b",
+          "text": "Hemoglobin levels"
+        },
+        {
+          "label": "c",
+          "text": "B-hCG"
+        },
+        {
+          "label": "d",
+          "text": "HbA1c"
+        },
+        {
+          "label": "e",
+          "text": "All of the above"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "d"
+        ],
+        "explanation": "Should order testosterone, prolactin, b-hcg, HbA1c & lipids and sometimes 17 a-hydroxyprogesterone (to r/o CAH) and U/S (if history of oligomenorrhea nor hyperandrogenic labs are not present)."
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "What is this lesion called? What pathology is associated with this finding?",
+      "media":{
+        "type": "image",
+        "url": "./images/w5q22.jpg"
+      },
+      "options": [
+        {
+          "label": "a",
+          "text": "Blueberry lesion - Leiomyoma"
+        },
+        {
+          "label": "b",
+          "text": "Powder burn lesion - Leiomyoma"
+        },
+        {
+          "label": "c",
+          "text": "Chocolate cyst - Endometriosis"
+        },
+        {
+          "label": "d",
+          "text": "Peritoneal window - ENdometriosis"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "This substance leaking is old blood + endometrial tissue & often has appearance of chocolate fondue."
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "Endometriosis can be treated with the following, except:",
+      "options": [
+        {
+          "label": "a",
+          "text": "NSAIDs"
+        },
+        {
+          "label": "b",
+          "text": "Danazol"
+        },
+        {
+          "label": "c",
+          "text": "NuvaRing"
+        },
+        {
+          "label": "d",
+          "text": "Hysterectomy"
+        },
+        {
+          "label": "e",
+          "text": "Tubal occlusion"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "Post Menopausal Bleeding is any bleeding in post-menopausal woman after absense of menstrual flow for:",
+      "options": [
+        {
+          "label": "a",
+          "text": "3 consecutive months"
+        },
+        {
+          "label": "b",
+          "text": "2 years"
+        },
+        {
+          "label": "c",
+          "text": "5 months"
+        },
+        {
+          "label": "d",
+          "text": "12 months"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "prompt": "Select an incorrect statement:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Type 1 endometrial cancer is more common than Type 2 endometrial cancer"
+        },
+        {
+          "label": "b",
+          "text": "Endometrial carcinoma must be ruled out in patients presenting with PMB"
+        },
+        {
+          "label": "c",
+          "text": "Type 2 endometrial cancer is largely caused by unopposed estrogen"
+        },
+        {
+          "label": "d",
+          "text": "Conditions such as germ cell tumor and PCOS are sources of endogenous estrogen"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Type 2 is not related to unopposed estrogen exposure, while Type 1 is. Furthermore, Type 1 endometrial cancer is more common, found in younger aged patients than Type 2, and associated with familial history (i.e., Lynch syndrome, BRCA mutation)."
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "prompt": "First line treatment when endometrial pathology reports atypia endometrial hyperplasia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hysterectomy with bilateral salpingo-oophorectomy"
+        },
+        {
+          "label": "b",
+          "text": "Medical management - Progestin-only"
+        },
+        {
+          "label": "c",
+          "text": "Oophorectomy only"
+        },
+        {
+          "label": "d",
+          "text": "Hysterectomy only"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "With atypia, hysterectomy with bilateral salpingo-oophorectomy is recommended as it is associated with high risk of concurrent or subsequent malignancy. Only when surgery is contraindicated are patients recommended with high dose progesterone treatment. In contrast, typical endometrial hyperplasia is treated with Progesterone (i.e., LN-IUD) & should be followed up usually in 3 months with repeat biopsy."
+      }
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "prompt": "Which of the following occurs in menopause? Select all that applies.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hot flashes, vaginal atrophy, vaginal dryness are common symptoms"
+        },
+        {
+          "label": "b",
+          "text": "Increased vaginal hydration"
+        },
+        {
+          "label": "c",
+          "text": "Estrogen and progesterone production increases"
+        },
+        {
+          "label": "d",
+          "text": "LH and FSH secretion increases"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "d"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "prompt": "Which of the following statements are true? Select all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Post menopausal women with history of hysterectomy can be on Estrogen-only HRT."
+        },
+        {
+          "label": "b",
+          "text": "LET alleviates vasomotor symptoms, such as palpitations and perspirations"
+        },
+        {
+          "label": "c",
+          "text": "The 3 main causes of illness and disability in developed countries for postmenopausal women are: Stroke, decreased sexual drive, and cancer"
+        },
+        {
+          "label": "d",
+          "text": "During perimenopause, women often experience change in their cycle length & flow"
+        },
+        {
+          "label": "e",
+          "text": "As women transition from perimenopause to menopause, they experience oligomenorrhea and hypomenorrhea, until menstruation completely stops"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "d",
+          "e"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "prompt": "What do people usually mean when they describe “partial” hysterectomy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hysterectomy only"
+        },
+        {
+          "label": "b",
+          "text": "Hysterectomy + Oophorectomy"
+        },
+        {
+          "label": "c",
+          "text": "Hysterectomy + Salpingectomy"
+        },
+        {
+          "label": "d",
+          "text": "Hysterectomy + cervix removal"
+        },
+        {
+          "label": "e",
+          "text": "Oophorectomy only"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "d"
+        ],
+        "explanation": "“Partial hysterectomy” usually refers to removal of uterus +/- cervix, +/- fallopian tube (salpingectomy), but with retention of ovaries (no oophorectomy)"
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "prompt": "Which of the following procedure is recommended for patients with enlarged uterus?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Abdominal hysterectomy"
+        },
+        {
+          "label": "b",
+          "text": "Vaginal hysterectomy"
+        },
+        {
+          "label": "c",
+          "text": "Laparoscopic-Assisted Vaginal hysterectomy (LAVH)"
+        },
+        {
+          "label": "d",
+          "text": "Total/subtotal laparoscopic hysterectomy"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    }
+  ]
+}

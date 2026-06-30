@@ -1,0 +1,840 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "matching",
+      "prompt": "Match the rheumatologic condition (a,b,c,d,e,f) to its best corresponding investigation (i, ii, iii, iv, v, vi). Bolded are some unique investigations for help in answering this question!",
+      "terms": [
+        {
+          "label": "a",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "b",
+          "text": "Inflammatory myositis"
+        },
+        {
+          "label": "c",
+          "text": "Sjogren’s"
+        },
+        {
+          "label": "d",
+          "text": "Scleroderma"
+        },
+        {
+          "label": "e",
+          "text": "ANCA vasculitis"
+        },
+        {
+          "label": "f",
+          "text": "Enthesitis-related arthritis"
+        }
+      ],
+      "choices": [
+        {
+          "label": "i",
+          "text": "CBC, ANA, ESR, RF, anti-Ro (aka SSA), anti-La (aka SSB)"
+        },
+        {
+          "label": "ii",
+          "text": "ANA nucleolar pattern, Scl70 (topoisomerase 1)"
+        },
+        {
+          "label": "iii",
+          "text": "CK, ESR, ANA"
+        },
+        {
+          "label": "iv",
+          "text": "ANA, then anti-DNA (if ANA is positive), anti-Smith"
+        },
+        {
+          "label": "v",
+          "text": "HLA B27, ESR, CRP, CBC"
+        },
+        {
+          "label": "vi",
+          "text": "ANCA, PR3, MPO"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "a",
+            "answer_label": "iv"
+          },
+          {
+            "term_label": "b",
+            "answer_label": "iii"
+          },
+          {
+            "term_label": "c",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "d",
+            "answer_label": "ii"
+          },
+          {
+            "term_label": "e",
+            "answer_label": "vi"
+          },
+          {
+            "term_label": "f",
+            "answer_label": "v"
+          }
+        ],
+        "explanation": "A- iv; B - iii (anti-Jo1 and anti-PM-Scl can also be ordered to check for interstitial lung disease and scleroderma polymyositis respectively, which are disease correlations), C - i; D -ii; E - vi (PR3 stands for anti-proteinase 3 aka c-ANCA; MPO stands for anti-myeloperoxidase aka p-ANCA); F- v (30-50% of enthesitis-related arthritis have a positive HLA B27; CBC might show anemia and leukocytosis & thrombocytosis, ESR may be normal or elevated)"
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "In which of the following cases is ordering an ANA indicated? Choose 1",
+      "options": [
+        {
+          "label": "a",
+          "text": "A family doctor is unsure if a patient has an autoimmune disorder and the patient had a negative ANA result last year (no new symptoms)."
+        },
+        {
+          "label": "b",
+          "text": "A rheumatologist wants to follow a SLE patient’s progress/response to treatment."
+        },
+        {
+          "label": "c",
+          "text": "A patient presents to the ER with delirium, acute pericarditis, fever, alopecia, and proteinuria."
+        },
+        {
+          "label": "d",
+          "text": "A patient is presenting with swollen and achy knees that are stiff (<30 min every morning), prone to night pain, and have a reduced ROM."
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "In answer C, the patient actually fulfills multiple clinical domains for SLE. Since an autoimmune CTD is suspected, ANA can be ordered. ANA is not ordered if there was a negative ANA in the past. It is also not ordered to follow a patient. Case D describes a patient with osteoarthritis (not inflammatory = no ANA needed)."
+      }
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "A 63 y.o Finnish patient presents to the ER with sudden painless vision loss, an awful headache, pain with chewing, and pain with laying his head on their pillow at night. He also mentions pain in his shoulders and hips and classic B symptoms (fever, weight loss, night sweats)! What should the next steps be? Choose 3",
+      "options": [
+        {
+          "label": "a",
+          "text": "Give high-dose IV methylprednisolone"
+        },
+        {
+          "label": "b",
+          "text": "Give medium dose prednisone."
+        },
+        {
+          "label": "c",
+          "text": "Give low-dose prednisone (5 mg)"
+        },
+        {
+          "label": "d",
+          "text": "Consult oncology urgently due to risk of intracranial malignancy"
+        },
+        {
+          "label": "e",
+          "text": "Obtain ESR and CRP"
+        },
+        {
+          "label": "f",
+          "text": "Consult ophthalmology for a temporal artery biopsy"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "e",
+          "f"
+        ],
+        "explanation": "This patient has giant cell arteritis. Low-dose prednisone is only reserved for cases where other options don’t work or there are difficulty discontinuing steroids. Medium-dose prednisone is for RA flares, polymyalgia rheumatica and acute gout flare. Remember to not wait for ESR/CRP results and to start high dose corticosteroids immediately! Patients who are of Northern European descent (e.g. Finnish in this case) are at greater risk of giant cell arteritis. Intracranial malignancies need to be ruled out but doesn’t require oncology consult."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following is false?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Prior to diagnosing primary vasculitis, serum protein electrophoresis, urine toxicology screens, sputum cultures, Hep B+C serology, and HIV testing must be taken."
+        },
+        {
+          "label": "b",
+          "text": "Common signs of primary vasculitis includes ecchymosis, intracranial hemorrhages, cranial nerve neuropathies, and concurrent infections."
+        },
+        {
+          "label": "c",
+          "text": "Giant cell arteritis cannot affect people who are 49 years old or younger."
+        },
+        {
+          "label": "d",
+          "text": "A patient with ANCA vasculitis can still have a negative ANCA."
+        },
+        {
+          "label": "e",
+          "text": "Patients with primary vasculitis need to have the following investigations to check for organ involvement: ALT, albumin, Cr, urinalysis, chest x-ray."
+        },
+        {
+          "label": "f",
+          "text": "Vasculitis involves blood vessel thickening from inflammation and a resulting turbulent blood flow."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Common signs of vasculitis are actually petechial/purpural rashes and B-symptoms (infections must actually be ruled out to make a diagnosis of primary vasculitis). Clots, occlusions/ischemia and aneurysms are more of a concern than bleeding manifestations in vasculitis. A is true because infection and underlying malignancy/drugs must be ruled out."
+      }
+    },
+    {
+      "id": 5,
+      "type": "matching",
+      "prompt": "Match the complication (a,b,c,d,e) to the condition (i, ii, iii, iv). Warning: there may be repeats (e.g. one condition has 1+ complications)",
+      "terms": [
+        {
+          "label": "a",
+          "text": "Aspirations, arrhythmia, adenocarcinomas"
+        },
+        {
+          "label": "b",
+          "text": "MALT lymphoma"
+        },
+        {
+          "label": "c",
+          "text": "Hypertension, atherosclerosis, diabetes and strokes"
+        },
+        {
+          "label": "d",
+          "text": "Interstitial lung disease"
+        },
+        {
+          "label": "e",
+          "text": "Renal crisis"
+        }
+      ],
+      "choices": [
+        {
+          "label": "i",
+          "text": "SLE"
+        },
+        {
+          "label": "ii",
+          "text": "Scleroderma"
+        },
+        {
+          "label": "iii",
+          "text": "inflammatory myositis"
+        },
+        {
+          "label": "iv",
+          "text": "Sjogren’s"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "a",
+            "answer_label": "iii"
+          },
+          {
+            "term_label": "b",
+            "answer_label": "iv"
+          },
+          {
+            "term_label": "c",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "d",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "e",
+            "answer_label": "ii"
+          }
+        ],
+        "explanation": "A - iii, B - iv, C - i, D - i & ii, E - ii"
+      }
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Based on the 15% rule, which comorbidities will affect only 15% of scleroderma patients. Choose 3:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Raynaud’s phenomenon"
+        },
+        {
+          "label": "b",
+          "text": "GERD"
+        },
+        {
+          "label": "c",
+          "text": "Dysphagia"
+        },
+        {
+          "label": "d",
+          "text": "Sjogren’s"
+        },
+        {
+          "label": "e",
+          "text": "Current digital ulcers"
+        },
+        {
+          "label": "f",
+          "text": "Pulmonary arterial hypertension"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "d",
+          "e",
+          "f"
+        ],
+        "explanation": "Nearly all have Raynaud’s and GERD and many have dysphagia."
+      }
+    },
+    {
+      "id": 7,
+      "type": "matching",
+      "prompt": "Match the common presentation (a,b,c,d) to the pediatric condition (i, ii, iii, iv).",
+      "terms": [
+        {
+          "label": "a",
+          "text": "A child (between 3-10 y.o) who was sick with a URTI about a week ago now has sudden unilateral hip pain and their hip is held in slight FABER position"
+        },
+        {
+          "label": "b",
+          "text": "An adolescent athlete (8-14 y.o female, 10-15 y.o male) has a painful bump over their tibial tuberosity and xray shows a teardrop sign."
+        },
+        {
+          "label": "c",
+          "text": "An obese adolescent (~ 12 y.o female, 14 y.o male) has gradual left hip pain that refers to the knee, antalgic gait, and can’t weight bear"
+        },
+        {
+          "label": "d",
+          "text": "A child (between 4-8 y.o) who has a low body weight and protein S/C deficiency has gradual vague hip pain and stiffness and limb-length discrepancy"
+        }
+      ],
+      "choices": [
+        {
+          "label": "i",
+          "text": "Transient synovitis"
+        },
+        {
+          "label": "ii",
+          "text": "Leg calve perthes"
+        },
+        {
+          "label": "iii",
+          "text": "Osgood-Schlatter"
+        },
+        {
+          "label": "iv",
+          "text": "Slipped capital femoral epiphysis"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "a",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "b",
+            "answer_label": "iii"
+          },
+          {
+            "term_label": "c",
+            "answer_label": "iv"
+          },
+          {
+            "term_label": "d",
+            "answer_label": "ii"
+          }
+        ],
+        "explanation": "A - i. B - iii, C - iv. D - ii."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following is incorrect about pediatric conditions related to limp?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The main treatment for avascular necrosis of the proximal femoral head (epiphysis) is close observation (along with activity restriction and NSAIDs/Tylenol) because it will resolve on its own."
+        },
+        {
+          "label": "b",
+          "text": "Slipped capital femoral epiphysis involves the femur shifting posteriorly and inferiorly."
+        },
+        {
+          "label": "c",
+          "text": "Transient synovitis requires non-urgent xray and hip ultrasound for diagnosis."
+        },
+        {
+          "label": "d",
+          "text": "Males are more affected than females for leg calve perthes, slipped capital femoral epiphysis AND transient synovitis."
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "transient synovitis is a clinical diagnosis based on history."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Over the phone, your friend Marnie tells you that she is sad because her manicurist made mean comments about her nails. Some insults include: “Your nails have pits and ridges, yellow dots and dark streaks, and are basically lifting right off. Your fingers also look like sausages.” Your friend is also stressed because she thinks she has relentless dandruff, pinkeye, and arthritis in her knees. You suspect your friend actually has a type of spondyloarthritis. Which is it?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reactive arthritis"
+        },
+        {
+          "label": "b",
+          "text": "Enteropathic arthritis"
+        },
+        {
+          "label": "c",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "d",
+          "text": "Psoriatic arthritis"
+        },
+        {
+          "label": "e",
+          "text": "Sacroiliitis"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "the mean manicurist's comments are the nail/finger changes found in psoriatic arthritis. The friend’s dandruff may be scalp psoriatic plaques and her pink eye is conjunctivitis (found in 20% of psoriatic arthritis cases)."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Beside giving emotional support, you want to help Marnie in some way. You recommend all of the following csDMARDs (conventional synthetic disease-modifying antirheumatic drugs) but tell her to avoid which one?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "b",
+          "text": "Sulfasalazine"
+        },
+        {
+          "label": "c",
+          "text": "Hydroxychloroquine"
+        },
+        {
+          "label": "d",
+          "text": "Leflunomide"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "hydroxychloroquine is often avoided due to case reports of severe psoriasis flares."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "You are meeting with your clerk friend Osler. For the past year, he has had unrelenting headaches, forgets things easily, and he never feels refreshed no matter how much he sleeps. You joke that he might be overworked and just needs a break, but he says that he also has severe chest pain, jaw pain, back pain, bilateral shoulder pain, leg pain, abdomen pain, AND hip pain. None of his doctors could explain his symptoms. You suspect he has a disorder relating to his descending (inhibitory) and ascending (facilitatory) pain pathways resulting in decreased serotonin and increased substance P and glutamate. This time you recommend all of the following treatments except which one?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Yoga and mindfulness techniques"
+        },
+        {
+          "label": "b",
+          "text": "Pregabalin"
+        },
+        {
+          "label": "c",
+          "text": "Amitriptyline"
+        },
+        {
+          "label": "d",
+          "text": "Prednisone"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "he likely has fibromyalgia. Prednisone shouldn’t be used for fibromyalgia."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "Which of the following cases likely has polymyalgia rheumatica?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A 64 y.o patient who has a history of giant cell arteritis presents with new weight loss and also pain in shoulder and hip."
+        },
+        {
+          "label": "b",
+          "text": "A 43 y.o male presenting with pain and stiffness in the shoulder and hip girdles with profound morning stiffness and fatigue."
+        },
+        {
+          "label": "c",
+          "text": "A 56 y.o febrile female presenting with pain in just her left shoulder, which is also warm and swollen."
+        },
+        {
+          "label": "d",
+          "text": "A 73 y.o patient with long-standing pain in hip (which is not stiff), worse with activity. Her shoulder muscles has weakness but no pain. They sadly have not responded to prednisone that you previously prescribed."
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "giant cell arteritis often occurs with polymyalgia rheumatica. B is not correct because polymyalgia rheumatica only affects people older than 50. C is likely septic arthritis (bacterial monoarthritis). D is likely hip osteoarthritis and shoulder myositis. Polymyalgia rheumatica won’t have muscle weakness and should respond dramatically to prednisone."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which of the following are not characteristics of cellulitis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Infection on palmar surface of the hand"
+        },
+        {
+          "label": "b",
+          "text": "Superficial skin infection"
+        },
+        {
+          "label": "c",
+          "text": "Treatments generally require rest, elevation and antibiotics"
+        },
+        {
+          "label": "d",
+          "text": "Margins are irregular"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Cellulitis is typically present on dorsal surface of the hand."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "What is the best investigation method when you suspect osteomyelitis in a patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Bloodwork - Cr"
+        },
+        {
+          "label": "b",
+          "text": "Bloodwork - WBC"
+        },
+        {
+          "label": "c",
+          "text": "CT scan"
+        },
+        {
+          "label": "d",
+          "text": "MRI"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "When investigating Osteomyelitis, X-ray nor CT are sensitive enough. MRI is the most sensitive way - especially for vertebral OM. However, it’s important to not routinely repeat MRI. Otherwise, NM Tagged WBC scan is also a good way to investigate OM."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Your 45 year old male patient comes in for regular blood work. Results show that he has elevated uric acid. What are your next steps? Choose the best answer.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Start allopurinol"
+        },
+        {
+          "label": "b",
+          "text": "Advise him to start eating more seafood"
+        },
+        {
+          "label": "c",
+          "text": "Reassurance"
+        },
+        {
+          "label": "d",
+          "text": "Aspirate his knee joint"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Hyperuricemia does not necessarily mean gout. In this case, this patient does not have any symptoms of gout (i.e., swollen joint, red, painful). Therefore, doing further investigations and/or treatment is unnecessary. Furthermore, if you patient has gout, you should advise them to decrease the amount of seafood in their diet; and we typically do not prescribe allopurinol right away (unless it is debilitating to their life), and especially not during the gout attack. Lastly, gout is more commonly found on 1st MTP joint (big toe), not on the knee (CPPD more commonly found in knee)."
+      }
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "prompt": "Which of the following - if found in your patient highly suspicious of pseudogout - does not necessarily support the diagnosis of CPPD? (Choose multiple answers)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Chondrocalcinosis (deposition of calcium pyrophosphate) on imaging"
+        },
+        {
+          "label": "b",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "c",
+          "text": "High uric acid level"
+        },
+        {
+          "label": "d",
+          "text": "Dehydration"
+        },
+        {
+          "label": "e",
+          "text": "Attack lasting 7-10 days"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "c",
+          "e"
+        ],
+        "explanation": "these are characteristics that support Gout. Pseudogout typically lasts for a few days~ few weeks (takes longer to reach a peak compared to gout)."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "Which of the following are not appropriate treatment plan for CPPD?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Colchicine"
+        },
+        {
+          "label": "b",
+          "text": "Intra-articular corticosteroid injection"
+        },
+        {
+          "label": "c",
+          "text": "COXIB"
+        },
+        {
+          "label": "d",
+          "text": "Prednisone (oral)"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Colchicine is used to treat gout."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "True or False: X-ray is the best way to diagnose chronic osteoarthritis",
+      "options": [
+        {
+          "label": "a",
+          "text": "True"
+        },
+        {
+          "label": "b",
+          "text": "False"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "False - osteoarthritis is a clinical diagnosis (symptoms such as joint pain, stiffness, chronic >6weeks, and worse with activity; without other causes of arthritis). X-ray is used for staging OA."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Your 65 year old patient has early stage Osteoarthritis. She strongly asks you if she could get a joint replacement surgery. What would be your response?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Sure! Let’s go ahead."
+        },
+        {
+          "label": "b",
+          "text": "No - we should perform knee arthroscopy."
+        },
+        {
+          "label": "c",
+          "text": "No - treatment for early stage OA is monitoring & reassurance with absolutely no intervention"
+        },
+        {
+          "label": "d",
+          "text": "No - joint replacement surgeries are advised on end-stage OA patients who have tried every other non-invasive methods and still have failed to improve. We can instead try other methods like Tai-Chi and physiotherapy first."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "Which of the following should we try to avoid for medical treatment of early-middle stage OA?",
+      "options": [
+        {
+          "label": "a",
+          "text": "NSAIDS - topical or oral"
+        },
+        {
+          "label": "b",
+          "text": "Prednisone"
+        },
+        {
+          "label": "c",
+          "text": "Intra-articular corticosteroid injection"
+        },
+        {
+          "label": "d",
+          "text": "Duloxetine"
+        },
+        {
+          "label": "e",
+          "text": "Tramadol"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "We should generally avoid tramadol (opioid)."
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "Which of the following affects Sacroiliac joints?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Connective Tissue Disease associated arthritis"
+        },
+        {
+          "label": "b",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "c",
+          "text": "Seronegative arthritis"
+        },
+        {
+          "label": "d",
+          "text": "Osteoarthritis"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "Which of the following favour small joints in the hand and feet, and spares distal phalangeal joints?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "b",
+          "text": "Seronegative arthritis"
+        },
+        {
+          "label": "c",
+          "text": "Infectious arthritis"
+        },
+        {
+          "label": "d",
+          "text": "Rheumatoid arthritis"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "prompt": "Enthesitis related arthritis is… (choose all that are correct)",
+      "options": [
+        {
+          "label": "a",
+          "text": "More common in girls"
+        },
+        {
+          "label": "b",
+          "text": "Biphasic onset - at age 2-5 & at age 10-14"
+        },
+        {
+          "label": "c",
+          "text": "30% go onto develop ankylosing spondylitis"
+        },
+        {
+          "label": "d",
+          "text": "HLA B27 associated (50%)"
+        },
+        {
+          "label": "e",
+          "text": "Can result in sacroiliitis, dactylitis, enthesopathy and peripheral involvement"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "c",
+          "d",
+          "e"
+        ],
+        "explanation": "Enthesitis related arthritis is more common in boys, and the onset of age is often >10 years (early teens)."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "What type of JIA is not commonly associated with asymptomatic uveitis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Oligoarticular JIA"
+        },
+        {
+          "label": "b",
+          "text": "Polyarticular JIA"
+        },
+        {
+          "label": "c",
+          "text": "Enthesitis related arthritis"
+        },
+        {
+          "label": "d",
+          "text": "Systemic onset JIA"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "In all other types of JIA, uveitis is a serious yet asymptomatic complication that can potentially lead to blindness ( essential that children get regular screening done). However, in enthesitis related JIA, uveitis is markedly painful (aka symptomatic) and red!"
+      }
+    }
+  ]
+}

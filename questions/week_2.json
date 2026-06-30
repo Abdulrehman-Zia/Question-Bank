@@ -1,0 +1,682 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Which of the statement/s is/are true regarding abnormalities of the endocrine system (could be multiple correct answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "An ACTH stimulation is used to screen for suspected Cushing’s syndrome"
+        },
+        {
+          "label": "b",
+          "text": "The most common cause of glucocorticoid excess is iatrogenic"
+        },
+        {
+          "label": "c",
+          "text": "The most common cause of thyrotoxicosis is iatrogenic"
+        },
+        {
+          "label": "d",
+          "text": "Hyperpigmentation and vitiligo are common presentations of Con’s disease"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "b",
+          "c",
+          "a"
+        ],
+        "explanation": "because ACTH stimulation is used to screen for suspected adrenal failure. D is false because hyperpigmentation and vitiligo are common presentations of Addison’s disease (primary adrenal insufficiency)."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following is consistent with thyroid mass complications?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Dysphonia"
+        },
+        {
+          "label": "b",
+          "text": "Exertional dyspnea"
+        },
+        {
+          "label": "c",
+          "text": "Dysphagia"
+        },
+        {
+          "label": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Exertional dyspnea, dysphagia, and dysphonia is due to compression of the trachea, esophagus, and recurrent laryngeal nerve, respectively."
+      }
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "The prescription of ergocalciferol should be avoided or prescribed with caution in which of the following patient/s (could be multiple correct answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A patient with hyperparathyroidism due to renal insufficiency"
+        },
+        {
+          "label": "b",
+          "text": "A patient taking thiazide diuretics"
+        },
+        {
+          "label": "c",
+          "text": "A patient taking furosemide"
+        },
+        {
+          "label": "d",
+          "text": "A patient with hyperphosphatemia"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Furosemide promotes calcium excretion, thus it is helpful in preventing hypercalcemia when taking vitamin D. Ergocalciferol requires both hepatic and renal metabolism to become the active calcitriol. A patient with renal insufficiency can convert ergocalciferol into calcifediol (hepatic), but can’t effectively convert calcifediol into calcitriol (renal). Thiazide increases calcium reabsorption, thus it should be taken with caution in conjunction with vitamin D to prevent hypercalcemia. Vitamin D increases both calcium and phosphate absorption, thus can worsen hypophosphatemia."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "A patient with hypocalcemia is prescribed a vitamin D supplement. They inquire about the effects of vitamin D on their bone health. How would you counsel the patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Since their serum calcium is currently low, vitamin D will promote bone resorption."
+        },
+        {
+          "label": "b",
+          "text": "Since their serum calcium is currently low, vitamin D will promote bone formation."
+        },
+        {
+          "label": "c",
+          "text": "Vitamin D will promote bone resorption regardless of their serum calcium levels."
+        },
+        {
+          "label": "d",
+          "text": "Vitamin D will promote bone formation regardless of their serum calcium levels."
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "All of the following could possibly present in a patient with hypothyroidism except:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Decreased basal metabolic activity"
+        },
+        {
+          "label": "b",
+          "text": "Excessive lipolysis, glycolysis and gluconeogenesis"
+        },
+        {
+          "label": "c",
+          "text": "Defect in early neural development"
+        },
+        {
+          "label": "d",
+          "text": "Respiratory disorders concerning the lungs"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "A lack of thyroid hormones will decrease lipolysis, glycolysis and gluconeogenesis. Thyroid hormones are necessary for maintaining basal metabolic activity, permissive to GH action and necessary for induction of surfactant."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "What would be a consequence of malfunctioning chief cells in the parathyroid gland",
+      "options": [
+        {
+          "label": "a",
+          "text": "Decreased levels of parathyroid hormones despite normal or low calcium levels."
+        },
+        {
+          "label": "b",
+          "text": "Desensitization of parathyroid hormone receptors in the intestines."
+        },
+        {
+          "label": "c",
+          "text": "Increased calcium absorption in the intestines despite normal or low calcium levels"
+        },
+        {
+          "label": "d",
+          "text": "Increased calcium reabsorption in the kidneys despite normal or high calcium levels."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "The chief cells are responsible for responding to high levels of calcium by shutting down parathyroid hormone release. If the chief cells malfunction, they will fail to detect hypercalcemia and the parathyroid hormone levels will remain high, which induces the kidneys to reabsorb even more calcium."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A patient presents with decreased heart rate, cold intolerance, and weight gain despite decreased appetite. Their lab results demonstrate high TSH and low FT4. You inquire the patient about past thyroid diseases and thyroid treatments (radiation, surgery), which are negative. You also screened the patient for risk of pituitary disease, which is also negative. What is your next appropriate step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Order FT3 level"
+        },
+        {
+          "label": "b",
+          "text": "Order anti-TPO and anti-Tg antibody levels"
+        },
+        {
+          "label": "c",
+          "text": "Order a radioactive iodine uptake test"
+        },
+        {
+          "label": "d",
+          "text": "Make the diagnosis of Hashimoto’s disease"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "If you have excluded past thyroid disease and treatment and pituitary disease as causes of hypothyroidism, you can assume the diagnosis of Hashimoto’s disease based on the elevated FSH and low FT4 level. You do not need to order FT3 for assessing hypothyroidism. Radioactive iodine uptake test is ordered to assess causes for low TSH levels. Anti-TPO and anti-Tg antibodies are sensitive for Hashimoto’s disease, but they almost never influence clinical decisions in hypothyroidism, so they don’t need to be ordered."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following will is not an appropriate treatment for each of the patients",
+      "options": [
+        {
+          "label": "a",
+          "text": "Using PTU as a first line treatment for Grave’s disease in a pregnant patient"
+        },
+        {
+          "label": "b",
+          "text": "Using radioactive iodine to treat a patient with thyroid adenoma"
+        },
+        {
+          "label": "c",
+          "text": "Using radioactive iodine to treat a patient with toxic multinodular goiter"
+        },
+        {
+          "label": "d",
+          "text": "Using methimazole to treat a large symptomatic goiter"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "A large symptomatic goiter should be treated with surgery. Radioactive iodine scan and uptake is the first line treatment for thyroid adenoma and toxic multinodular goitre. PTU is less teratogenic compared to methimazole, thus is used to treat Grave’s disease in pregnant patients."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "A patient presents with a 1.5 cm palpable thyroid mass on the right. You measured their TSH and it was normal. What is your next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Perform a thyroid ultrasound"
+        },
+        {
+          "label": "b",
+          "text": "Perform a radioactive iodine uptake test"
+        },
+        {
+          "label": "c",
+          "text": "Order T4 and T4 levels"
+        },
+        {
+          "label": "d",
+          "text": "Perform a fine needle aspiration biopsy"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "When investigating a thyroid mass with normal TSH level, the next step is to perform an ultrasound and obtain a TIRADS score. The TIRADS score along with the mass size will decipher whether a biopsy is necessary."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following thyroid masses require ultrasound surveillance",
+      "options": [
+        {
+          "label": "a",
+          "text": "Low risk ultrasound result with benign cytology"
+        },
+        {
+          "label": "b",
+          "text": "Moderate ultrasound result with benign cytology"
+        },
+        {
+          "label": "c",
+          "text": "High risk ultrasound result with benign cytology"
+        },
+        {
+          "label": "d",
+          "text": "High risk ultrasound result with malignant cytology"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "A should be followed clinically. C should be followed with repeat biopsy. D should be treated with surgery."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "A patient presents acutely with perioral paresthesia, carpo-pedal spasm and palpitations. Their correct serum calcium is 1.8 mmol/l. Which of the following would be the most appropriate to administer in this acute setting.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Calcitriol"
+        },
+        {
+          "label": "b",
+          "text": "Furosemide"
+        },
+        {
+          "label": "c",
+          "text": "Thiazide diuretic"
+        },
+        {
+          "label": "d",
+          "text": "Calcium gluconate"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Calcium gluconate should be used to treat acute hypocalcemia. Calcitriol and thiazide diuretics are used to manage chronic hypocalcemia. Furosemide promotes the excretion of calcium, thus should be avoided in hypocalcemia."
+      }
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "prompt": "Which one of the following are possible symptoms/signs of hypercalcemia (could be multiple correct answers)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Abdominal distress"
+        },
+        {
+          "label": "b",
+          "text": "Shortened QT interval"
+        },
+        {
+          "label": "c",
+          "text": "Apathy"
+        },
+        {
+          "label": "d",
+          "text": "Spontaneous fractures"
+        },
+        {
+          "label": "e",
+          "text": "Kidney stones"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "explanation": "These are all possible signs and symptoms of hypercalcemia. The shortened QT interval in hypercalcemia can lead to arrhythmias. Remember “stones (kidney), bones, groans (GI), and psychiatric overtones” for hypercalcemia."
+      }
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "prompt": "Which of the following warrant consideration of pharmacotherapy for osteoporosis in patients with moderate risk of fractures (could be multiple possible answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Recurrent falls"
+        },
+        {
+          "label": "b",
+          "text": "Parental history of vertebral fractures"
+        },
+        {
+          "label": "c",
+          "text": "Aromatase therapy for breast cancer"
+        },
+        {
+          "label": "d",
+          "text": "Smoking"
+        },
+        {
+          "label": "e",
+          "text": "Androgen deprivation therapy for prostate cancer"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "e"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Your patient with osteoporosis and a previous hip fracture has been treated with romosozumab for 6 months. Their bone mineral density has been stable and they experienced no fracture events so far. How would you continue the management?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Romosozumab seem to be working well for the patient, so you will keep them on romosozumab until their osteoporosis progress or they experience a fracture"
+        },
+        {
+          "label": "b",
+          "text": "Add teriparatide to the treatment"
+        },
+        {
+          "label": "c",
+          "text": "Follow up with zoledronic acid after 1 year of romosozumab therapy."
+        },
+        {
+          "label": "d",
+          "text": "Follow up with raloxifene after 1 year of romosozumab therapy."
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Romosozumab, a bone formation therapy, should be followed with anti-resorptive therapy after 1 year. Both zoledronic acid and raloxifene are anti-resorptive therapies, but raloxifene is not effective for hip fractures."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "WHich of the following is true regarding bone diseases?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Paget’s disease involves a defect in bone mineralization while osteomalacia involve a defect in bone remodeling"
+        },
+        {
+          "label": "b",
+          "text": "Cotton wool appearance is a clinical presentation of osteogenesis imperfecta"
+        },
+        {
+          "label": "c",
+          "text": "Teriparatide can be used to treat Paget’s disease."
+        },
+        {
+          "label": "d",
+          "text": "Hearing loss can be a clinical presentation for both Paget’s disease and osteogenesis imperfecta."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Skull abnormalities in Paget’s disease and osteogenesis imperfecta can lead to compression and damage of cranial nerves, resulting in hearing loss. Osteomalacia involves a defect in bone mineralization while Paget’s disease involves a defect in bone remodeling. Cotton wool appearance is seen in Paget’s disease, representing increased and abnormal bone remodeling. Bone formation therapies, such as teriparatide, should be avoided in Paget’s disease since there is already increased bone formation."
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "A patient presents with decreased serum calcium and phosphates, with increased alkaline phosphatase. Upon physical exam, you also discover proximal muscle weaknessYou observe pseudofractures in the left femoral neck on radiography. Which of the following bone diseases does this patient most likely have.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Paget’s disease"
+        },
+        {
+          "label": "b",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "c",
+          "text": "Osteogenesis imperfecta"
+        },
+        {
+          "label": "d",
+          "text": "Osteomalacia"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "A baby was born with anencephaly. During which week of embryogenesis did this defect most likely occur.",
+      "options": [
+        {
+          "label": "a",
+          "text": "(option text not extracted)"
+        },
+        {
+          "label": "b",
+          "text": "(option text not extracted)"
+        },
+        {
+          "label": "c",
+          "text": "(option text not extracted)"
+        },
+        {
+          "label": "d",
+          "text": "(option text not extracted)"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Neurulation is completed in week 4, during which the caudal and rostral ends. Failure of the caudal end to close results in anencephaly."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "If a teratogen is introduced during week 6 of embryogenesis, which of the following will be the most likely effect on the developing embryo.",
+      "options": [
+        {
+          "label": "a",
+          "text": "The teratogen either kills the embryo or has no effect on it"
+        },
+        {
+          "label": "b",
+          "text": "The teratogen could induce major congenital heart abnormalities"
+        },
+        {
+          "label": "c",
+          "text": "The teratogen could induce minor morphological abnormalities"
+        },
+        {
+          "label": "d",
+          "text": "The teratogen could induce minor functional abnormalities."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Week 3-8 is the most critical period for cell differentiation, organogenesis, and morphogenesis, thus a teratogen exposure at week 6 can potentially introduce a major congenital abnormality. Teratogens have an all or nothing effect during the first 2 weeks of development. Teratogens introduced during the fetal period (week 9 onwards) could potentially introduce minor morphological and functional abnormalities."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "How does GnRH regulate gonadotropin release?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The hypothalamus secretes GnRH into the general circulation and acts on the receptors of the posterior pituitary to induce the secretion of gonadotropins."
+        },
+        {
+          "label": "b",
+          "text": "The hypothalamus secretes GnRH into the general circulation and acts on the receptors of the anterior pituitary to induce the secretion of gonadotropins."
+        },
+        {
+          "label": "c",
+          "text": "The hypothalamus secretes GnRH through a portal system that directly reaches the receptors on the posterior pituitary and induces secretion of gonadotropins."
+        },
+        {
+          "label": "d",
+          "text": "The hypothalamus secretes GnRH through a portal system that directly reaches the receptors on the anterior pituitary and induces the secretion of gonadotropins."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "Which of the following is FALSE regarding the regulation of the GnRH pulse generator",
+      "options": [
+        {
+          "label": "a",
+          "text": "GABA is the strongest positive regulator of the GnRH generator"
+        },
+        {
+          "label": "b",
+          "text": "The pulsatile release of GnRH is to prevent receptor desensitization"
+        },
+        {
+          "label": "c",
+          "text": "Steroids indirectly regulate GnRH release by acting on neurons that synapse onto the GnRH neurons."
+        },
+        {
+          "label": "d",
+          "text": "The pulse generator capacity of the GnRH neurons is intrinsic."
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Kisspeptin is the strongest positive regulator, GABA is a negative regulator."
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "For a 25 year old female who has a regular menstrual cycle, which of the following is correct",
+      "options": [
+        {
+          "label": "a",
+          "text": "We can’t be certain of the duration of her luteal phase since it varies across women, but her follicular phase is likely 14 days."
+        },
+        {
+          "label": "b",
+          "text": "Her FSH levels are the lowest after she ovulates."
+        },
+        {
+          "label": "c",
+          "text": "Her estrogen levels will continuously decrease following ovulation"
+        },
+        {
+          "label": "d",
+          "text": "There is one developing follicle in her ovaries during each menstrual cycle"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "FSH levels are at the lowest after ovulation due to negative feedback from estrogen and progesterone. The length of the follicular phase varies across women, but the luteal phase is usually consistently 14 days. The estrogen level has another surge in the luteal phase. There are multiple follicular waves in development during each cycle."
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "What induces the mid-cycle LH-FSH surge",
+      "options": [
+        {
+          "label": "a",
+          "text": "When estrogen reaches and maintains a high enough level"
+        },
+        {
+          "label": "b",
+          "text": "When estrogen levels drop and no longer exerts negative feedback on the HPO axis"
+        },
+        {
+          "label": "c",
+          "text": "When GnRH pulses are the strongest"
+        },
+        {
+          "label": "d",
+          "text": "When the corpus luteum begins to produce progesterone."
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "Which of the following is correct regarding oocyte development",
+      "options": [
+        {
+          "label": "a",
+          "text": "The oocyte undergoes both mitosis and meiosis in a women of reproductive age"
+        },
+        {
+          "label": "b",
+          "text": "There is an even division of DNA and cellular content upon completion of meiosis I"
+        },
+        {
+          "label": "c",
+          "text": "Following ovulation, the oocyte rests in metaphase of meiosis I and transits through the fallopian tube, awaiting fertilization."
+        },
+        {
+          "label": "d",
+          "text": "Nondisjunction in oocytes can occur upon fertilization with a sperm."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Upon fertilization, the oocyte undergoes completion of meiosis II, where nondisjunction can occur. Oocytes only undergo mitosis during gestation, women are born with a set number of oocytes. There is an even division of DNA with meiosis I, but the first polar body contains very little oocyte cytoplasm. Following ovulation, the oocyte rests in metaphase of meiosis II."
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "What are the hormones which granulosa cells and theca cells respond to, respectively?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Granulosa cells response to estrogen and theca cells respond to progesterone"
+        },
+        {
+          "label": "b",
+          "text": "Granulosa cells respond to FSH and theca cells respond to LH"
+        },
+        {
+          "label": "c",
+          "text": "Both granulosa cells and theca cells respond to GnRH"
+        },
+        {
+          "label": "d",
+          "text": "Granulosa cells respond to progesterone and theca cells respond to estrogen"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    }
+  ]
+}

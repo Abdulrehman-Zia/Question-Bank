@@ -1,0 +1,283 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is part of the lethal triad of hypovolemic hemorrhagic shock (choose 3):",
+      "options": [
+        {
+          "label": "a",
+          "text": "Acidosis"
+        },
+        {
+          "label": "b",
+          "text": "Coagulopathy"
+        },
+        {
+          "label": "c",
+          "text": "Change in mental status"
+        },
+        {
+          "label": "d",
+          "text": "Hypothermia"
+        },
+        {
+          "label": "e",
+          "text": "Hyperlactatemia"
+        },
+        {
+          "label": "f",
+          "text": "Oliguria"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "lethal triad! However, all of the above are indeed signs of hypovolemic shock. Treat the lethal triad by maintaining tissue perfusion (O2, IV fluid, transfusion), warming the patient, and limiting blood loss."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following should you NOT do for a patient in active hemorrhagic shock?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Switch patient to a full liquid diet to replenish fluids"
+        },
+        {
+          "label": "b",
+          "text": "Order CBC, lyte, BUN, group and screen, coagulation study, Cr"
+        },
+        {
+          "label": "c",
+          "text": "Insert a foley catheter"
+        },
+        {
+          "label": "d",
+          "text": "Call for help and ask for gynecology consult Antepartum hemorrhage:"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Patient in hypovolemic hemorrhagic shock should be kept NPO instead. Answers B-D should all be done. Ensure to take vitals, maintain ABC, and consult gynecology urgently if the cause is gynecological. Inserting a foley catheter would be important for monitoring urine output."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following options correctly describes placental abruption, placental previa, placental accreta, or vasa previa (choose 1)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Vasa previa involves placental invasion into the myometrium, resulting in a need for hysterectomy"
+        },
+        {
+          "label": "b",
+          "text": "Placental abruption can reliably be diagnosed using the Apt test paired with ultrasound."
+        },
+        {
+          "label": "c",
+          "text": "Preterm prelabour rupture of membranes will result in the leaking of clear fluid and a positive Kleihaur-Betke test."
+        },
+        {
+          "label": "d",
+          "text": "The treatment for placental accreta is almost always hysterectomy."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "A is incorrect -- it describes placental accreta instead of vasa previa (vasa previa = a condition in which fetal blood vessels cross or run near the internal opening of the uterus). B is incorrect -- placental abruption is actually a diagnosis of exclusion. Ultrasound can be used but we learned in module it isn’t always reliable because the collection of blood may have already drained from the uterus. C is incorrect – preterm prelabour rupture of membranes will indeed result in leakage of clear amniotic fluid. However, Kleihaur-Betke test shows when fetal blood entered maternal circulation! PPROM wouldn’t have a positive Kleihaur-Betke test. D is correct – placental accreta will compromise the uterine myometrium so requires hysterectomy. It doesn’t “always” result in hysterectomy because sometimes invasion is local."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which statement is FALSE (choose 1)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "One of the stat investigations to order if there is obstetrical bleed include liver function tests and creatinine."
+        },
+        {
+          "label": "b",
+          "text": "Cervical dilatation should not be immediately assessed in antepartum hemorrhage"
+        },
+        {
+          "label": "c",
+          "text": "The blood resulting from placental previa is fetal in origin."
+        },
+        {
+          "label": "d",
+          "text": "Ongoing bleeding can result in reduced clotting abilities (i.e. consumptive disseminated intravascular coagulopathy). Preterm Birth"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Blood from placental previa is actually maternal in origin. A, B and D are all true. A is true because Creatinine would show kidney function and a liver function test would rule out pre-eclampsia or acute liver injury. B is true because an ultrasound needs to be performed first to confirm the antepartum hemorrhage is not a placental previa (or else assessing for cervical dilation would exacerbate the bleed)"
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "What is the purpose of tocolysis in threatened preterm labour?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Assist with fetal lung maturity"
+        },
+        {
+          "label": "b",
+          "text": "Assist with fetal neuroprotection and prevent possible eclampsia-related seizures (e.g. decreasing risk of cerebral palsy)"
+        },
+        {
+          "label": "c",
+          "text": "Slowing down active contractions"
+        },
+        {
+          "label": "d",
+          "text": "Reduce the risk of gram-positive sepsis in neonates"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Tocolysis slows down active contractions to facilitate transfer to tertiary center and/or administration of antenatal corticosteroids. Answer A is the function of antenatal corticosteroids. C is the function of magnesium sulfate. D is the function of penicillin."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "How can preterm birth be prevented?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Vaginal progesterone"
+        },
+        {
+          "label": "b",
+          "text": "Cervical cerclage"
+        },
+        {
+          "label": "c",
+          "text": "Treating infectious causes of cervicitis"
+        },
+        {
+          "label": "d",
+          "text": "All of the above Hypertension in Pregnancy"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "all of the above. Cervicitis (e.g. gonorrhea, chlamydia, bacterial vaginosis, etc.) is a risk factor for preterm birth. Cervical cerclage reduces risk of preterm birth due to cervical insufficiency."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A 40 y.o pregnant mom (in third trimester) presents with headache, blurry vision, fatigue, malaise, nausea/vomiting. She is found to have high liver enzymes, low plt, BP: 130/82. What is her most likely diagnosis, which should not be missed?",
+      "options": [
+        {
+          "label": "a",
+          "text": "HELLP"
+        },
+        {
+          "label": "b",
+          "text": "Pre-eclampsia"
+        },
+        {
+          "label": "c",
+          "text": "Theca lutein cyst"
+        },
+        {
+          "label": "d",
+          "text": "Molar pregnancy"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The patient most likely has HELLP, which stands for hemolysis elevated liver enzymes low plt. Note that it is an typical form of pre-eclampsia/eclampsia so doesn’t require HTN for dx. Molar pregnancy (D) would likely present with extremely high hCG and painless vaginal bleeding. Theca lutein cyst (c) may present with pelvic heaviness, maternal virilization, and ruptured cysts may cause bleeding. Both molar pregnancy and theca lutein cyst would present in earlier pregnancy rather than third trimester and both are risk factors for pre-eclampsia. The patient doesn’t have clinical hypertension/pre-eclampsia though because her BP reading is not over 140/90."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following is FALSE (choose 1)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Comorbid conditions (e.g. diabetes, kidney disease) may increase the risk of severity or progression of pre-eclampsia."
+        },
+        {
+          "label": "b",
+          "text": "Gestational hypertension can be diagnosed as early as 18 weeks."
+        },
+        {
+          "label": "c",
+          "text": "Diuretics and ACEi/ARB are contraindicated in hypertensive disorder of pregnancy (HDP)."
+        },
+        {
+          "label": "d",
+          "text": "Severe HDP can result in all of the following: visual disturbances, strokes, cortical blindness, IUGR, oligohydramnios, and hepatic dysfunction. IUGR:"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Gestational hypertension is diagnosed after 20 weeks (or else it is pre-existing HTN). C is TRUE – diuretics are less effective during pregnancy because pregnancy physiology predisposes to fluid retention. ACEi/ARB are toxic to the fetal kidney. All of the adverse effects of HDP are true in answer D."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following is the correct order for the progression of placental microvascular damage found on umbilical artery doppler?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reversed EDF →Decreased baseline EDF →absent EDF"
+        },
+        {
+          "label": "b",
+          "text": "Decreased baseline EDF →absent EDF →reversed EDF"
+        },
+        {
+          "label": "c",
+          "text": "Reversed EDF →decreased baseline EDF →absent EDF"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The first sign of placental microvascular damage is a drop in baseline EDF due to increased resistance to flow. Absent EDF occurs when 50% microvascular structures are damaged. Reversed EDF occurs when 70% of microvasculature is damaged."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which of the following is FALSE (choose 1)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "After 20 weeks, the symphysis-fundus height (SFH) correlates to the gestational age (in weeks) so if the SFH is more than 3 cm less than the gestational age, IUGR can be diagnosed."
+        },
+        {
+          "label": "b",
+          "text": "Very low birth weight is <1500 g and may require intensive care, while extremely low birth weight is <1000 and may require intubation or NG tubes."
+        },
+        {
+          "label": "c",
+          "text": "Premature babies are defined as small for gestational age (<10%th ile)."
+        },
+        {
+          "label": "d",
+          "text": "If a baby is less than 32 weeks gestational age, delivery is not indicated unless abnormal NST or abnormal UA dopplers."
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Small for gestational age is not defined by a specific week of gestation. IUGR, SGA and premature are not synonymous terms. A, B and D are correct. D is correct because <32 wks, babies should be monitored in an attempt to remain in utero."
+      }
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following patients requires the most urgent management:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Archibald presents with weakness, anorexia, and salt cravings"
+        },
+        {
+          "label": "b",
+          "text": "Bastien presents with treatment resistant hypertension and hypokalemia"
+        },
+        {
+          "label": "c",
+          "text": "Christian presents with dehydration, shock, and unexplained hypoglycemia"
+        },
+        {
+          "label": "d",
+          "text": "Damien presents with atrophied peripheral muscles, large purple striae, and ecchymoses"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Christian presents with the classic signs of an adrenal crisis, which is a medical emergency."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "What is the most common cause of Cushing’s syndrome?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Exogenous cortisol"
+        },
+        {
+          "label": "b",
+          "text": "Pituitary adenoma"
+        },
+        {
+          "label": "c",
+          "text": "Adrenal adenoma"
+        },
+        {
+          "label": "d",
+          "text": "ACTH producing tumour"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "While all the options are potential causes of Cushing’s, exogenous cortisol/glucocorticoids is by far the most common cause."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following statements describes an accurate relationship between the various hormones:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Somatostatin inhibits prolactin production"
+        },
+        {
+          "label": "b",
+          "text": "Gonadotropin releasing hormone stimulates growth hormone production"
+        },
+        {
+          "label": "c",
+          "text": "Dopamine inhibits thyroid stimulating hormone production"
+        },
+        {
+          "label": "d",
+          "text": "Thyroid releasing hormone stimulates prolactin production"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Somatostatin inhibits TSH and GH, GnRH stimulates FSH and LH, dopamine inhibits prolactin, and TRH stimulates both TSH and prolactin."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "What is the front line treatment for hyperprolactinemia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Prolactin receptor antagonists"
+        },
+        {
+          "label": "b",
+          "text": "Dopamine receptor agonists"
+        },
+        {
+          "label": "c",
+          "text": "Surgery"
+        },
+        {
+          "label": "d",
+          "text": "Oral contraceptives"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Surgery is only with failed medical therapy. The other options are not indicated for hyperprolactinemia."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "What is the difference between premenstrual syndrome (PMS) and premenstrual dysphoric disorder (PMDD)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "PMDD includes both physical and behavioural symptoms while PMS is purely behavioural"
+        },
+        {
+          "label": "b",
+          "text": "PMS occurs prior to the onset of PMDD"
+        },
+        {
+          "label": "c",
+          "text": "PMDD is more disruptive to daily functioning than PMS"
+        },
+        {
+          "label": "d",
+          "text": "The two are synonymous"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Both PMS and PMDD can have behavioural and physical symptoms. PMS may predicate PMDD but this is not required. PMDD is a much more disabling condition than PMS."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The onset of menarche does not necessarily mean the full reproduction capacity has been reached"
+        },
+        {
+          "label": "b",
+          "text": "Adrenarche is the onset of axillary and pubic hair due to increased androgen production by the gonads"
+        },
+        {
+          "label": "c",
+          "text": "Gonadarche is the activation of gonads by FSH and LH"
+        },
+        {
+          "label": "d",
+          "text": "Thelarche is the appearance of breast tissue due to estrogen production by the ovaries"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Adrenarche is due to the production of adrenal androgens, not from the gonads."
+      }
+    },
+    {
+      "id": 7,
+      "type": "ordering",
+      "prompt": "Correctly order the following pubertal milestones for girls from earliest to latest onset:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Growth spurt"
+        },
+        {
+          "label": "b",
+          "text": "Menarche"
+        },
+        {
+          "label": "c",
+          "text": "Thelarche"
+        },
+        {
+          "label": "d",
+          "text": "Pubarche"
+        }
+      ],
+      "answer": {
+        "order": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "explanation": "C, A, D, B."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT an accepted definition of delayed puberty?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Absence of puberty >13 years old for females"
+        },
+        {
+          "label": "b",
+          "text": "Absence of puberty >15 years old for males"
+        },
+        {
+          "label": "c",
+          "text": "Absence of puberty > 2.5 SD of the average age for either sex"
+        },
+        {
+          "label": "d",
+          "text": "Incomplete puberty > 2.5 SD of the average age for either sex"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The standard definition for males is >14 years old."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "When examining a 14 year old boy, which of the following findings would make you most concerned about abnormal growth?",
+      "options": [
+        {
+          "label": "a",
+          "text": "His height is >2 SD below the average for his age and sex"
+        },
+        {
+          "label": "b",
+          "text": "An X ray of wrists shows delayed bone age despite his short stature"
+        },
+        {
+          "label": "c",
+          "text": "His puberty has been delayed despite his short stature"
+        },
+        {
+          "label": "d",
+          "text": "He is currently significantly below his genetic potential"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "While having a height >2 SD below the average could be an indicator for abnormal growth, having short stature alone is not enough to indicate abnormal growth; he could just be on the shorter end of normal. Delayed bone age and delayed puberty indicate normal growth variants in individuals with shorter stature."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Anh is a 13 year old Vietnamese male who presents to your clinic with concerns of short stature. His mother’s height is 155cm and his father’s height is 171cm. What is his genetic height potential?",
+      "options": [
+        {
+          "label": "a",
+          "text": "168cm"
+        },
+        {
+          "label": "b",
+          "text": "169cm"
+        },
+        {
+          "label": "c",
+          "text": "170cm"
+        },
+        {
+          "label": "d",
+          "text": "171cm"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The equation for the genetic potential of males is (height of mother + height of father + 13)/2."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "Why is FSH generally lower in males than in females?",
+      "options": [
+        {
+          "label": "a",
+          "text": "FSH is not lower in males than in females"
+        },
+        {
+          "label": "b",
+          "text": "Follicular cells in females produce hormones that upregulate the secretion of FSH"
+        },
+        {
+          "label": "c",
+          "text": "Seminiferous cells in males produce hormones that downregulate the secretion of FSH"
+        },
+        {
+          "label": "d",
+          "text": "The mechanism is not currently known"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Sertoli cells in the seminiferous tubules produce inhibin, which downregulates FSH, as LH is the main hormone of spermatogenesis."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "What is the difference between spermatogenesis and spermiogenesis",
+      "options": [
+        {
+          "label": "a",
+          "text": "The two are synonymous"
+        },
+        {
+          "label": "b",
+          "text": "Spermatogenesis produces spermatogonia while spermiogenesis produces spermatozoa"
+        },
+        {
+          "label": "c",
+          "text": "Spermatogenesis produces spermatocytes while spermiogenesis produces spermatids"
+        },
+        {
+          "label": "d",
+          "text": "Spermatogenesis produces spermatids while spermiogenesis produces spermatozoa"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "What is the primary driver of female external genitalia development?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Presence of estrogen"
+        },
+        {
+          "label": "b",
+          "text": "Absence of DHT"
+        },
+        {
+          "label": "c",
+          "text": "Absence of testosterone"
+        },
+        {
+          "label": "d",
+          "text": "A and B"
+        },
+        {
+          "label": "e",
+          "text": "A and C"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "DHT is more potent than testosterone and therefore a more critical influencer of sexual development."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following structures degenerate in males over the course of development?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Mesonephric duct"
+        },
+        {
+          "label": "b",
+          "text": "Paramesonephric duct"
+        },
+        {
+          "label": "c",
+          "text": "Gubernaculum"
+        },
+        {
+          "label": "d",
+          "text": "Cortical cords"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The paramesonephric duct, also known as the Mülleran ducts give rise predominantly to female reproductive tract organs."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Is an estrogen block required for female-to-male transition?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Yes, so that the effects of testosterone is not counteracted"
+        },
+        {
+          "label": "b",
+          "text": "Yes, so that the feminizing effects of estrogen is downregulated"
+        },
+        {
+          "label": "c",
+          "text": "No, because testosterone will automatically downregulate estrogen"
+        },
+        {
+          "label": "d",
+          "text": "No, because the effects of testosterone supercedes the effect of estrogen"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "prompt": "Risks of feminizing hormones include (select all that apply):",
+      "options": [
+        {
+          "label": "a",
+          "text": "Thromboembolic events"
+        },
+        {
+          "label": "b",
+          "text": "Gallstones"
+        },
+        {
+          "label": "c",
+          "text": "Weight gain"
+        },
+        {
+          "label": "d",
+          "text": "Hypertriglyceridemia"
+        },
+        {
+          "label": "e",
+          "text": "Elevated liver enzymes"
+        },
+        {
+          "label": "f",
+          "text": "Polycythemia"
+        },
+        {
+          "label": "g",
+          "text": "Sleep apnea"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "explanation": "Polycythemia and sleep apnea are effects of masculinizing hormones."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "The primary laboratory result indicative of congenital adrenal hyperplasia is:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Low serum 21 hydroxylase"
+        },
+        {
+          "label": "b",
+          "text": "High serum 17 hydroxyprogesterone"
+        },
+        {
+          "label": "c",
+          "text": "Low serum 11b hydroxylase"
+        },
+        {
+          "label": "d",
+          "text": "High serum androgen"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "While the other statements can also be true of CAH, the primary diagnostic test is serum 17 hydroxyprogesterone."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a potential cause of 46XY, DSD?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Congenital adrenal hyperplasia"
+        },
+        {
+          "label": "b",
+          "text": "Testicular regression"
+        },
+        {
+          "label": "c",
+          "text": "5-alpha reductase deficiency"
+        },
+        {
+          "label": "d",
+          "text": "Incomplete androgen insensitivity"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "CAH would be a common cause of 46XX, DSD (over-virulized female), not 46XY, DSD (under-virulized male)."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "The uterine artery can be found embedded in which endopelvic ligament?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Transverse cervical ligament"
+        },
+        {
+          "label": "b",
+          "text": "Uterosacral ligament"
+        },
+        {
+          "label": "c",
+          "text": "Broad ligament"
+        },
+        {
+          "label": "d",
+          "text": "Suspensory ligament of the ovary"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The transverse cervical ligament, aka the cardinal ligament, contains both the uterine vessels and the ureters. The suspensory ligament of the ovary is not an endopelvic ligament, and contains the ovarian vessels."
+      }
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "prompt": "Match the structures to the lymph nodes that drain them (one answer per choice):",
+      "terms": [
+        {
+          "label": "i",
+          "text": "Skin"
+        },
+        {
+          "label": "ii",
+          "text": "Erectile bodies"
+        },
+        {
+          "label": "iii",
+          "text": "Cervix"
+        },
+        {
+          "label": "iv",
+          "text": "Cavernous bodies"
+        },
+        {
+          "label": "v",
+          "text": "Inferior vagina"
+        },
+        {
+          "label": "vi",
+          "text": "Uterine fundus"
+        }
+      ],
+      "choices": [
+        {
+          "label": "a",
+          "text": "Sacral lymph nodes"
+        },
+        {
+          "label": "b",
+          "text": "External iliac lymph nodes"
+        },
+        {
+          "label": "c",
+          "text": "Superficial inguinal lymph nodes"
+        },
+        {
+          "label": "d",
+          "text": "Deep inguinal lymph nodes"
+        },
+        {
+          "label": "e",
+          "text": "Lumbar lymph nodes"
+        },
+        {
+          "label": "f",
+          "text": "Internal iliac lymph nodes"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "i",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "ii",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "iii",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "iv",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "v",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "vi",
+            "answer_label": "a"
+          }
+        ],
+        "explanation": "A - v, B - iii, C - i, D - ii, E - vi, F - iv. Note that both the internal and external iliac lymph nodes could drain the cervix."
+      }
+    }
+  ]
+}

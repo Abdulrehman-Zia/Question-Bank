@@ -1,0 +1,800 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "matching",
+      "prompt": "Sort the following types of dysphagia (i, ii, iii, iv, v, vi) into their types (A, B):",
+      "terms": [
+        {
+          "label": "i",
+          "text": "Schatzki ring (an intermittent dysphagia)"
+        },
+        {
+          "label": "ii",
+          "text": "Jackhammer esophagus (an intermittent dysphagia with chest pain and repetitive peristaltic contractions)"
+        },
+        {
+          "label": "iii",
+          "text": "Scleroderma (a progressive dysphagia with heartburn)"
+        },
+        {
+          "label": "iv",
+          "text": "Eosinophilic esophagitis (a dysphagia presenting with corrugate rings, vertical furrowing, white papules often in young males)"
+        },
+        {
+          "label": "v",
+          "text": "Diffuse spasms (a “corkscrew” esophagus on barium swallow)"
+        },
+        {
+          "label": "vi",
+          "text": "Achalasia (a “bird’s beak” on barium swallowing often with regurgitation of bland food)"
+        }
+      ],
+      "choices": [
+        {
+          "label": "a",
+          "text": "Mechanical - issue with solids only"
+        },
+        {
+          "label": "b",
+          "text": "Motility - issue with solids and liquids"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "i",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "ii",
+            "answer_label": "b"
+          },
+          {
+            "term_label": "iii",
+            "answer_label": "b"
+          },
+          {
+            "term_label": "iv",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "v",
+            "answer_label": "b"
+          },
+          {
+            "term_label": "vi",
+            "answer_label": "b"
+          }
+        ],
+        "explanation": "A = i, iv; B = ii, iii, v, vi"
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is TRUE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Modified barium swallow is used (over barium swallow) for the diagnosis of esophageal dysphagia rather than for the diagnosis for oropharyngeal dysphagia."
+        },
+        {
+          "label": "b",
+          "text": "Methods to treat Schatzki rings, esophageal webs and esophageal strictures include a bougie (e.g. maloney, savary with guide-wire) and endoscopic balloon."
+        },
+        {
+          "label": "c",
+          "text": "A scleroderma crisis involves dysphagia (e.g. wet vocal quality, nasal regurgitation) triggered by antibiotics, fever, infections, or recent surgery and is a reason for referral to emergency & SLP, and initiation of prednisone or IVIG."
+        },
+        {
+          "label": "d",
+          "text": "Manometry is used to diagnose mechanical dysphagia, rather than motility dysphagia."
+        },
+        {
+          "label": "e",
+          "text": "The most common esophageal cancer in the developed world is squamous cell cancer found in the proximal esophagus."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "A is false because modified barium swallow (along with FEES) is used for oropharyngeal dysphagia. B describes myasthenic gravis crisis, not scleroderma crisis which is a renal issue. C is false. D - squamous cell cancer is most common worldwide but adenocarcinoma (is distal esophagus) is most common in developed world (e.g. its associated with GERD and Barrett’s esophagus)."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "NMDA receptors are ionotropic and they mediate the excitatory action of glutamate."
+        },
+        {
+          "label": "b",
+          "text": "Dopamine and serotonin targets share common pathways like MAO (metabolism) inhibition and VMAT (vesicular transport) inhibition."
+        },
+        {
+          "label": "c",
+          "text": "Since GABA is inhibitory, its receptor modulators (e.g. benzodiazepines and barbiturates) are used for sedation, anticonvulsant, and anesthetics."
+        },
+        {
+          "label": "d",
+          "text": "Metabotropic serotonin receptors work by changing the polarization state of the membrane for fast onset of action."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Part 1. Which of the following is NOT a myth about suicide? (i.e. which of the following is true?)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Increased public education programs (e.g. school campaigns) about suicide and its stigma have been shown to reduce suicide rates across many studies."
+        },
+        {
+          "label": "b",
+          "text": "Self-harm is indicative of intrusive suicidal ideation and is a warning sign that shouldn’t be missed."
+        },
+        {
+          "label": "c",
+          "text": "Suicide has minimal biological basis and is typically due to unbearable distress, avoidance of difficult life situations, or as a method of controlling own’s life."
+        },
+        {
+          "label": "d",
+          "text": "Men are more likely to use lethal means for suicide and thus, more likely to die by suicide."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Increased educational campaigns have “not corresponded with a decline in suicide rates.” Self-harm is separate from suicide. Suicide has biological basis (e.g. reduction in serotonin binding in the prefrontal cortex, low serum cholesterol, and abnormal corticotropin releasing hormone binding/level)."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Part 2. Which of the following is NOT a myth about suicide? (i.e. which of the following is true?)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Teenagers and college students are the most at risk for suicide."
+        },
+        {
+          "label": "b",
+          "text": "Suicide cannot be prevented."
+        },
+        {
+          "label": "c",
+          "text": "Barriers to bridges, safe firearm storage and other actions to reduce access to lethal methods of suicide don't work."
+        },
+        {
+          "label": "d",
+          "text": "While evaluating for suicide, physicians should avoid probing suicidal patients about the details of their plan for suicide - else it would cause the patient to further mentally decompensate and act on the plan."
+        },
+        {
+          "label": "e",
+          "text": "Good self-esteem, future goals, and sense of belonging are protective factors against suicide."
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Women and men aged 45-65 have the most absolute numbers of death by suicide with older adult males being most at risk. Suicide can be prevented by coping & crisis plans and treating mental illnesses. When evaluating for suicide, it is important to get as much detail as possible and avoid assumptions because specific plans can be a risk factor."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following situations warrants SSRI or buproprion (NDRI) to be used first line?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Acute depression for bipolar disorder"
+        },
+        {
+          "label": "b",
+          "text": "Prevention of any mood episode, depression, or mania for bipolar disorder"
+        },
+        {
+          "label": "c",
+          "text": "Acute mania for bipolar disorder"
+        },
+        {
+          "label": "d",
+          "text": "Acute safety or tolerability concerns for bipolar disorder"
+        },
+        {
+          "label": "e",
+          "text": "Maintenance treatment for bipolar disorder"
+        },
+        {
+          "label": "f",
+          "text": "Rapid cycling bipolar disorder (>= 4 mood disturbances in a year)"
+        },
+        {
+          "label": "g",
+          "text": "Bipolar disorder with mixed features."
+        },
+        {
+          "label": "h",
+          "text": "None of the above."
+        }
+      ],
+      "answer": {
+        "correct_option": "h",
+        "explanation": "For acute mania, first-line treatment would be atypical antipsychotics (i.e. quetiapine, risperidone, paliperidone, asenapine), third gen antipsychotics (i.e. aripiprazole), anticonvulsant (i.e. divalproex/valproic acid), and antimanic drugs (i.e. lithium). For acute depression and maintenance treatment, it would be quetiapine, lurasidone, lamotrigine, and lithium. SSRI and bupropion (NDRI) are second line drugs and should be used very cautiously in those with rapid cycling bipolar disorder or bipolar disorder with mixed features."
+      }
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is a feature of bipolar depression rather than unipolar depression (choose 3):",
+      "options": [
+        {
+          "label": "a",
+          "text": "Early onset of first depression (< 25 y.o)"
+        },
+        {
+          "label": "b",
+          "text": "Long duration of episodes (> 6 mo)"
+        },
+        {
+          "label": "c",
+          "text": "Psychotic features"
+        },
+        {
+          "label": "d",
+          "text": "Initial insomnia"
+        },
+        {
+          "label": "e",
+          "text": "Hyperphagia +/- increased weight"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "e"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 8,
+      "type": "matching",
+      "prompt": "Match the psychotherapy (A, B, C, D, E) to its description (i, ii, iii, iv, v)",
+      "terms": [
+        {
+          "label": "a",
+          "text": "Psychodynamic Psychotherapy (PDT)"
+        },
+        {
+          "label": "b",
+          "text": "Dialectical Behavioural Therapy (DBT)"
+        },
+        {
+          "label": "c",
+          "text": "Cognitive Behavioural Therapy (CBT)"
+        },
+        {
+          "label": "d",
+          "text": "Behavioural Activation (BA)"
+        },
+        {
+          "label": "e",
+          "text": "Interpersonal Therapy (IPT)"
+        }
+      ],
+      "choices": [
+        {
+          "label": "i",
+          "text": "Scheduling pleasurable activities into your weekly calendar"
+        },
+        {
+          "label": "ii",
+          "text": "Identifying and examining schemas, automatic thoughts/thought distortions, core beliefs with thought recording"
+        },
+        {
+          "label": "iii",
+          "text": "A collaborative patient-therapist treatment focused on a patient’s relationships with others, conflicts, griefs, and role transitions"
+        },
+        {
+          "label": "iv",
+          "text": "A loose therapy that evaluates subconscious defenses, transference (patient sees the “blank” therapist as someone else) through free associations, observation, validation, clarification, confrontation, and encouragement to elaborate"
+        },
+        {
+          "label": "v",
+          "text": "Developed specifically for borderline personality disorder, patients analyze chains of events, vulnerability factors, actions, cognition, feelings to change maladaptive behaviours to adaptive behaviours. Delivered individually, through group skill training, over the phone, or via therapist consultations."
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "a",
+            "answer_label": "iv"
+          },
+          {
+            "term_label": "b",
+            "answer_label": "v"
+          },
+          {
+            "term_label": "c",
+            "answer_label": "ii"
+          },
+          {
+            "term_label": "d",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "e",
+            "answer_label": "iii"
+          }
+        ],
+        "explanation": "A - iv. B - v. C - ii. D - i. E - iii."
+      }
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "In which cases are psychotherapy suitable/indicated (choose 2)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A patient with severe autism who is unable to form meaningful relationships."
+        },
+        {
+          "label": "b",
+          "text": "A schizophrenic patient in either prodrome, active psychosis, or remission and recovery."
+        },
+        {
+          "label": "c",
+          "text": "A patient with bipolar disorder (I) who is in acute depression."
+        },
+        {
+          "label": "d",
+          "text": "A patient who is significantly suffering from PTSD but has no capacity of insight, low tolerance for frustration, and resistant to therapists in general."
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "b",
+          "c"
+        ],
+        "explanation": "While a patient with schizophrenia do have poor “ego strength” (i.e. non-intact reality), in the Psychotic disorder module, it said that “there is strong evidence for CBT for prodome, active psychosis (voice hearer group), remission and recovery).” The patient with severe autism may not be a good candidate as they are not able to form relationships outside of therapy and may have an inability to reflect, think abstractly/symbolically, and integrate interventions. The patient with PTSD similarly does not have a strong “ego strength” (i.e. tolerance for frustration) or “psychological mindedness” (i.e. capacity for insight)."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Which medical illness may co-occur with depression?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Epilepsy"
+        },
+        {
+          "label": "b",
+          "text": "Connective tissue disease like lupus"
+        },
+        {
+          "label": "c",
+          "text": "Hepatic disease"
+        },
+        {
+          "label": "d",
+          "text": "Diabetes"
+        },
+        {
+          "label": "e",
+          "text": "All of the above AND more!! (did I mention: cancer, ESRD, cardiac disease, HIV)"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "Which of the following is false about depression?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Patients with depression are at higher risk of developing diabetes and CAD."
+        },
+        {
+          "label": "b",
+          "text": "MAOI and TCA are recommended for cardiac patients with depression due to its relatively safe side-effects profile."
+        },
+        {
+          "label": "c",
+          "text": "Patients with medical illnesses may be chronically stressed, which results in a hyperactive immune system and sympathetic nervous system, and increased catecholamines, which ultimately results in depression."
+        },
+        {
+          "label": "d",
+          "text": "In patients with cancer, 61-82% will not have depression."
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "SSRI are first line while MAOI and TCA may prolong QT intervals so are contra-indicated. D is true because the prevalence of depression in cancer patients is 18-39%."
+      }
+    },
+    {
+      "id": 12,
+      "type": "matching",
+      "prompt": "Match the drugs (ABCDEFGH) to the reuptake transporter it inhibits (i, ii, iii, iv), the latter of which can be used more than once.",
+      "terms": [
+        {
+          "label": "a",
+          "text": "Fluoxetine and escitalopram (SSRI)"
+        },
+        {
+          "label": "b",
+          "text": "Amphetamine"
+        },
+        {
+          "label": "c",
+          "text": "Amitriptyline and clomipramine (TCA)"
+        },
+        {
+          "label": "d",
+          "text": "Tiagabine (anticonvulsant)"
+        },
+        {
+          "label": "e",
+          "text": "Duloxetine and venlafaxine (SNRI)"
+        },
+        {
+          "label": "f",
+          "text": "Bupropion (NDRI)"
+        }
+      ],
+      "choices": [
+        {
+          "label": "i",
+          "text": "Serotonin transporter (SERT)"
+        },
+        {
+          "label": "ii",
+          "text": "Norepinephrine transporter (NET)"
+        },
+        {
+          "label": "iii",
+          "text": "Dopamine transporter (DATA)"
+        },
+        {
+          "label": "iv",
+          "text": "GABA transporter (GAT1)"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "a",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "b",
+            "answer_label": "iii"
+          },
+          {
+            "term_label": "c",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "d",
+            "answer_label": "iv"
+          },
+          {
+            "term_label": "e",
+            "answer_label": "i"
+          },
+          {
+            "term_label": "f",
+            "answer_label": "ii"
+          }
+        ],
+        "explanation": "A - i. B -iii. C - i, ii. D - iv. E - i, ii. F - ii, iii."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which of the following statements about the multi-axial formulation is correct?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Axis I refers to clinical disorders, including major mental disorders and learning disorders"
+        },
+        {
+          "label": "b",
+          "text": "Axis II refers to psychosocial and environmental factors contributing to the disorder"
+        },
+        {
+          "label": "c",
+          "text": "Axis III refers to personality disorders and intellectual disabilities"
+        },
+        {
+          "label": "d",
+          "text": "Axis IV describes an assessment of functioning"
+        },
+        {
+          "label": "e",
+          "text": "Axis V refers to acute medical conditions and physical disorders"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following is not true about a mental disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "It reflects dysfunction in a psychological, biological or development process underlying mental functioning"
+        },
+        {
+          "label": "b",
+          "text": "It causes clinically significant distress or impairment in functioning"
+        },
+        {
+          "label": "c",
+          "text": "It includes socially deviant behaviour"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "socially deviant behaviour is not considered a mental disorder"
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "In a psychiatric history, which of the following are the main goals of assessing previous psychiatric history?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Establishing a longitudinal course of the illness"
+        },
+        {
+          "label": "b",
+          "text": "Determining severity of the disorder"
+        },
+        {
+          "label": "c",
+          "text": "Understanding predisposing, precipitating and protective factors"
+        },
+        {
+          "label": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "these are all goals of getting previous psychiatric history"
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "What is the “funnel” strategy in the psychiatric interview?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Asking about predisposing factors first, then precipitating factors, then protective factors"
+        },
+        {
+          "label": "b",
+          "text": "Asking open ended questions first in the HPI, then more close-ended questions"
+        },
+        {
+          "label": "c",
+          "text": "Asking about more difficult topics first and ending the interview on a lighter topic"
+        },
+        {
+          "label": "d",
+          "text": "Asking about lighter topics first and ending the interview on more difficult topics"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "when taking an HPI, it can be helpful to move from general to specific to close-ended questions"
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "You are interviewing Blanche, who tells you she missed her last appointment because she was following Lizzo around the country on her world tour. She tells you she had to go to every concert because Lizzo is in love with her and they are meant to be together. Which of the following is the best description of Blanche’s beliefs?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Grandiose delusions"
+        },
+        {
+          "label": "b",
+          "text": "Delusions of reference"
+        },
+        {
+          "label": "c",
+          "text": "Erotomanic delusions"
+        },
+        {
+          "label": "d",
+          "text": "Jealous delusions"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Erotomanic delusions are the fixed false belief that someone is in love with the individual affected by the delusion."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "Which of the following would not fall under the “speech” portion of the mental status exam?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tachylalia"
+        },
+        {
+          "label": "b",
+          "text": "Latency"
+        },
+        {
+          "label": "c",
+          "text": "Cluttered speech"
+        },
+        {
+          "label": "d",
+          "text": "Pressure of speech"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Pressure of speech, often seen in mania, is related to thought disorder rather than speech."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Sophia has been referred to you by her family doctor due to complaints of low energy and difficulty concentrating as well as low mood and a loss of enthusiasm to continue with her marathon training, which she was previously excited about. As you talk to her, Sophia also tells you that even though she’s been training less, been eating and sleeping a lot more than usual and has gained weight in the past month. When you question her about her low mood, she tells you that she is planning on getting a puppy soon, which she is very excited about. Which of the following are you most likely to diagnose Sophia with?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Binge eating disorder"
+        },
+        {
+          "label": "b",
+          "text": "Major depressive disorder with atypical features"
+        },
+        {
+          "label": "c",
+          "text": "Major depressive disorder with mixed features"
+        },
+        {
+          "label": "d",
+          "text": "Major depressive disorder with melancholic features"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Sophia meets the criteria for major depressive disorder (low energy, difficulty concentrating, low mood, anhedonia) as well as atypical feature criteria (mood reactivity (mood brightens in response to thought of getting a puppy), hyperphagia and hypersomnia)."
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "You are treating Phil, a 47-year-old man with a new diagnosis of Major Depressive Disorder. Which of the following are you least likely to discuss with him as a potential treatment option today?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Electroconvulsive therapy"
+        },
+        {
+          "label": "b",
+          "text": "Light therapy"
+        },
+        {
+          "label": "c",
+          "text": "Cognitive behavioural therapy"
+        },
+        {
+          "label": "d",
+          "text": "SSRIs"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "ECT should be reserved for treatment-resistant depression"
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "You are meeting with Rose who was recently diagnosed with major depressive disorder and after 3 months of psychotherapy, would like to try an antidepressant. Rose recently got a new job that she worries about a lot especially at night when she is trying to fall asleep. Which of the following would be the best SSRI to try first?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Citalopram (Celexa)"
+        },
+        {
+          "label": "b",
+          "text": "Sertraline (Zoloft)"
+        },
+        {
+          "label": "c",
+          "text": "Paroxetine (Paxil)"
+        },
+        {
+          "label": "d",
+          "text": "Fluoxetine (Prozac)"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Paroxetine (Paxil), if dosed at night can help reduce Rose’s anxiety and insomnia because of its sedating effects."
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "You are a clerk in a family medicine practice. Amira, who is new to your family medicine clinic, complains that her 20mg daily dose of fluoxetine is giving her trouble sleeping at night. You discontinue her fluoxetine and prescribe paroxetine 10mg daily. A week later, Amira tells you her anxiety and insomnia is worse and she’s experiencing constant shaking with continuing depressive symptoms. You up Amira’s paroxetine dose to 30mg daily to treat the symptoms. One month later, you are on your ER rotation and you see Amira in the ER complaining of extreme fatigue, tachycardia, diarrhea, tremor, hyperreflexia and a widespread extreme burning sensation. She seems confused. What treatment options are you considering?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Discontinue paroxetine"
+        },
+        {
+          "label": "b",
+          "text": "IV fluoxetine"
+        },
+        {
+          "label": "c",
+          "text": "Benzodiazepines"
+        },
+        {
+          "label": "d",
+          "text": "Cyprohepatadine"
+        },
+        {
+          "label": "e",
+          "text": "Increase paroxetine dose"
+        },
+        {
+          "label": "f",
+          "text": "B, C, E"
+        },
+        {
+          "label": "g",
+          "text": "A, C, D"
+        },
+        {
+          "label": "h",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "g",
+        "explanation": "Amira has serotonin syndrome because the fluoxetine was not tapered before starting paroxetine and because her paroxetine dose was subsequently increased. Paroxetine needs to be discontinued. Benzodiazepines can be considered for sedation and cyproheptadine may be considered."
+      }
+    }
+  ]
+}

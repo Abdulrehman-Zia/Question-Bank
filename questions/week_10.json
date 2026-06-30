@@ -1,0 +1,505 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "5 year old girl fell on the playground. Xray showed a fracture in the proximal humerus, 100% displacement in the plane of the joint. What would be the preferred treatment?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Put on a sling"
+        },
+        {
+          "label": "b",
+          "text": "Physiotherapy"
+        },
+        {
+          "label": "c",
+          "text": "Closed reduction and casting"
+        },
+        {
+          "label": "d",
+          "text": "Emergency surgery"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "young kid, so lots of ability to remodel naturally, only needs slight traction using a sling. There are positive factors for bone remodeling (more than 2 years of growth remaining, defect in plane of joint)"
+      }
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Erin is a 8 year old girl presenting with thoracic scoliosis angled at 23°. What are the possible treatment strategies for her? (select all that apply)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Education and monitoring"
+        },
+        {
+          "label": "b",
+          "text": "Spine orthosis"
+        },
+        {
+          "label": "c",
+          "text": "NSAIDS for pain"
+        },
+        {
+          "label": "d",
+          "text": "Surgical intervention"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "consider surgery since she has multiple risk factors for progression (girl, premenarchal, thoracic spine). Pain is rarely a presenting feature for scoliosis."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Patient with a family history of neurofibromatosis presents with a mass that is less than 5cm, tethered, and deep on the hip. What is the best sampling method for this lesion?",
+      "options": [
+        {
+          "label": "a",
+          "text": "FNAB"
+        },
+        {
+          "label": "b",
+          "text": "Core biopsy"
+        },
+        {
+          "label": "c",
+          "text": "Incisional biopsy"
+        },
+        {
+          "label": "d",
+          "text": "Excisional biopsy"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "suspect sarcoma, so best sampling method is core biopsy. FNAB cannot provide cell organization and structure. Incisional is more invasive than core biopsy. Excisional biopsy is not ideal for sarcoma."
+      }
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "The biopsy sample confirms sarcoma. What are the next management steps?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pre op chemo"
+        },
+        {
+          "label": "b",
+          "text": "Pre op radiation"
+        },
+        {
+          "label": "c",
+          "text": "Surgery"
+        },
+        {
+          "label": "d",
+          "text": "Adjuvant chemo"
+        },
+        {
+          "label": "e",
+          "text": "Post op chest CT"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "b",
+          "c",
+          "e"
+        ],
+        "explanation": "treatment is pre op radiation, then surgery. These tumors are resistant to chemotherapy, so no chemo done. Post op chest CT important to monitor recovery."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Why is it important to have multiple Xray views when assessing a fracture? (select all that apply)",
+      "options": [
+        {
+          "label": "a",
+          "text": "To pick up microfractures that may only be seen in one view"
+        },
+        {
+          "label": "b",
+          "text": "To differentiate between a transverse and linear fracture"
+        },
+        {
+          "label": "c",
+          "text": "To assess whether an oblique fracture is actually a spiral fracture"
+        },
+        {
+          "label": "d",
+          "text": "To check whether tendons are involved in an avulsion fracture"
+        },
+        {
+          "label": "e",
+          "text": "To confirm a rotational fracture"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "e"
+        ],
+        "explanation": "some microfractures may only be seen in one view. A transverse and linear fracture are very different, and can be differentiated from a single view. A spiral fracture may look like an oblique fracture in one view, so it is important to obtain another view to differentiate the two. Tendons cannot be seen well on Xrays. Rotational fractures usually need two views to look at joints proximally and distally to interpret the degree and type of rotation."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following is true for fracture healing?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Primary healing is healing that comes spontaneously and seen more commonly"
+        },
+        {
+          "label": "b",
+          "text": "Bony callus forms at fracture site, then revascularization occurs"
+        },
+        {
+          "label": "c",
+          "text": "Distal humerus takes longer to heal than proximal humerus"
+        },
+        {
+          "label": "d",
+          "text": "Malunion refers to no healing in 6-9 months"
+        },
+        {
+          "label": "e",
+          "text": "Healing takes longer if the fracture is extraarticular since there is no synovial fluid involved"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "A is wrong because this describes secondary healing, primary healing is the contact healing after closed reduction or ORIF. B is wrong because revascularization occurs first, then formation of bony callus occurs after. C is correct. D describes nonunion. E is wrong because intraarticular fractures take a longer time to heal."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "50 year old patient presents to the emergency department following a motor vehicle accident. Xrays show that there is a talar neck fracture. The patient undergoes ORIF. What complication will the patient most likely experience following this injury?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Posttraumatic arthritis"
+        },
+        {
+          "label": "b",
+          "text": "Osteonecrosis"
+        },
+        {
+          "label": "c",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "d",
+          "text": "Heterotopic ossification"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "posttraumatic arthritis is the most likely complication following ankle fracture. Osteonecrosis is possible, but not as likely as posttraumatic arthritis. Osteoarthritis and heterotopic ossification are not likely in the ankle."
+      }
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Patient presents with an open tibial fracture with a skin defect measuring 5cm. Which of the following are true? (select all that apply)",
+      "options": [
+        {
+          "label": "a",
+          "text": "There is an increased chance of nonunion and infection"
+        },
+        {
+          "label": "b",
+          "text": "Obtain tetanus status and administer tetanus prophylaxis"
+        },
+        {
+          "label": "c",
+          "text": "Take a swab and wait for culture results before administering antibiotics"
+        },
+        {
+          "label": "d",
+          "text": "Contact plastic surgery to perform flap surgery"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b"
+        ],
+        "explanation": "there is an increased chance of complications (infection, nonunion, time to union) for open fractures. It is important to get tetanus status and prophylaxis for all open fractures. Do not wait for culture to administer antibiotics. Since this is a grade 2 open fracture, there is no need for flap surgery."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "You are in the emergency room assessing Rachel Green, a 31 year old female. Rachel was driving her friend’s Porsche at high speed on the 401 when the car in front of her braked suddenly. Rachel collided into the car in front of her. On your exam, you notice Rachel has some mild knee pain, minimal swelling of her right knee and decreased range of motion. Given the mechanism of injury, what knee ligament did Rachel most likely injure?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Medial collateral ligament"
+        },
+        {
+          "label": "b",
+          "text": "Lateral collateral ligament"
+        },
+        {
+          "label": "c",
+          "text": "Anterior cruciate ligament"
+        },
+        {
+          "label": "d",
+          "text": "Posterior cruciate ligament"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "This is a classic dashboard injury causing the tibia to move posteriorly relative to the femur when the knee is flexed. Patients typically present with poorly defined pain and minimal swelling."
+      }
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Tobiloba is a 19 year old woman coming to see you in the family medicine clinic with gradually worsening bilateral anterior knee pain. She describes the pain as deep and aching. She first noticed the pain when she increased her hurdles training volume, and initially the pain was brought on by exercise. However, the pain is now brought on when she climbs stairs and stands up after prolonged periods of sitting. Based on the most likely diagnosis, what would you offer Tobiloba? Choose all that are correct.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Physiotherapy"
+        },
+        {
+          "label": "b",
+          "text": "Knee arthroscopy"
+        },
+        {
+          "label": "c",
+          "text": "Activity modifications"
+        },
+        {
+          "label": "d",
+          "text": "Bracing"
+        },
+        {
+          "label": "e",
+          "text": "Taping"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "d",
+          "e"
+        ],
+        "explanation": "Given the presentation and the demographics of this case, Tobiloba most likely has patellofemoral pain syndrome (PFPS). Because PFPS is related to increased Q angle, physiotherapy may focus on quadriceps strengthening (especially vastus medialis) to prevent lateral translation of the patella during knee flexion. Knee surgery is not indicated. Activity modifications are indicated, and bracing and taping may also help prevent lateral patellar translation."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "prompt": "You are a family medicine resident seeing Kavi, 58 years old, who complains to you about pain in their legs. They have aching pain in both legs that sometimes feels itchy. Kavi works in customer service and finds the pain to be worse after a long shift standing. On physical exam, you see dilated, tortuous veins on both legs. Which of the following is not recommended for Kavi?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Daily exercise"
+        },
+        {
+          "label": "b",
+          "text": "Compression stockings"
+        },
+        {
+          "label": "c",
+          "text": "Daily hot water soak"
+        },
+        {
+          "label": "d",
+          "text": "Laser therapy"
+        },
+        {
+          "label": "e",
+          "text": "Daily elevation of the legs"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "d",
+          "e"
+        ],
+        "explanation": "Kavi has varicose veins. Exercise, compression stockings, and daily elevation of the legs can help return the blood towards the heart. Laser therapy damages the varicose veins, causing formation of scar tissue and eventual disappearance of the vein. Daily hot water soaks are NOT recommended as they can further vasodilation and venous stasis."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "Milica is a 30 year old woman in your family medicine clinic seeking help for pain on the dorsum of her right foot which radiates to the space between her first and second toes. She recently took on a job at a ski resort where she teaches ski lessons for six hours a day. Which nerve has Milica most likely compressed?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tibial nerve"
+        },
+        {
+          "label": "b",
+          "text": "Common peroneal nerve"
+        },
+        {
+          "label": "c",
+          "text": "Superficial peroneal nerve"
+        },
+        {
+          "label": "d",
+          "text": "Deep peroneal nerve"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Tight boots such as ski boots can compress the deep fibular nerve where it passes under the extensor retinaculum."
+      }
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "prompt": "How does physical activity affect the cardiovascular system? Check all that are correct.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Increases oxygen uptake"
+        },
+        {
+          "label": "b",
+          "text": "Decreases blood pressure during exercise"
+        },
+        {
+          "label": "c",
+          "text": "Increases blood viscosity"
+        },
+        {
+          "label": "d",
+          "text": "Improves endothelial function"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "d"
+        ],
+        "explanation": ""
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Akbar is a 56 year old patient interested in adding physical activity to his lifestyle. He comes to you for advice because he is fairly sedentary and has a history of hypertension, with average readings of 185/100. Which of the following would you NOT recommend?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Isometric exercises"
+        },
+        {
+          "label": "b",
+          "text": "An ACE inhibitor"
+        },
+        {
+          "label": "c",
+          "text": "Prolonged warmup and cool-down"
+        },
+        {
+          "label": "d",
+          "text": "At least one rest day per week"
+        },
+        {
+          "label": "e",
+          "text": "Calcium channel blockers"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "ACE inhibitor or calcium channel blocker will help control Akbar’s hypertension to make exercise safe. Including a warmup of 15minutes and a cool-down of 10minutes is an important consideration for patients with hypertension. One rest day per week will help Akbar avoid injury. Isometric exercises, overhead exercises and supine exercises are not recommended for patients with hypertension."
+      }
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "prompt": "Blanche, a 55 year old woman, comes to your walk-in clinic seeking help for pain on the bottom of her foot. The pain localizes to her heel and she tells you the pain is the worst when she gets out of bed in the morning and when she goes for a run. Based on your suspected diagnosis, which of the following would you not recommend for Blanche?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Night splints"
+        },
+        {
+          "label": "b",
+          "text": "Shoes with arch support"
+        },
+        {
+          "label": "c",
+          "text": "Physiotherapy"
+        },
+        {
+          "label": "d",
+          "text": "Corticosteroid injections"
+        },
+        {
+          "label": "e",
+          "text": "Cushioned heel pad"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "e"
+        ],
+        "explanation": "important non-pharmacological interventions, corticosteroid injections do not play a role."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "Pes planus commonly occurs after an injury to which of the following muscles?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tibialis posterior"
+        },
+        {
+          "label": "b",
+          "text": "Quadratus plantae"
+        },
+        {
+          "label": "c",
+          "text": "Peroneus longus"
+        },
+        {
+          "label": "d",
+          "text": "Tibialis anterior"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "While peroneus longus and tibialis anterior also play a role in supporting the medial longitudinal arch, the main contributor is tibialis posterior, and thus injury to tibialis posterior is a common cause of pes planus."
+      }
+    }
+  ]
+}

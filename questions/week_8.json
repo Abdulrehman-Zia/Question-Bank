@@ -1,0 +1,506 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is TRUE regarding whiplash associated disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Most whiplash injuries eventually require surgical interventions"
+        },
+        {
+          "label": "b",
+          "text": "It is usually treated with neck immobilization with a C-collar"
+        },
+        {
+          "label": "c",
+          "text": "It is common to have spinal cord injury associated with whiplash injuries"
+        },
+        {
+          "label": "d",
+          "text": "It is a common injury during multi-vehicle collisions"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Most whiplash injuries have muscles inolved rather than the spinal cord and can be managed with conservative management with simple neck mobilization."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "A patient is complaining about pain in the posterior left thigh and imaging reveals a left paracentral disc herniation at L5/S1 level. Which nerve root is most likely affected?",
+      "options": [
+        {
+          "label": "a",
+          "text": "L4"
+        },
+        {
+          "label": "b",
+          "text": "L5"
+        },
+        {
+          "label": "c",
+          "text": "S1"
+        },
+        {
+          "label": "d",
+          "text": "S2"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a typically radiographical finding for degenerative shoulder arthritis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Non-uniform narrowing of joint space"
+        },
+        {
+          "label": "b",
+          "text": "Cyst"
+        },
+        {
+          "label": "c",
+          "text": "Osteophytes"
+        },
+        {
+          "label": "d",
+          "text": "Erosion"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Erosions are typically found in inflammatory arthritis. Asymmetric joint space narrowing, osteophytes, cycs and subchondral sclerosis are the typical radiological findings for degenerative (non-inflammatory) arthritis."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "A patient comes into your office after falling on their elbow while playing sports, now complaining about numbness and tingling with their pinky. What spinal roots is the affected nerve originated from?",
+      "options": [
+        {
+          "label": "a",
+          "text": "C5-T1"
+        },
+        {
+          "label": "b",
+          "text": "C5-C7"
+        },
+        {
+          "label": "c",
+          "text": "C8-T1"
+        },
+        {
+          "label": "d",
+          "text": "C7"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE about rotator cuff disease classification and management?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Stage I is indicated by a partial thickness tear"
+        },
+        {
+          "label": "b",
+          "text": "Stage II is indicated by a full thickness tear"
+        },
+        {
+          "label": "c",
+          "text": "Stage III can be treated with physiotherapy"
+        },
+        {
+          "label": "d",
+          "text": "Stage IV is usually treated with arthroplasty"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Stage I: no structural defects; II: partial tear; III: full tear."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following physical exam findings is most consistent with bicipital tendonpathy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Postive Speed’s test"
+        },
+        {
+          "label": "b",
+          "text": "Postive Hawkin’s Test"
+        },
+        {
+          "label": "c",
+          "text": "Positive Neer’s test"
+        },
+        {
+          "label": "d",
+          "text": "Negative Yergasen’s test"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Postive Speed’s and Yergasen’s tests indicate bicepital tenonopathy. Positive Neer’s and Hawkin’s tests indicate rotator cuff impingement."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A patient has recently suffered from a mid-shaft humorous facture. Which of the following complications is the LEAST concerned of?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Malunion of humerus"
+        },
+        {
+          "label": "b",
+          "text": "Nonunion of humerus"
+        },
+        {
+          "label": "c",
+          "text": "Radial nerve injury"
+        },
+        {
+          "label": "d",
+          "text": "Median nerve injury"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Radial nerve is more prone to injury during humerus fracture due to its close proximity to the bone. Malunion and nonunion are the common complications that should be watched for with all fractures."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is FALSE regarding elbow dislocation?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anterior dislocation is more common than posterior dislocation"
+        },
+        {
+          "label": "b",
+          "text": "The most common mechanism of the injury is falling onto outstretched hand"
+        },
+        {
+          "label": "c",
+          "text": "Ulnar nerve is most of concern during a typical elbow dislocation"
+        },
+        {
+          "label": "d",
+          "text": "One of the complications to watch for is the compartment syndrome of the forearm"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Posterior dislocaions are the most common."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following statements is TRUE regarding medial epicondylitis and lateral epicondylitis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Medial epicondylitis is the tendinopathy at the common extensor origin"
+        },
+        {
+          "label": "b",
+          "text": "Lateral epicondylitis can produce pain with passive stretch of wrist extension"
+        },
+        {
+          "label": "c",
+          "text": "Medial epicondylitis can produce pain with resisted wrist extension"
+        },
+        {
+          "label": "d",
+          "text": "Lateral epicondylitis is more common with the age group of 30’s-40’s"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Medial epicondylitis is at the common flexor origin and can produce pain with passive stretch of wrist extension, and resisted wrist flexion; lateral epicondylitis is at the common extensor origin and can produce pain with passive stretch of wrist flexion, and resisted wrist extension."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "A 35-year old patient presents to your office with right-sided back pain mainly. The pain radiates to the posterior thigh. It gets worse with extension and is relieved with flexion. The patient has no sensory symptoms or other red flags. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "L5 radiculopathy"
+        },
+        {
+          "label": "b",
+          "text": "Facteogenic pain in the lumbar spine"
+        },
+        {
+          "label": "c",
+          "text": "Facetogenic pain the sacral spine"
+        },
+        {
+          "label": "d",
+          "text": "Cauda equina syndrome"
+        },
+        {
+          "label": "e",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "This presentation (pain that is aggravated by extension and relieved with flexion) is consistent with facetogenic pain of the lumbar spine"
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "During your ER rotation, a patient is brought to the ER complaining of a sudden loss of sensation in the buttocks area. They’ve been experiencing bilateral leg and back pain for the past 24 hours. What is the best next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reassure that the patient that this is mechanical back pain and prescribe NSAIDs."
+        },
+        {
+          "label": "b",
+          "text": "Refer to physiotherapy"
+        },
+        {
+          "label": "c",
+          "text": "Order an emergency MRI"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "An MRI is needed to rule out cauda equina syndrome"
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "A 45-year old patient presents to your clinic with left shoulder stiffness that started suddenly 2 weeks ago. After doing a thorough physical exam, you observe that the patient has a globally restricted range of motion. The patient has T2DM but is otherwise healthy with no previous medical history. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Adhesive capsulitis"
+        },
+        {
+          "label": "b",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "c",
+          "text": "Shoulder dislocation"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Given the globally restricted range of motion and the patient’s history of T2DM, adhesive capsulitis (frozen shoulder) is the most likely diagnosis here"
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "You perform a physical exam on a patient has been complaining of progressive shoulder pain and they report a positive painful arc test. Which muscle is most likely implicated?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Infraspinatus"
+        },
+        {
+          "label": "b",
+          "text": "Teres minor"
+        },
+        {
+          "label": "c",
+          "text": "Both A and B"
+        },
+        {
+          "label": "d",
+          "text": "Supraspinatus"
+        },
+        {
+          "label": "e",
+          "text": "Both A and D"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "A positive painful arc test is suggestive of supraspinatus impingement"
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "A 35-year-old professional athlete presents to your office with anterior shoulder pain that gets worse with shoulder flexion and elbow flexion. The patient has no sensory symptoms. Which structure is most likely impinged?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Biceps brachii (short head tendon)"
+        },
+        {
+          "label": "b",
+          "text": "Biceps brachii (long head tendon)"
+        },
+        {
+          "label": "c",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "d",
+          "text": "Both A and B"
+        },
+        {
+          "label": "e",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "This presentation is most consistent with proximal biceps tendinopathy in which the tendon of the long head of the biceps becomes impinged."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Following a motor vehicle accident, a patient is unable to extend their arm or forearm. The patient is also unable to fully abduct their shoulder. Which of the following structures has most likely been damaged?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Lateral cord"
+        },
+        {
+          "label": "b",
+          "text": "Posterior cord"
+        },
+        {
+          "label": "c",
+          "text": "Medial cord"
+        },
+        {
+          "label": "d",
+          "text": "Ansa cervicalis"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The symptoms presented here suggest injury to the posterior cord from which both the axillary and radial nerves originate."
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "A 25-year-old got injured during a soccer game. The patient experiences significant pain and is unable to fully abduct their shoulder. X-ray of the shoulder joint shows damage to the proximal humerus. Which of the following structures hast most likely been damaged?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "b",
+          "text": "Anterior circumflex humeral artery"
+        },
+        {
+          "label": "c",
+          "text": "Posterior circumflex humeral artery"
+        },
+        {
+          "label": "d",
+          "text": "A and B"
+        },
+        {
+          "label": "e",
+          "text": "A and C"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "An injury to the proximal humerus can cause damage to the surgical neck. The axiliary nerve and the posterior circumflex humeral artery both course through here."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "A few weeks after falling on their elbow, your patient presents with a hot, swollen and tender elbow. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Aspirate the joint to rule out Olecranon bursitis"
+        },
+        {
+          "label": "b",
+          "text": "Reassure the patient and prescribe NSAIDs for pain"
+        },
+        {
+          "label": "c",
+          "text": "Order an MRI of the joint"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Given the inflammatory symptoms, aspirating the joint would be the most appropriate next step here."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "A patient presents to your office with pain in their elbow. On physical exam, the pain gets worse with resisted elbow extension and resisted middle finger extension. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Lateral epicondylitis"
+        },
+        {
+          "label": "b",
+          "text": "Triceps tendinopathy"
+        },
+        {
+          "label": "c",
+          "text": "Medical epicondylitis"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The scenario presented here is suggestive of a positive test for lateral epicondylitis"
+      }
+    }
+  ]
+}

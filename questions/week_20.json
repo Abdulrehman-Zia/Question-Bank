@@ -1,0 +1,818 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "matching",
+      "prompt": "Match the term to the correct description.",
+      "terms": [
+        {
+          "label": "A",
+          "text": "N1 Sleep"
+        },
+        {
+          "label": "B",
+          "text": "N2 Sleep"
+        },
+        {
+          "label": "C",
+          "text": "N3 Sleep"
+        },
+        {
+          "label": "D",
+          "text": "REM Sleep"
+        }
+      ],
+      "descriptions": [
+        {
+          "label": "1",
+          "text": "Where vivid dreaming occurs and may be important for memory consolidation. EEG shows low-voltage fast waves, muscle atonia and rapid eye movements. Sawtooth wave form, theta activity and slow alpha activity."
+        },
+        {
+          "label": "2",
+          "text": "Transitional role in sleep-stage cycle. EEG shows transitions from wakefulness (rhythmic alpha waves) to low-voltage, mixed frequency waves."
+        },
+        {
+          "label": "3",
+          "text": "Related to memory consolidation. EGG shows low voltage fast activity characterized by the presence of sleep spindles and K-complexes."
+        },
+        {
+          "label": "4",
+          "text": "Primary function is daily brain recovery and secretion of growth hormone is greatest during this stage. EEG shows high voltage, slow-wave activity, large delta waves."
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "A",
+            "answer_label": "2"
+          },
+          {
+            "term_label": "B",
+            "answer_label": "3"
+          },
+          {
+            "term_label": "C",
+            "answer_label": "4"
+          },
+          {
+            "term_label": "D",
+            "answer_label": "1"
+          }
+        ],
+        "explanation": "A2, B3, C4, D1"
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "What is commonly found on EEG for patients with fibromyalgia or chronic pain?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Alpha wave intrusion in N2 Sleep"
+        },
+        {
+          "label": "b",
+          "text": "Sleep spindles and K complexes in N3 sleep"
+        },
+        {
+          "label": "c",
+          "text": "Large delta waves in REM sleep"
+        },
+        {
+          "label": "d",
+          "text": "Sawtooth waveforms in N1 sleep"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "What findings on EEG for depression? Select all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Short REM latency"
+        },
+        {
+          "label": "b",
+          "text": "Decreased REM density"
+        },
+        {
+          "label": "c",
+          "text": "Reduced slow wave sleep"
+        },
+        {
+          "label": "d",
+          "text": "Less fragmentation"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "c"
+        ],
+        "explanation": "Depression shows shortened REM latency, increased REM density, reduced slow wave sleep and more fragmentation. Therefore, B and D are incorrect."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following are not clinical indications for sleep studies?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Obstructive sleep apnea"
+        },
+        {
+          "label": "b",
+          "text": "Narcolepsy"
+        },
+        {
+          "label": "c",
+          "text": "Parasomnia"
+        },
+        {
+          "label": "d",
+          "text": "Insomnia"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Insomnia is not a clinical indication for a sleep study. It is a clinical diagnosis. Obstructive sleep apnea, narcolepsy and parasomnia are clinical indications for sleep studies."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "M.R is a 23-year-old male who has come to your office complaining of excessive daytime sleepiness. His partner, who accompanies him on this visit, mentions that he has been more tired lately when he comes home from school and has trouble concentrating on tasks. They often find him has dozed off in front of the TV while waiting for dinner. He has restless sleep during the night, and they are getting tired of having their own sleep disrupted with his loud snores. He does little else but sleep during the weekend and his partner worries that might be a sign of depression. His physical exam is remarkable for blood pressure of 150/70, oxygen saturation of 95% on room air, body mass index of 35 kg/m2. Respiratory, cardiac, and abdominal examination are otherwise unremarkable. What is at the top of your differential diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Narcolepsy"
+        },
+        {
+          "label": "b",
+          "text": "Obstructive sleep apnea"
+        },
+        {
+          "label": "c",
+          "text": "Depression"
+        },
+        {
+          "label": "d",
+          "text": "Insomnia"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Obstructive sleep apnea is a common cause of daytime sleepiness. Caused by the obstruction of the upper airway during sleep, leading to desaturations and transient arousals. Common symptoms also include high blood pressure, impotence and lack of sex drive, increased traffic and workplace accidents, cardiac problems, memory problems and inability to think correctly and increased insulin resistance."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "You decide that patient M.R is at high risk for obstructive sleep apnea (OSA) and request an in-lab attended polysomnography. The Apnea/Hypopnea Index was 23.1. Does he have OSA and if so, what would the classification be?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Normal"
+        },
+        {
+          "label": "b",
+          "text": "Mild"
+        },
+        {
+          "label": "c",
+          "text": "Moderate"
+        },
+        {
+          "label": "d",
+          "text": "Severe"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "For the classification of OSA, AHI for mild = 5-15, moderate = 15-30 and severe > 30hr"
+      }
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "You diagnose M.R with OSA. What are your possible treatment options? Select all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Continuous positive airway pressure (CPAP)"
+        },
+        {
+          "label": "b",
+          "text": "Mandibular advancement device (MAD)"
+        },
+        {
+          "label": "c",
+          "text": "Uvulopalatopharyngoplasty"
+        },
+        {
+          "label": "d",
+          "text": "Bilateral positive airway pressure (BiPAP)"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a"
+        ],
+        "explanation": "B.C; BiPAP is not indicated in OSA"
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "What is the first-line treatment for insomnia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cognitive Behavioural Therapy"
+        },
+        {
+          "label": "b",
+          "text": "Sleep Hygiene"
+        },
+        {
+          "label": "c",
+          "text": "Cannabis"
+        },
+        {
+          "label": "d",
+          "text": "Benzodiazepines"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "CBT is first line therapy for insomnia with equivalent efficacy compared to medication but with less side effects and longer duration."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "D.P is a 27-year-old male who was recently diagnosed with REM behaviour disorder. A condition where dream enactment behaviours that merge during a loss of REM sleep atonia. He’s concerned about the implications of his diagnosis and if he’s at risk for any other diseases. What would you tell him?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Increased risk of abnormal heart rhythms, heart attacks and heart failure."
+        },
+        {
+          "label": "b",
+          "text": "Increased risk for insulin resistance"
+        },
+        {
+          "label": "c",
+          "text": "Increased risk of Parkinson’s Disease, Multisystem Atrophy, or Lewy Body Dementia."
+        },
+        {
+          "label": "d",
+          "text": "Increased risk of impotence and lack of sex drive"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "REM behaviour disorder is now know as a prosomal syndrome of alpha synuclein neurodegeneration such as Parkinson’s disease, Multisystem Atrophy or Lewy Body Dementia. The rest of the options are related to obstructive sleep apnea."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "What is one of the main differences between Type I and Type II Narcolepsy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Presence of cataplexy; Yes for Type I and No for Type II"
+        },
+        {
+          "label": "b",
+          "text": "Presence of sleep onset REM period (SOREMP)"
+        },
+        {
+          "label": "c",
+          "text": "Excessive daytime sleepiness"
+        },
+        {
+          "label": "d",
+          "text": "CSF Orexin <1000pg/ml in Type I and >1000 pg/ml in Type II"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The main difference between Type I and II Narcolepsy is the presence of Cataplexy. Excessive daytime sleepiness and SOREMPs are present in both types of Narcolepsy. CSF Orexin-1 <100pg/ml and >100pg/ml for Type I and II Narcolepsy, not 1000pg/ml."
+      }
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "prompt": "Which of the following are treatments for restless legs syndrome?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Calcium channel blockers"
+        },
+        {
+          "label": "b",
+          "text": "Beta blockers"
+        },
+        {
+          "label": "c",
+          "text": "Dopamine agonists"
+        },
+        {
+          "label": "d",
+          "text": "Iron supplementation"
+        }
+      ],
+      "answer": {
+        "correct_options": [
+          "c",
+          "d"
+        ],
+        "explanation": "Treatment for restless leg syndrome include iron supplementation, alpha-2-delta calcium channel ligands, and dopamine agonists."
+      },
+      "multiple_correct_answers": true
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "F.U. is a 21-year-old female, lawyer, married and mother of 3-year-old son. For the past 6 months, she has visited many different health care providers because she is concerned about having cancer. She currently has no symptoms. You preform a detailed history, physical exam and investigations, all of which were negative for cancer. You explain the results to the patient, but she refused to accept them and continued to insist that she had cancer. What is at the top of your differential diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Schizophrenia"
+        },
+        {
+          "label": "b",
+          "text": "Factitious disorder"
+        },
+        {
+          "label": "c",
+          "text": "Conversion disorder"
+        },
+        {
+          "label": "d",
+          "text": "Illness anxiety disorder"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "She has a high level of anxiety about her health and a preoccupation with having or acquiring a serious illness. She has an illness preoccupation that has been present for at least 5 months. No somatic symptoms are present. All of which are characteristics of illness anxiety disorder."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "A.K. is a 20-year-old female reports with numbness and severe weakness on the left side of her body, specifically her leg. She describes being clipped by a vehicle crossing an intersection on a bike. She screened negative for a concussion and was subsequently sent home. Since the incident, 6 months ago, the patient reports her dizziness has converted to double vision, has difficulty swallowing like there is a lump in her throat, and notices occasional slurred words. Patient continues to have difficulty walking and loss of balance since the accident. Patient reports having increased stress and difficulty completing schoolwork in the past couple of months. History and physical examinations showed inconsistent findings that could not be explained by an organic or neurological cause. Investigations, including an MRI of the brain and spinal cord, lumbar puncture and bloodwork, were unremarkable. What is at the top of your differential diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Guillain-bare system"
+        },
+        {
+          "label": "b",
+          "text": "Conversion Disorder"
+        },
+        {
+          "label": "c",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "d",
+          "text": "Multiple sclerosis"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Conversion Disorder is characterized by at least 1 symptom of altered voluntary motor or sensory function for at least 6 months with clinical findings that are incompatible with recognized neurological or medical conditions."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "How do you differentiate between premenstrual dysmorphic disorder from premenstrual exacerbation of depression?",
+      "options": [
+        {
+          "label": "a",
+          "text": "PMDD can have other symptoms besides sadness"
+        },
+        {
+          "label": "b",
+          "text": "Depression is not exacerbated during the premenstrual period usually"
+        },
+        {
+          "label": "c",
+          "text": "PMDD has minimal/absent symptoms in the weeks between menses"
+        },
+        {
+          "label": "d",
+          "text": "Depression has more severe and debilitating symptoms"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Medical and psychiatric disorders that have premenstrual exacerbation will continue to have symptoms continuously and will only worsen during the premenstrual period. Whereas PMDD will have severe symptoms in the final week before onset of menses, start to improve after onset of menses and will become minimal/absent in the week after menses."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "Which antidepressant is associated with teratogenicity?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Sertraline"
+        },
+        {
+          "label": "b",
+          "text": "Bupropion"
+        },
+        {
+          "label": "c",
+          "text": "Amitriptyline"
+        },
+        {
+          "label": "d",
+          "text": "Amoxapine"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "SSRIs and TCAs do not have evidence of teratogenicity while bupropion use during early pregnancy is associated with increased risk of cardiac malformations."
+      }
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "prompt": "Match the syndrome with its behavioural phenotype:",
+      "terms": [
+        {
+          "label": "i",
+          "text": "Hyperverbalisation"
+        },
+        {
+          "label": "ii",
+          "text": "Jerky movement"
+        },
+        {
+          "label": "iii",
+          "text": "Neonatal hypotonia"
+        },
+        {
+          "label": "iv",
+          "text": "Anxiety and agitation"
+        }
+      ],
+      "choices": [
+        {
+          "label": "a",
+          "text": "Angleman syndrome"
+        },
+        {
+          "label": "b",
+          "text": "Williams syndrome"
+        },
+        {
+          "label": "c",
+          "text": "Prader-Willi syndrome"
+        },
+        {
+          "label": "d",
+          "text": "Fragile-X syndrome"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "i",
+            "answer_label": "b"
+          },
+          {
+            "term_label": "ii",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "iii",
+            "answer_label": "c"
+          },
+          {
+            "term_label": "iv",
+            "answer_label": "d"
+          }
+        ],
+        "explanation": "A - II; B - I; C - III; D - IV."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a classic symptom in a dual diagnosis of intellectual disability and behaviour problems/mental health problems:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Aggressive behaviour"
+        },
+        {
+          "label": "b",
+          "text": "Difficulty with communication"
+        },
+        {
+          "label": "c",
+          "text": "Mood dysregulation"
+        },
+        {
+          "label": "d",
+          "text": "Failure to thrive"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Individuals with dual diagnosis have difficulties communicating and disorganized brain functions, often resulting in them expressing themselves behaviourally. They generally do not present with any growth abnormalities and so failure to thrive would not be a classic symptom."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "A family physician has been seeing a patient for several years and has built up a strong therapeutic relationship with them. During a visit, the physician hugs the patient in a comforting way. Is this a boundary crossing, boundary violation, or within the boundaries of medical practice?",
+      "options": [
+        {
+          "label": "a",
+          "text": "boundary crossing"
+        },
+        {
+          "label": "b",
+          "text": "boundary violation"
+        },
+        {
+          "label": "c",
+          "text": "within the boundaries of medical practice"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Boundary crossing. A hug can be seen as a comforting gesture and can be beneficial for the patient, but it is not a typical part of the physician-patient relationship. It's crossing a boundary but not violative."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "A family physician has been seeing a patient for several months, and during a visit, the physician makes a sexual advance towards the patient. Is this a boundary crossing, boundary violation, or within the boundaries of medical practice?",
+      "options": [
+        {
+          "label": "a",
+          "text": "boundary crossing"
+        },
+        {
+          "label": "b",
+          "text": "boundary violation"
+        },
+        {
+          "label": "c",
+          "text": "within the boundaries of medical practice"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "boundary violation. A physician should never make a sexual advance towards a patient as it is completely unacceptable and violative of the physician-patient relationship. It's violative as it's crossing a boundary that should not be crossed and it's a serious ethical breach. This kind of behavior is a violation of the trust and professionalism that is expected from a physician, and it's considered a form of sexual misconduct. It can also lead to legal and professional repercussions for the physician."
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "Which of the following is not a common symptom of delirium?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Confusion"
+        },
+        {
+          "label": "b",
+          "text": "Disorientation"
+        },
+        {
+          "label": "c",
+          "text": "Agitation"
+        },
+        {
+          "label": "d",
+          "text": "Difficulty in finding words (aphasia)"
+        },
+        {
+          "label": "e",
+          "text": "Euphoria"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Euphoria. Euphoria is a feeling of intense joy or happiness and it's not a common symptom of delirium. Delirium is characterized by a severe disturbance in consciousness, attention, and perception. Common symptoms include confusion, disorientation, and agitation, as well as hallucinations and difficulty sleeping. Delirium is not a diagnosis of a primary emotional state, but rather a state of a severe disturbance in the brain function, often caused by an underlying medical condition or medication. Identifying and treating the underlying cause is the first step in managing a patient with delirium."
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "A patient with delirium is displaying symptoms of agitation and aggression. Which of the following drug classes would be most appropriate for managing these symptoms?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Antidepressants"
+        },
+        {
+          "label": "b",
+          "text": "Antipsychotics"
+        },
+        {
+          "label": "c",
+          "text": "Benzodiazepines"
+        },
+        {
+          "label": "d",
+          "text": "Anticonvulsants"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Antipsychotics are the treatment of choice for the symptoms of hyperactive delirium. The exceptions are if the patient is in alcohol withdrawal (in which case use benzodiazepine), or they are experiencing an anticholinergic toxidrome (in which case use physostigmine). Common medications are Haloperidol, Loxapine, Risperidone, Quetiapine, and Olanzipine. Make sure to monitor for QT prolongations."
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "Which of the following NOT one of the symptoms that classically presents with Alzheimer’s disease?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anterograde amnesia"
+        },
+        {
+          "label": "b",
+          "text": "Anxiety"
+        },
+        {
+          "label": "c",
+          "text": "Apraxia"
+        },
+        {
+          "label": "d",
+          "text": "Executive dysfunction"
+        },
+        {
+          "label": "e",
+          "text": "Agnosia"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Presentation of AD is described by the 4As and one D. A nterograde amnesia, A praxia, A gnosia, A phasia, and executive D ysfunction."
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "Which one of the statements about Lewy Body Dementia is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Mean age of presentation is 75"
+        },
+        {
+          "label": "b",
+          "text": "Affected individuals commonly have no family history"
+        },
+        {
+          "label": "c",
+          "text": "Motor symptoms often present before cognitive symptoms"
+        },
+        {
+          "label": "d",
+          "text": "Patients can experience REM sleep disorders, repeated falls, and autonomic instability"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Motor symptoms often present AFTER cognitive symptoms. This is a defining feature of this condition that differentiates it from Parkinson’s Disease Dementia, which has motor symptoms present before cognitive symptoms."
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "What branch of psychiatry treats paraphilic disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Child Psychiatry"
+        },
+        {
+          "label": "b",
+          "text": "General Psychiatry"
+        },
+        {
+          "label": "c",
+          "text": "Liaison Psychiatry"
+        },
+        {
+          "label": "d",
+          "text": "Forensic Psychiatry"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a treatment option for paraphilic disorders?",
+      "options": [
+        {
+          "label": "a",
+          "text": "SNRIs – Duloxetine, Venlafaxine"
+        },
+        {
+          "label": "b",
+          "text": "Anti-androgen medication – cyproterone acetate"
+        },
+        {
+          "label": "c",
+          "text": "Luteinising hormone-releasing hormone (LHRH) agonists – Triptorelin, Goserelin"
+        },
+        {
+          "label": "d",
+          "text": "Psychotherapy – Cognitive behaviour interventions such as social skills training, cognitive restruction, etc."
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Tx for paraphilias includes SSRIs to reduce libido, anti-androgenic meds, LHRH agonists, and psychotherapy. Not SNRIs."
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "prompt": "Which of the following are considered to be neuropsychiatric symptoms of dementia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Depression"
+        },
+        {
+          "label": "b",
+          "text": "Irritability"
+        },
+        {
+          "label": "c",
+          "text": "Suspiciousness"
+        },
+        {
+          "label": "d",
+          "text": "Hallucinations"
+        },
+        {
+          "label": "e",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "prompt": "Which of the following statements about treatment of neuropsychiatric symptoms of dementia is false?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Non-pharmacologic treatments such as sensory enhancement, environmental interventions, and behaviour show limited effectiveness for treating aggression and psychosis"
+        },
+        {
+          "label": "b",
+          "text": "Atypical antipsychotic medications are first line treatment for severe behavioral symptoms with psychotic features"
+        },
+        {
+          "label": "c",
+          "text": "Cognitive enhancing medication such as Donepezil and Memantine have shown weak evidence for treatment of neuropsychiatric symptoms"
+        },
+        {
+          "label": "d",
+          "text": "Atypical anti-psychotics are considered to be first line therapy for treatment of neuropsychiatric symptoms without psychotic features"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Cognitive enhancing medication have not shown any evidence at all for the treatment of neuropsychiatric symptoms. All the rest of the statements are true."
+      }
+    }
+  ]
+}

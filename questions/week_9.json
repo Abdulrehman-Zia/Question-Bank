@@ -1,0 +1,368 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "A patient presents to clinic with loss of sensation over palmar aspect of digit 2 and 3 of right hand. The patient has a history of repetitive strain work as a factory worker and has a positive tunnel sign upon percussion of carpal tunnel. This leads you to suspect median nerve neuropathy. However, you are a smart medical student and know that a C6 radiculopathy is also on the differential for this patient. Which of the following clinical findings, if present, would be more consistent with a C6 radiculopathy and causes you to question your initial diagnosis of median nerve neuropathy.",
+      "options": [
+        {
+          "label": "a",
+          "text": "The patient reports that the area of sensory loss over the palmar aspect of digit 2 and 3 is well defined"
+        },
+        {
+          "label": "b",
+          "text": "Weakness of biceps flexion and wrist extension"
+        },
+        {
+          "label": "c",
+          "text": "Wasting of thenar muscles and inability to oppose thumb"
+        },
+        {
+          "label": "d",
+          "text": "Loss of dexterity of 2nd and 3rd digit"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Biceps and wrist flexion are part of the C6 myotome which would be impaired if there was injury at the C6 nerve root as would be caused by a radiculopathy. All the rest are findings that would be consistent with a median nerve neuropathy at the wrist (more suggestive here due to positive tinel sign at the carpal tunnel area)."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following statements about the ulnar nerve is false",
+      "options": [
+        {
+          "label": "a",
+          "text": "The most common site on injury for the ulnar nerve is at the medial epicondyle of the elbow"
+        },
+        {
+          "label": "b",
+          "text": "Deep branch of the ulnar nerve innervates the hypothenar muscles, dorsal and palmar interossei, and deep head flexor pollicis brevis"
+        },
+        {
+          "label": "c",
+          "text": "Damage to the ulnar nerve may result in loss of sensation on the palmar and dorsal aspect of the lateral 1.5 digits"
+        },
+        {
+          "label": "d",
+          "text": "Ulnar nerve also runs with ulnar artery in Guyon’s canal"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The ulnar digits are the MEDIAL 1.5 digits, not lateral"
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following statements with regards to neurons and nerve injuries is true?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Endoneurium is the innermost layer of connective tissue within a nerve and it directly surrounds each axon"
+        },
+        {
+          "label": "b",
+          "text": "Peripheral nerves consist of a single axon wrapped in three layers of connective tissue, which are (from outer to inner most), epineurium, perineurium, and endoneurium."
+        },
+        {
+          "label": "c",
+          "text": "Neurotmesis nerve injuries have the ability for spontaneous recovery because the epineurium is still intact, which serves as a path for regenerating fibers to grow along"
+        },
+        {
+          "label": "d",
+          "text": "Myelin injuries take a relatively longer time to recover than axonal injuries, possessing a recovery rate of 1 inch per month (1mm/day)"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "B is false, there are many axons contained in a single nerve. C is false, neurotmesis injuries do not have the ability to spontaneously recover because the epineurium is not intact. D is false, axonal injuries are slower with a rate of 1inch/month."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following pathologies is it NOT possible for electrodiagnostic studies (EDX) (included EMG and NCS studies) to detect?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Axonal injuries"
+        },
+        {
+          "label": "b",
+          "text": "Myelin injuries"
+        },
+        {
+          "label": "c",
+          "text": "Myopathies"
+        },
+        {
+          "label": "d",
+          "text": "Central Nervous System Lesions"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "It is not possible for EDX studies to detect CNS pathology like stroke or multiple sclerosis. All the others are possible. NCS can be used to to assess health of myelin sheath and axon while EMG can be used to measure muscle functions in isolation."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "A patient is to undergo coronary bypass surgery and needs a graft from another blood vessel from another site in the body to complete the procedure. You select to the Great Saphenous Vein to be the graft. What nerve are you likely to damage when you go to harvest this graft and what would the sensory neurological deficits be?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Saphenous nerve: loss of sensation along the medial thigh"
+        },
+        {
+          "label": "b",
+          "text": "Saphenous nerve: loss of sensation over medial knee, leg, and foot"
+        },
+        {
+          "label": "c",
+          "text": "Obturator nerve: loss of sensation over medial thigh"
+        },
+        {
+          "label": "d",
+          "text": "Obturator nerve: loss of sensation over medial knee, leg, and foot"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Saphenous nerve runs in close proximity to great saphenous vein and supplies the anteromedial aspect of the knee, leg, and foot. Obturator nerve runs deep in the medial compartment of the thigh and is unlikely to be damaged during this procedure, as the great saphenous vein is a superficial vein."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "A 76 year old female patient with osteoporosis presents to the ER in immense pain over her right hip around the region of the greater trochanter for the past 6hrs. She reports rolling off her couch when she was napping and landing on her hip. You order an xray and confirm a intrascapular femoral neck fracture. What is the next step in the management of this patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Recommend conservative management for this patient – non-weight bearing for 3-4 weeks"
+        },
+        {
+          "label": "b",
+          "text": "Surgical arthroplasty within 2-4 weeks"
+        },
+        {
+          "label": "c",
+          "text": "Urgent open reduction and internal fixation (ORIF) within 48hrs"
+        },
+        {
+          "label": "d",
+          "text": "Urgent hemiarthroplasty or total hip arthroplasty within 48hrs"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "With hip fractures, surgery outcomes are best when surgery is performed within 24-48hrs of the fracture. For older patients (60+), the surgical method of choice is a hemiarthroplasty or total hip arthroplasty over ORIF."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "Which of the following is NOT a feature of hip osteoarthritis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Presence of osteophytes and narrowing of joint space on xray is required for diagnosis"
+        },
+        {
+          "label": "b",
+          "text": "Pain is worse with prolonged activity"
+        },
+        {
+          "label": "c",
+          "text": "When asked to identify the pain, patient may grip the affected hip just above the greater trochanter between the thumb and index finger, in what is known as a positive “C” sign"
+        },
+        {
+          "label": "d",
+          "text": "Most commonly presents in adults over 50 and classically affects more females than males"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "These changes may be present on Xray and may be used to support the diagnosis of hip OA, however, it is possible to make this diagnosis on the basis of clinical presentation alone. Thus they are not required for diagnosis. All the other statements are true."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Jon Hamilton, a 19-year-old man comes to the ER because of right wrist pain and swelling 2 hours after falling on an outstretched hand while skateboarding trying to impress his Ram Ranch™ roommates Aaron and Devin. His right wrist is swollen and tender; range of motion is limited by pain. There is tenderness to palpation in the area between the tendons of the abductor pollicis longus, extensor pollicis brevis, and extensor pollicis longus muscle. His thumb can be opposed actively toward the other fingers. Muscle strength of the right hand is decreased. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Colles fracture"
+        },
+        {
+          "label": "b",
+          "text": "Transscaphoid perilunate dislocation"
+        },
+        {
+          "label": "c",
+          "text": "Trapezium fracture"
+        },
+        {
+          "label": "d",
+          "text": "Scaphoid fracture"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Scaphoid fractures typically occur following a fall on an outstretched hand. If pain occurs in the anatomical snuffbox (area between the tendons of the abductor pollicis longus, extensor pollicis brevis, and extensor pollicis longus muscle) after trauma, the injury should be treated as a scaphoid fracture until proven otherwise to prevent possible complications such as avascular necrosis and bone nonunion."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Liam LeClair, a 24-year-old man, comes to the walk-in clinic with Right shoulder pain after an innertube waterpolo game. He states he heard a “pop” and then immediately felt 8/10 pain when an absolute bomb was blocked in his hand by Bonnie while he was throwing at team Lee’s goalie in the last 15 seconds of the game. He is stable, and sitting stoically in the exam room. Upon inspection his right shoulder appears slightly abducted and externally rotated. The acromion appears prominent, and there is loss of the normal rounded appearance of the shoulder (see image on R). He resists all movement due to pain. You perform an assessment of his right arm’s neurovascular status, which nerve are you most worried about?",
+      "media": {
+        "type": "image",
+        "url": "./images/w9q9.jpg"
+      },
+      "options": [
+        {
+          "label": "a",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "b",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "c",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "d",
+          "text": "Ulnar nerve"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The Axillary nerve is most commonly damaged nerve in an anterior shoulder dislocation."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "You ordered bloodwork for a patient, the phlebotomist is preparing to draw blood from their arm. Which vein is the most likely spot for venous access?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cephalic vein"
+        },
+        {
+          "label": "b",
+          "text": "Median cubital vein"
+        },
+        {
+          "label": "c",
+          "text": "Greater saphenous vein"
+        },
+        {
+          "label": "d",
+          "text": "Dorsal venous network"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Median cubital vein is the most common venous access spot for phlebotomy"
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "A 28-year-old woman, gravida 2, para 1, at 24 weeks' gestation comes to the physician for a prenatal visit. She reports dull aching pain and paresthesia over her left hand for the last few weeks. The pain radiates to her shoulder and is worse at night. Her hand feels numb upon waking up in the morning. She has a sister who has multiple sclerosis. Her current medications include iron supplements and a multivitamin. Vital signs are within normal limits. When the wrist is passively held in full flexion, aggravation of paresthesia is perceived immediately. Which of the following is the most likely explanation for this patient's symptoms?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Demylenation of her peripheral nerves"
+        },
+        {
+          "label": "b",
+          "text": "Cervical radiculopathy"
+        },
+        {
+          "label": "c",
+          "text": "Median nerve compression"
+        },
+        {
+          "label": "d",
+          "text": "Lower trunk palsy of the brachial plexus"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Median nerve compression would be the cause of her symptoms given the clinical picture of carpal tunnel syndrome."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "One day while preparing dinner, Mohamed Aly a second year medical student suffers a cut to the thenar aspect of his left hand while cuting vegetables. After the initial bleeding is controlled he notices that sensation over the thenar aspect and central palm is decreased. Which nerve did he injure?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Palmar cutaneous branch of the median nerve"
+        },
+        {
+          "label": "b",
+          "text": "Digital branch of the median nerve"
+        },
+        {
+          "label": "c",
+          "text": "Radial cutaneous nerve"
+        },
+        {
+          "label": "d",
+          "text": "Pollicis cutaneous nerve"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The palmar branch of the median nerve can be commonly injured with cuts to the thenar aspect of the palm."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "One day while bull riding at the Ram Ranch™cowboy and second year med student, Adam Levschuk, suffered a horn injury to his femoral triangle from the medial side. In what order would the structures be in danger from the bull’s horn?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Lymphatics, Nerve, Artery, Vein"
+        },
+        {
+          "label": "b",
+          "text": "Lymphatics, Vein, Artery, Nerve"
+        },
+        {
+          "label": "c",
+          "text": "Vein, Artery, Nerve, Lymphatics"
+        },
+        {
+          "label": "d",
+          "text": "Nerve, Artery, Vein, Lymphatics"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "NAVEL is the mnemonic from Lateral to medial. So from MEDIAL to Lateral it would be LEVAN"
+      }
+    },
+    {
+      "id": 14,
+      "type": "short_answer",
+      "prompt": "While being arrested by London's finest for public indecency after a night at Jack’s. James Bunker's arms were handcuffed behind his back. What actions did his upper limb have to perform to get to this position? Write your answer here:",
+      "answer": {
+        "text": "Shoulder aBduction, extension, Internal rotation, and Elbow flexion.",
+        "explanation": ""
+      }
+    }
+  ]
+}

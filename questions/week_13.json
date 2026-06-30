@@ -1,0 +1,803 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "A 51 year-old woman traveling across Canada can see the beautiful blue sky with white clouds but is unable to focus on her face in the mirror. Her son notices a distinct droopy eyelid as well as an inferolaterally directed right eye and takes her to a walk-in clinic. What is this woman most likely experiencing?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Bell’s Palsy"
+        },
+        {
+          "label": "b",
+          "text": "Third Nerve Palsy"
+        },
+        {
+          "label": "c",
+          "text": "Fourth Nerve Palsy"
+        },
+        {
+          "label": "d",
+          "text": "Sixth Nerve Palsy"
+        },
+        {
+          "label": "e",
+          "text": "Horner Syndrome"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "CN III Palsy presents with pupil dilation, intorsion of the eye (directed down and out), complete ptosis, and lack of accommodation."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "A 7 year old boy is only able to produce tears from his left eye following a tooth abscess from a long-standing infection. The infection spreads along the nerves of the ANS. Which of the following nerve pathways is possibly affected to result in his symptoms?",
+      "options": [
+        {
+          "label": "a",
+          "text": "CN III"
+        },
+        {
+          "label": "b",
+          "text": "CN IV"
+        },
+        {
+          "label": "c",
+          "text": "CN V1"
+        },
+        {
+          "label": "d",
+          "text": "CN V2"
+        },
+        {
+          "label": "e",
+          "text": "CN V3"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Post-synaptic parasympathetics for lacrimal gland innervation travels with V2."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "You are performing a test for visual fields. Your patient correctly counts a total of one when you hold up you hold up one finger on the left side. However, when you simultaneously hold up one finger on both sides, she counts a total of one as well. Where is she most likely to have a lesion?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Supplementary motor area"
+        },
+        {
+          "label": "b",
+          "text": "Prefrontal cortex"
+        },
+        {
+          "label": "c",
+          "text": "Posterior parietal cortex"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The posterior parietal cortex is responsible for spatial attention. Lesions lead to neglect."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Axon tracts responsible for finger movements in playing the piano decussate at the:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cerebellum"
+        },
+        {
+          "label": "b",
+          "text": "Brainstem"
+        },
+        {
+          "label": "c",
+          "text": "C4 vertebral level"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Lateral corticospinal tracts responsible for fine finger movements decussate between the medulla and spinal cord."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Billie Eilish constantly wriggles her ears back and forth, raises her eyebrows, clicks her jaws, and flexes her arms as a result of a condition she was diagnosed with at age 11: Tourette’s Syndrome. Which structure is most likely affected in this disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Vestibulo-cerebellum"
+        },
+        {
+          "label": "b",
+          "text": "Spinocerebellum"
+        },
+        {
+          "label": "c",
+          "text": "Cerebrocerebellum"
+        },
+        {
+          "label": "d",
+          "text": "Basal Ganglia"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "The basal ganglia is responsible for releasing appropriate movements and suppressing inappropriate ones."
+      }
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "prompt": "Compare and contrast Huntington’s Disease vs. Parkinson’s Disease.",
+      "answer": {
+        "text": "Huntington’s is a hyperkinetic disorder caused by too little inhibition on the thalamus through the basal ganglia. Parkinson’s is a hypokinetic disorder caused by a loss of dopaminergic cells in the substantia nigra pars compacta.",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A 92 year old gentleman comes in with a complaint of loss of movement in his hands but not shoulders. He has recently experienced a fall. Which lesions of the spinal cord are most likely in this case?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anterior cord injury"
+        },
+        {
+          "label": "b",
+          "text": "Posterior cord injury"
+        },
+        {
+          "label": "c",
+          "text": "Central cord injury"
+        },
+        {
+          "label": "d",
+          "text": "Brown Sequard"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Central cord injury corresponds with a suspended sensory loss of pain and temperature, as well as a loss of motor function in the hands but not the proximal arm."
+      }
+    },
+    {
+      "id": 8,
+      "type": "matching",
+      "prompt": "Match the the correct location of decussation to each of the following tracts: corticospinal, spinothalamic, medial lemniscus",
+      "terms": [
+        {
+          "label": "1",
+          "text": "corticospinal"
+        },
+        {
+          "label": "2",
+          "text": "spinothalamic"
+        },
+        {
+          "label": "3",
+          "text": "medial lemniscus"
+        }
+      ],
+      "choices": [
+        {
+          "label": "a",
+          "text": "Medulla"
+        },
+        {
+          "label": "b",
+          "text": "Spinal cord entry"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "1",
+            "answer_label": "a"
+          },
+          {
+            "term_label": "2",
+            "answer_label": "b"
+          },
+          {
+            "term_label": "3",
+            "answer_label": "a"
+          }
+        ],
+        "explanation": "Medulla: Corticospinal, Medial lemniscus Spinal cord entry: Spinothalamic"
+      },
+      "parser_warnings": [
+        "Terms were inferred from the matching prompt because only one labelled group was found."
+      ]
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "A 48 year old female complains of double vision. She is currently on ramipril, hydrochlorothiazide, metformin, and acetazolamide. Cranial nerve exam reveals an intorted left eye, but pupil sizes are normal. What is the most likely cause of her diplopia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Unruptured berry aneurysm"
+        },
+        {
+          "label": "b",
+          "text": "Ruptured berry aneurysm"
+        },
+        {
+          "label": "c",
+          "text": "Diabetes complication"
+        },
+        {
+          "label": "d",
+          "text": "Congenital"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Intorted eye is a 3rd nerve palsy, with parasympathetics spared. Diabetes affects the microvasculature, which can spare the parasympathetic innervation for pupil size."
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "A patient presents with bitemporal hemianopia. What is the most probable lesion?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pituitary tumor"
+        },
+        {
+          "label": "b",
+          "text": "MCA stroke"
+        },
+        {
+          "label": "c",
+          "text": "PCA stroke"
+        },
+        {
+          "label": "d",
+          "text": "Right optic nerve injury"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Pituitary tumors tend to compress the optic chiasm, affecting the temporal visual fields which are crossing there."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "A patient has a lesion in the left occipital lobe. Which of the following may she present with?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Loss of blink reflex in the right eye"
+        },
+        {
+          "label": "b",
+          "text": "Loss of blink reflex in the left eye"
+        },
+        {
+          "label": "c",
+          "text": "Neglect of items on the right side"
+        },
+        {
+          "label": "d",
+          "text": "Neglect of items on the left side"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Blink reflex is still intact in patients with visual neglect. The occipital lobe sees items on the contralateral side."
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "A 73 year old woman wakes up unable to find words in her speech. Where is the lesion most likely localized?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cortical"
+        },
+        {
+          "label": "b",
+          "text": "Subcortical"
+        },
+        {
+          "label": "c",
+          "text": "Brainstem"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Aphasia is a cortical sign."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "If the optic nerve is damaged, which affected artery can lead to blindness?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Middle meningeal artery"
+        },
+        {
+          "label": "b",
+          "text": "Central retinal artery"
+        },
+        {
+          "label": "c",
+          "text": "Supratrochlear artery"
+        },
+        {
+          "label": "d",
+          "text": "Dorsal nasal artery"
+        },
+        {
+          "label": "e",
+          "text": "Posterior ciliary artery"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "the central retinal artery and vein runs within the sheath of the optic nerve."
+      }
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "prompt": "Which of the following structures will be affected by a cavernous sinus thrombus (multiple correct answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Optic chiasm"
+        },
+        {
+          "label": "b",
+          "text": "CN IV"
+        },
+        {
+          "label": "c",
+          "text": "CN VIII"
+        },
+        {
+          "label": "d",
+          "text": "CN V3"
+        },
+        {
+          "label": "e",
+          "text": "CN V2"
+        },
+        {
+          "label": "f",
+          "text": "Internal carotid artery"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "e",
+          "f"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "prompt": "Which of the following states are true (multiple correct answers)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "the major inhibitory neurotransmitter in the brain is glutamate"
+        },
+        {
+          "label": "b",
+          "text": "Upon physical contact with an object, the neurons convey the length of contact through the frequency of action potential fired."
+        },
+        {
+          "label": "c",
+          "text": "Acetylcholine Is the excitatory neurotransmitter at the neuromuscular junction."
+        },
+        {
+          "label": "d",
+          "text": "Ionotropic receptors transmit signals through a second –messenger system"
+        },
+        {
+          "label": "e",
+          "text": "The GABA receptor is a metabotropic receptor."
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "c"
+        ],
+        "explanation": "Glutamate is the major excitatory neurotransmitter in the brain. Axons convey the length of physical contact with an object through the duration of action potential firing. Metabotropic receptors transmit signals through a second-messenger system, not ionotropic receptors, which opens ion channels open binding of neurotransmitters. The GABA receptor is a ionotropic receptor."
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "What is the difference broca’s aphasia and wernickes aphasia:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Broca’s aphasia involves injury to the frontal lobe, therefore patients have disrupted comprehension. Wernicke’s aphasia involves injury to the parietal lobe, therefore patients have disrupted language expression."
+        },
+        {
+          "label": "b",
+          "text": "Broca’s aphasia involves injury to the temporal lobe, therefore patients have disrupted comprehension. Wernicke’s aphasia involves injury to the frontal lobe, therefore patients have disrupted language expression."
+        },
+        {
+          "label": "c",
+          "text": "Broca’s aphasia involves injury to the frontal lobe, therefore patients have disrupted language expression. Wernicke’s aphasia involves injury to the temporal lobe, therefore patients have disrupted comprehension."
+        },
+        {
+          "label": "d",
+          "text": "Broca’s aphasia involves injury to the parietal lobe, therefore patients have disrupted comprehension. Wernicke’s aphasia involves injury to the temporal lobe, therefore patients have disrupted language expression."
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "Which component of the eye is responsible for accommodation",
+      "options": [
+        {
+          "label": "a",
+          "text": "The lens and ciliary muscles"
+        },
+        {
+          "label": "b",
+          "text": "The iris and pupil"
+        },
+        {
+          "label": "c",
+          "text": "The ciliary muscle and pupil"
+        },
+        {
+          "label": "d",
+          "text": "The pupil and cornea"
+        },
+        {
+          "label": "e",
+          "text": "The posterior chamber and fovea"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "Which of the following eye pathology is caused by increased intra-ocular pressure compressing axons of retinal ganglion cell",
+      "options": [
+        {
+          "label": "a",
+          "text": "cataract"
+        },
+        {
+          "label": "b",
+          "text": "Horner syndrome"
+        },
+        {
+          "label": "c",
+          "text": "Macular degeneration"
+        },
+        {
+          "label": "d",
+          "text": "Glaucoma"
+        },
+        {
+          "label": "e",
+          "text": "Myopia"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is involved in the formation of memory (multiple correct answers)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hippocampus"
+        },
+        {
+          "label": "b",
+          "text": "Medial frontal cortex"
+        },
+        {
+          "label": "c",
+          "text": "Ventromedial prefrontal cortex"
+        },
+        {
+          "label": "d",
+          "text": "Amygdala"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "explanation": "E"
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "What type of memory impairments are involved in medial frontal syndrome",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anterograde and retrograde memory"
+        },
+        {
+          "label": "b",
+          "text": "Utilization behavior"
+        },
+        {
+          "label": "c",
+          "text": "Abnormal working memory"
+        },
+        {
+          "label": "d",
+          "text": "Deficient spatial memory"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Utilization behavior can be found in dorsolateral syndrome, which involves connections between the dorsal lateral prefrontal cortex with the thalamus, hypothalamus, amygdala, and hippocampus. Abnormal working memory can be a result of damaged dorsolateral prefrontal cortex."
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "Which of the following will appear white/bright on a T2-weighted MRI",
+      "options": [
+        {
+          "label": "a",
+          "text": "CSF"
+        },
+        {
+          "label": "b",
+          "text": "White matter"
+        },
+        {
+          "label": "c",
+          "text": "Grey matter"
+        },
+        {
+          "label": "d",
+          "text": "Skull"
+        },
+        {
+          "label": "e",
+          "text": "Optic tract"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "fluid is white on T2 – weighted MRI, which could indicate CSF, edema, etc."
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "Which of the following would be the most effective in diagnosing an aortic dissection",
+      "options": [
+        {
+          "label": "a",
+          "text": "MRI"
+        },
+        {
+          "label": "b",
+          "text": "CT with contrast"
+        },
+        {
+          "label": "c",
+          "text": "CT without contrast"
+        },
+        {
+          "label": "d",
+          "text": "Ultrasound"
+        },
+        {
+          "label": "e",
+          "text": "Radiography"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Ultrasound has a very high temporal resolution, which is useful in visualizing the dissection flap and blood flow."
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "What of the following is not involved in the ascending pathway of the cerebellum",
+      "options": [
+        {
+          "label": "a",
+          "text": "Thalamus"
+        },
+        {
+          "label": "b",
+          "text": "Pons"
+        },
+        {
+          "label": "c",
+          "text": "Superior cerebral peduncle"
+        },
+        {
+          "label": "d",
+          "text": "Motor cortex"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The pons is involved in the descending pathway, but not ascending pathway of the cerebellum."
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "Which of the following is a presentation of cerebral ataxia",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tendency to fall bilaterally"
+        },
+        {
+          "label": "b",
+          "text": "Tendency to fall ipsilaterally"
+        },
+        {
+          "label": "c",
+          "text": "Tendency to fall contralaterally"
+        },
+        {
+          "label": "d",
+          "text": "Flexor rigidity"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The cerebellum controls the motor function of the ipsilateral body."
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "prompt": "Which pathway is responsible for pain and temperature sensation and where does this path decussate",
+      "options": [
+        {
+          "label": "a",
+          "text": "Spinothalamic pathway, which decussates at the level of the nerve root entering the spinal cord"
+        },
+        {
+          "label": "b",
+          "text": "Dorsal column pathway, which decussates at the level of the nerve root entering the spinal cord"
+        },
+        {
+          "label": "c",
+          "text": "Spinothalamic pathway, which decussates at the medulla"
+        },
+        {
+          "label": "d",
+          "text": "Dorsal column pathway, which decussates at the medulla"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "prompt": "What is the large touch receptor responsible for deep touch and arranged in layered concentric capsules",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pacinian corpuscle"
+        },
+        {
+          "label": "b",
+          "text": "Ruffini cylinder"
+        },
+        {
+          "label": "c",
+          "text": "Meissner’s corpuscle"
+        },
+        {
+          "label": "d",
+          "text": "Merkel's receptors"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Pacinian corpuscle and Ruffini cylinder are deep touch receptors, but Ruffini cylinder receptors consists of many branched fibres in a cylindrical arrangement. Meissner’s corpuscle and Merkel’s receptors are shallow touch receptors."
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "prompt": "You are called in to assess a newborn without a skull or the front portion of their brain. Which of the following diagnoses is most likely?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Anencephaly"
+        },
+        {
+          "label": "b",
+          "text": "Lissencephaly"
+        },
+        {
+          "label": "c",
+          "text": "Microlissencephaly"
+        },
+        {
+          "label": "d",
+          "text": "Polymicrogyria"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "prompt": "In what trimester does the neural tube close?",
+      "options": [
+        {
+          "label": "a",
+          "text": "First"
+        },
+        {
+          "label": "b",
+          "text": "Second"
+        },
+        {
+          "label": "c",
+          "text": "Third"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "The neural tube closes at D21-24, roughly Week 6 of development. Therefore, early folic acid supplementation is essential."
+      }
+    }
+  ]
+}

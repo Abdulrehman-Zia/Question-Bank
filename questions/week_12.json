@@ -1,0 +1,897 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding steroid use for rheumatologic disease is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Intramuscular injections work better for patients who are non-compliant with oral steroids"
+        },
+        {
+          "label": "b",
+          "text": "Acute gout flare is an indication for high dose steroids"
+        },
+        {
+          "label": "c",
+          "text": "Side effects from chronic steroid use include weight gain, osteoporosis, and GI upset"
+        },
+        {
+          "label": "d",
+          "text": "Polymyalgia rheumatica is an indication for medium dose steroids"
+        },
+        {
+          "label": "e",
+          "text": "Recurrent UTIs are a contraindication for steroids"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "An acute gout flare is an indication for medium dose steroids (25-30 mg daily x 3 weeks → taper by 5 mg every 3 days). High dose steroid indications include ANCA-associated vasculitis, lupus nephritis, inflammatory myositis, and giant cell arteritis."
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding intra-articular injections is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "A red, hot, swollen joint should never receive an intra-articular steroid injection"
+        },
+        {
+          "label": "b",
+          "text": "Uncommon complications of intra-articular injections include tendon ruptures, post-injection flares, and infection"
+        },
+        {
+          "label": "c",
+          "text": "A diagnostic arthrocentesis should be sent for culture (+ Gram stain), cell count, and crystals"
+        },
+        {
+          "label": "d",
+          "text": "Hyaluronic acid injection can help relieve joint pain and is a form of therapeutic arthrocentesis"
+        },
+        {
+          "label": "e",
+          "text": "A joint aspirate containing a high number of neutrophils indicates a septic joint"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "A red, hot, swollen joint could benefit from an intra-articular steroid injection if the patient is experiencing an acute gout flare or pseudogout, etc. Not every red, hot, swollen joint is a septic joint, but this should be ruled out by performing a diagnostic arthrocentesis."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding medications for rheumatological conditions is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pregnancy is a contraindication for NSAID use"
+        },
+        {
+          "label": "b",
+          "text": "Opioids are uncommonly used in rheumatological disease"
+        },
+        {
+          "label": "c",
+          "text": "A patient with chronic kidney disease would be better off on a COXIB over an NSAID for their osteoarthritis"
+        },
+        {
+          "label": "d",
+          "text": "Acetaminophen is an anti-inflammatory that can be used safely up to 3g/day in divided doses in a healthy person"
+        },
+        {
+          "label": "e",
+          "text": "NSAIDs are indicated in rheumatoid arthritis but do not delay radiographic changes to bones and joints"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Acetaminophen is not an anti-inflammatory medication. It is an analgesic. It can be used safely up to 3g/day in divided doses in a healthy person but should be reduced in liver disease."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding DMARD and biologic use for rheumatologic conditions is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Biologics are very expensive treatment but have the potential to drive some rheumatologic conditions into remission"
+        },
+        {
+          "label": "b",
+          "text": "Methotrexate requires baseline and monthly bloodwork to monitor for adverse effects like hepatotoxicity"
+        },
+        {
+          "label": "c",
+          "text": "Hydroxychloroquine requires annual eye exams due to the risk of retinal toxicity"
+        },
+        {
+          "label": "d",
+          "text": "Biologics act by targeting TNF and other inflammatory molecules"
+        },
+        {
+          "label": "e",
+          "text": "DMARDs are 3rd line medications, after treatment failure with steroids and NSAIDs"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "DMARDs are best used as early and aggressively as possible to prevent early joint damage. Most also take many weeks for their onset of action, so they ideally should be initiated within the first 3 months of symptom onset."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding chronic neuropathic pain is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Individuals affected often adopt pain-avoidant behaviours"
+        },
+        {
+          "label": "b",
+          "text": "Pain is often perceived as being out of proportion and persistent despite resolution of the original injury"
+        },
+        {
+          "label": "c",
+          "text": "Decreased sleep and appetite are common somatic symptoms of chronic pain-associated depression"
+        },
+        {
+          "label": "d",
+          "text": "An individual with chronic neuropathic pain often describes their pain as sharp and stabbing in various locations"
+        },
+        {
+          "label": "e",
+          "text": "Descending pain modulation pathways like norepinephrine and serotonin have reduced activity"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Chronic neuropathic pain can present similarly to nociceptive pain, but is generally described as having a burning, electrical, or pins and needles numbness quality."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Jerry has had chronic long-standing back pain longer than you have been in practice. He had injured his back in a workplace incident over 20 years ago. You took him on from his now-retired previous family physician, who had always told Jerry to avoid bending his back to avoid aggravating the pain and injury further. Jerry considers himself a good patient and has always followed his doctor’s orders exactly as instructed, but is frustrated as he feels he has limited a significant portion of his life due to his injury. Which of the following statements should you NOT say to Jerry?",
+      "options": [
+        {
+          "label": "a",
+          "text": "“I am truly sorry for all of the years you have suffered with your pain, and I am here to help”"
+        },
+        {
+          "label": "b",
+          "text": "“Exercising and stretching your back may help you reduce your pain”"
+        },
+        {
+          "label": "c",
+          "text": "“Your pain indicates that there is some ongoing tissue damage”"
+        },
+        {
+          "label": "d",
+          "text": "“How is your mood?”"
+        },
+        {
+          "label": "e",
+          "text": "“Your pain may actually be due to dysfunction in your brain’s perception of pain”"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "It is likely that Jerry’s back injury healed long ago. His pain does not indicate ongoing tissue damage. It is instead likely due to dysfunction in his pain signal modulation. Exercising and flexibility training may improve his pain. Acknowledging his pain and what he has gone through is a decent thing to do. Many with chronic pain suffer from depression and anxiety and these should not be missed."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding pharmacologic modalities for managing chronic pain is NOT correct?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Antidepressants often require a higher dose for addressing patient mood disturbances compared to the dose required for addressing pain"
+        },
+        {
+          "label": "b",
+          "text": "Long-term NSAID requires blood pressure monitoring"
+        },
+        {
+          "label": "c",
+          "text": "The major side effect associated with anticonvulsant use is sedation"
+        },
+        {
+          "label": "d",
+          "text": "Some components of the Opioid Risk Tool include family history of substance abuse, age 50-65, and psychological disease"
+        },
+        {
+          "label": "e",
+          "text": "Cannabis strains with higher CBD:THC ratios may play a beneficial role in pain management"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "The age group at greatest risk for opioid addiction is 16-45. Other risk factors are male, personal or family history of substance abuse, history of preadolescent sexual abuse, and psychological disease."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "Which of the following definitions regarding chronic pain is incorrect?",
+      "options": [
+        {
+          "label": "a",
+          "text": "In conversion disorder, there is incompatibility between the patient’s symptoms and their neurological condition"
+        },
+        {
+          "label": "b",
+          "text": "A diagnosis of somatic symptom disorder requires one or more somatic symptoms that are distressing or disruptive; thoughts, feelings, or behaviours related to the somatic symptoms; and chronicity of 6 months or greater"
+        },
+        {
+          "label": "c",
+          "text": "Medically unexplained symptoms are most common in neurology"
+        },
+        {
+          "label": "d",
+          "text": "If a patient presents themselves as injured but does not appear to have any obvious reason or reward for doing so, this is known as malingering"
+        },
+        {
+          "label": "e",
+          "text": "An adjustment disorder is described as emotional or behavioural symptoms that develop in response to a stressor, accompanied by out-of-proportion distress and/or impairment in function"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Malingering is when a patient is consciously acting to falsify their symptoms for external gain. The situation in D is more descriptive of a factitious disorder, where the patient is conscious of their behaviour but has no reward for doing so."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Management of chronic pain requires a holistic approach that should involve collaboration with the patient, a multidisciplinary team, and is multimodal. Which of the following statements regarding management is FALSE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Common components of cognitive behavioural therapy include training in effective communication and use of distraction"
+        },
+        {
+          "label": "b",
+          "text": "It is best to prescribe pharmacologic agents in a step-wise approach"
+        },
+        {
+          "label": "c",
+          "text": "Patients may benefit from meditation, which includes breathing and visualization techniques"
+        },
+        {
+          "label": "d",
+          "text": "Cognitive behavioural therapy can be helpful individually as well as in groups"
+        },
+        {
+          "label": "e",
+          "text": "Physical management modalities, like transcutaneous nerve stimulation (TENS), tend to provide significant improvement to pain"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Although they may be helpful for some patients to some degree, physical management modalities tend to only provide modest improvements to chronic pain."
+      }
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "What is your differential diagnosis for acute onset of aphasia? (Select all that apply.)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Migraine"
+        },
+        {
+          "label": "b",
+          "text": "Post ictal Todd’s paresis"
+        },
+        {
+          "label": "c",
+          "text": "Metabolic Derangement"
+        },
+        {
+          "label": "d",
+          "text": "Psychogenic"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "explanation": "Differential diagnosis for acute onset of aphasia includes ischemic stroke, intracranial hemorrhage, migraine, post ictal todd’s paresis, metabolic derangement in the setting of underlying structural lesion and psychogenic."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "What body parts have the largest representations on the sensory homunculus?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Arms and hands"
+        },
+        {
+          "label": "b",
+          "text": "Legs and feet"
+        },
+        {
+          "label": "c",
+          "text": "Face and hands"
+        },
+        {
+          "label": "d",
+          "text": "Trunk and genitals"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "What view of the brain is this?",
+      "media": {
+        "type": "image",
+        "url": "./images/w12q12.jpg"
+      },
+      "options": [
+        {
+          "label": "a",
+          "text": "Sagittal"
+        },
+        {
+          "label": "b",
+          "text": "Coronal"
+        },
+        {
+          "label": "c",
+          "text": "Axial"
+        },
+        {
+          "label": "d",
+          "text": "Transverse"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Lou had a stroke 1 week ago. You are assessing him at your family clinic and find that he has poor fluency, poor repetition, and poor naming, but can follow commands. Which area of his brain did his stroke most likely affect?",
+      "options": [
+        {
+          "label": "a",
+          "text": "R frontal lobe"
+        },
+        {
+          "label": "b",
+          "text": "L frontal lobe"
+        },
+        {
+          "label": "c",
+          "text": "R temporal lobe"
+        },
+        {
+          "label": "d",
+          "text": "L temporal lobe"
+        },
+        {
+          "label": "e",
+          "text": "R parietal lobe"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "The findings of poor fluency, repetition, and naming, with preserved command following, would be seen in Broca’s aphasia. Broca’s area is found in the frontal lobe. It is most commonly found in the patient’s dominant hemisphere, which most often is their L hemisphere."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following statements regarding cerebrum function is TRUE?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The parietal lobe comprises the primary motor cortex and the ventral stream of the visual system"
+        },
+        {
+          "label": "b",
+          "text": "Occipital seizures often begin with auditory hallucinations and can be triggered by repetitive sounds"
+        },
+        {
+          "label": "c",
+          "text": "The anterior multimodal association area helps integrate information from past experience with information received from other areas of the brain to appropriately respond to stimuli"
+        },
+        {
+          "label": "d",
+          "text": "The function of the neurons in the postcentral gyrus is to send impulses to the spinal cord for motor activity"
+        },
+        {
+          "label": "e",
+          "text": "The face is mapped most medially on the sensory and motor homunculi"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The description of the anterior multimodal association area is true. The parietal lobe comprises the somatosensory cortex and the dorsal stream of the visual system. Occipital seizures often begin with visual hallucinations and can be triggered by flashing lights or repeating patterns. The function of the neurons in the precentral gyrus is to send impulses to the spinal cord for motor activity, not the postcentral gyrus; the postcentral gyrus contains the primary somatosensory cortex. The face is mapped more laterally on the sensory and motor homunculi."
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "53-year-old man presents with a history of daily stabbing headache associated with dizziness, progressive blurred vision, right ocular pain, ptosis and ophthalmoplegia. Upon examination, he is found to have a CN III palsy and ipsilateral Horner syndrome. Brain MRI identified a lesion homogeneously enhanced after gadolinium administration on T1-weighted images. Findings were consistent with a meningioma. What is at the top of your differential diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Diabetic third nerve palsy"
+        },
+        {
+          "label": "b",
+          "text": "Cavernous sinus syndrome"
+        },
+        {
+          "label": "c",
+          "text": "Third nerve compression via posterior communicating artery aneurysm"
+        },
+        {
+          "label": "d",
+          "text": "Midbrain stroke"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Cavernous sinus syndrome (CSS) is a condition caused by any pathology involving the cavernous sinus which may present as a combination of unilateral ophthalmoplegia (cranial nerve (CN) III, IV, VI), autonomic dysfunction (Horner syndrome) or sensory CN V1- CN V2 loss. The common clinical findings of CSS are as follows: Total/partial ophthalmoplegia: CN III palsy, CN IV palsy, CN VI palsy, Facial sensory loss: CN V1 loss and CN V2 loss, Horner syndrome: loss of sympathetic tone due to damage of sympathetic plexus, and Proptosis and chemosis: due to increased pressure within cavernous sinus. A CSS is caused by any pathology or lesion present within the cavernous sinus that disrupts the function of other anatomical structures. The most common cause of CSS is mass effect from tumor. Other common causes of CSS include trauma and self-limited inflammatory disease. Less common causes are vascular etiologies and infections."
+      }
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "prompt": "Which of the following methods can be used to test the vestibulocochlear nerve (CN VIII)? (Select all that apply)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Weber test"
+        },
+        {
+          "label": "b",
+          "text": "Rinne test"
+        },
+        {
+          "label": "c",
+          "text": "Nystagmus test"
+        },
+        {
+          "label": "d",
+          "text": "Romberg test"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "29-year-old male presents with a 1-year history of headaches, weight loss, decreased muscle strength, stamina, decreased libido and morning erections. He shaves every second day. Investigations showed decreased testosterone(nmol/L) but elevated prolactin (1257ug/l). MRI showed a pituitary mass. What is at the top of your differential diagnosis, and what cranial nerve should you test?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Diabetes Mellitus and Oculomotor Nerve (CN III)"
+        },
+        {
+          "label": "b",
+          "text": "Prader-Willi syndrome and Vestibulocochlear Nerve (CN VIII)"
+        },
+        {
+          "label": "c",
+          "text": "Kallmann syndrome and Olfactory Nerve (CN I)"
+        },
+        {
+          "label": "d",
+          "text": "Macroprolactinoma and Optic Nerve (CN II)"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Macroprolactinoma can cause compression of the optic chiasm which disrupts the nasal fibers of the optic nerve leading to a bitemporal visual field defect. Refer to “Clinical Presentation and Evaluation of Pituitary Gland Disease” module, slide 7-9."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "17-year-old male presents with absent pubertal development. He was born to consanguineous parents and had normal delivery. He has no siblings. He had normal developmental milestones. Bilateral cryptorchidism was discovered at age six years and surgically corrected. Physical examination showed that his secondary sexual characters were deficient (Tanner stage 1). He had micropenis (stretched phallus length 2.5 cm). The scrotal contents were barely palpated on both sides. Investigations showed low FSH/LH and normal prolactin. MRI showed agenesis of the olfactory bulb. What is at the top of your differential diagnosis and what cranial nerve should you test?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Diabetes Mellitus and Oculomotor Nerve (CN III)"
+        },
+        {
+          "label": "b",
+          "text": "Prader-Willi syndrome and Vestibulocochlear Nerve (CN VIII)"
+        },
+        {
+          "label": "c",
+          "text": "Kallmann syndrome and Olfactory Nerve (CN I)"
+        },
+        {
+          "label": "d",
+          "text": "Macroprolactinoma and Optic Nerve (CN II)"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Kallmann syndrome (KS) is a genetic disorder that prevents a person from starting or fully completing puberty. Kallmann syndrome is classified under hypogonadotropic hypogonadism. To distinguish it from other forms of hypogonadotropic hypogonadism, Kallmann syndrome has the additional symptom of a total lack of sense of smell (anosmia) or a reduced sense of smell. Refer to “Disorders of Puberty”, slide 31."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "What supplies sensation over the ear and the skin in the temporal region?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Frontal Nerve"
+        },
+        {
+          "label": "b",
+          "text": "Infraorbital Nerve"
+        },
+        {
+          "label": "c",
+          "text": "Mental Nerve"
+        },
+        {
+          "label": "d",
+          "text": "Great Auricular Nerve"
+        },
+        {
+          "label": "e",
+          "text": "Auriculotemporal Nerve"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "What supplies sensation over the angle of the mandible?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Frontal Nerve"
+        },
+        {
+          "label": "b",
+          "text": "Infraorbital Nerve"
+        },
+        {
+          "label": "c",
+          "text": "Mental Nerve"
+        },
+        {
+          "label": "d",
+          "text": "Great Auricular Nerve"
+        },
+        {
+          "label": "e",
+          "text": "Auriculotemporal Nerve"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "Which of the following pairings are incorrect?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Frontalis – raises eyebrows"
+        },
+        {
+          "label": "b",
+          "text": "Zygomaticus major – pulls mouth"
+        },
+        {
+          "label": "c",
+          "text": "Orbicularis oris – closes eye"
+        },
+        {
+          "label": "d",
+          "text": "Platysma – helps to depress mandible"
+        },
+        {
+          "label": "e",
+          "text": "Occipitalis – moves scalp"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Orbicularis oris closes the mouth"
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "What are the muscles of mastication?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Masseter and temporalis"
+        },
+        {
+          "label": "b",
+          "text": "Orbicularis oris and orbicularis oculi"
+        },
+        {
+          "label": "c",
+          "text": "Zygomaticus major and zygomaticus minor"
+        },
+        {
+          "label": "d",
+          "text": "Buccinator and platysma"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "prompt": "Which of the following pairings are correct? (Select all that apply.)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Temporal – Frontalis"
+        },
+        {
+          "label": "b",
+          "text": "Zygomatic – Zygomaticus Major"
+        },
+        {
+          "label": "c",
+          "text": "Buccal – Buccinator"
+        },
+        {
+          "label": "d",
+          "text": "Mandibular – Orbicularis Oris"
+        },
+        {
+          "label": "e",
+          "text": "Cervical - Platysma"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "69-year-old woman presents with right-sided hemiparesis, right-sided hemisensory loss, right-sided homonymous hemianopia, and aphasia. Past medical history is significant for hypertension, hypercholesterolemia, and diabetes mellitus. What vessel has been occluded?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Right anterior cerebral artery (ACA)"
+        },
+        {
+          "label": "b",
+          "text": "Right middle cerebral artery (MCA)"
+        },
+        {
+          "label": "c",
+          "text": "Left middle cerebral artery (MCA)"
+        },
+        {
+          "label": "d",
+          "text": "Left posterior cerebral artery (PCA)"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Complete MCA strokes will primarily cause a visual field loss or homonymous hemianopia to the opposite side because they affect the optic radiations projecting to the occipital cortex. MCA strokes on the left side can cause an aphasia, right sided hemiparesis, and right sided hemisensory loss."
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "prompt": "What would you be concerned about if the interventricular foramen become blocked?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Microcephaly"
+        },
+        {
+          "label": "b",
+          "text": "Meningitis"
+        },
+        {
+          "label": "c",
+          "text": "Hydrocephalus"
+        },
+        {
+          "label": "d",
+          "text": "Craniosynostosis"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "If an interventricular foramen became blocked, cerebrospinal fluid could not flow from the lateral ventricles into the third ventricle. Cerebrospinal fluid would continue to form within that ventricle, so the blocked ventricle would swell with fluid - a condition known as hydrocephalus."
+      }
+    },
+    {
+      "id": 26,
+      "type": "matching",
+      "prompt": "Match the clinical condition with neuronal structure affected.",
+      "terms": [
+        {
+          "label": "1",
+          "text": "Parkinson’s disease"
+        },
+        {
+          "label": "2",
+          "text": "Huntington’s disease"
+        },
+        {
+          "label": "3",
+          "text": "Schizophrenia"
+        }
+      ],
+      "choices": [
+        {
+          "label": "A",
+          "text": "Striatum"
+        },
+        {
+          "label": "B",
+          "text": "Nucleus Accumbens"
+        },
+        {
+          "label": "C",
+          "text": "Substantia Nigra"
+        }
+      ],
+      "answer": {
+        "matches": [
+          {
+            "term_label": "1",
+            "answer_label": "C"
+          },
+          {
+            "term_label": "2",
+            "answer_label": "A"
+          },
+          {
+            "term_label": "3",
+            "answer_label": "B"
+          }
+        ],
+        "explanation": "1C, 3B, 2A"
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "prompt": "What would you expect to see on post-mortem examination of Parkinson’s disease brains?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Significant shrinkage of the brain"
+        },
+        {
+          "label": "b",
+          "text": "Significant enlargement of the brain"
+        },
+        {
+          "label": "c",
+          "text": "Loss of neuromelanin pigmentation in the substantial nigra"
+        },
+        {
+          "label": "d",
+          "text": "Excess neuromelanin pigmentation in the substantia nigra"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Post-mortem examination of Parkinson’s disease brain at a macroscopic level shows no brain shrinkage; there is not significant difference between Parkinson’s disease brains and age-matched controls in the number of neurons. In the Parkinson’s disease brain, there is significant and specific degeneration of the dopaminergic neuron of the substantia nigra."
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "prompt": "45-year-old man has been experiencing an increase in accidents at work over the last couple of months, such as accidentally cutting his fingers with his knife and dropping plates. In the emergency room, you (the physician) notice that he was stumbling often and had difficulty with his upper limb coordination. He told you that he has had a difficult time at work using his knife recently and mentioned that “it must be due to being tired”. You also noted that the man had a short temper and got angry with some of the other patients in the waiting room. MRI of the brain showed ventricular enlargement and degeneration of cortical layers. Genetic testing showed over 69 CAG repeats on the short arm of chromosome 4. What is at the top of your differential diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Huntington’s disease"
+        },
+        {
+          "label": "b",
+          "text": "Parkinson’s disease"
+        },
+        {
+          "label": "c",
+          "text": "Schizophrenia"
+        },
+        {
+          "label": "d",
+          "text": "Cerebellar ataxia due to alcoholism"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "MRI findings and genetic testing are consistent with Huntington’s disease."
+      }
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "prompt": "Which of the following is not a positive symptom of schizophrenia? (Select all that apply.)",
+      "options": [
+        {
+          "label": "a",
+          "text": "Hallucinations"
+        },
+        {
+          "label": "b",
+          "text": "Delusions"
+        },
+        {
+          "label": "c",
+          "text": "Anhedonia"
+        },
+        {
+          "label": "d",
+          "text": "Alogia"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "c",
+          "d"
+        ],
+        "explanation": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Which of the following antibodies are indicative of Type 1 Diabetes mellitus (T1DM)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Glutamic Acid Decarboxylase (GAD)"
+        },
+        {
+          "label": "b",
+          "text": "Zinc transporter (ZnT8)"
+        },
+        {
+          "label": "c",
+          "text": "Anti-M antibodies"
+        },
+        {
+          "label": "d",
+          "text": "A and B"
+        },
+        {
+          "label": "e",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Both GAD and Zn18 are antibodies associated with T1DM"
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "Which of the following best describes pathophysiological changes in Type 2 Diabetes mellitus (T2DM)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "GLP1 decreases while GIP increases"
+        },
+        {
+          "label": "b",
+          "text": "Both GLP1 and GIP decrease"
+        },
+        {
+          "label": "c",
+          "text": "Both GLP1 and GIP increase"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "GLP-1 decreases in patients with T2DM. GIP increases in patients with T2DM but they don’t produce insulin in response to the increase in GIP"
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "You recently diagnosed Mark, an 18-year-old patient with T1DM. He works shifts in a factory and frequently skips meals because of his work schedule. What would be the best MDI insulin regimen for him considering the nature of his work?",
+      "options": [
+        {
+          "label": "a",
+          "text": "3-injections per day (1 long-acting + 2 fast-acting)"
+        },
+        {
+          "label": "b",
+          "text": "4 injections per day (3 fast-acting + 1 long-acting)"
+        },
+        {
+          "label": "c",
+          "text": "4 injections per day (2 long-acting + 2 fast-acting)"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "A 4-dose MDI consisting of 3 fast-acting insulin doses before meals and a single long-acting would be best for reducing the risk of hypoglycemia in this patient. For example, if they have to skip a meal because of work, they can skip the insulin dose associated with that meal"
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "Which of the following is FALSE regarding the diagnosis of T1DM",
+      "options": [
+        {
+          "label": "a",
+          "text": "Polyuria and polydipsia are diagnostic symptoms of T1DM"
+        },
+        {
+          "label": "b",
+          "text": "A random blood glucose of > 11.1 is sufficient for the diagnosis of T1DM in a symptomatic patient"
+        },
+        {
+          "label": "c",
+          "text": "You must do a fasting plasma glucose and/or HbA1c to confirm the diagnosis of T1DM in a symptomatic patient"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "A patient who has symptoms of diabetes (such as polyuria and polydipsia) and a random BG of 11.1 can be diagnosed with diabetes. No confirmatory test is required in this case"
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE regarding T1DM and T2DM?",
+      "options": [
+        {
+          "label": "a",
+          "text": "T1DM and T2DM are both caused by absolute insulin deficiency"
+        },
+        {
+          "label": "b",
+          "text": "T2DM often presents as an acute condition"
+        },
+        {
+          "label": "c",
+          "text": "Patients with T2DM are more likely to have other manifestations of metabolic syndrome"
+        },
+        {
+          "label": "d",
+          "text": "None of the above is true"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Patients with T2DM do not have an absolute insulin deficiency but they have insulin resistance. T2DM is less likely to present as an acute condition than T1DM. Patients with T2DM often have other features associated with metabolic syndrome"
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE regarding the risk of T2DM",
+      "options": [
+        {
+          "label": "a",
+          "text": "A child born to a parent with T2DM has a higher risk of developing T2DM"
+        },
+        {
+          "label": "b",
+          "text": "If a twin develops T2DM, their monozygotic twin has a 90% risk of developing T2DM"
+        },
+        {
+          "label": "c",
+          "text": "The risk of developing T2DM is the same for monozygotic and non-monozygotic twins"
+        },
+        {
+          "label": "d",
+          "text": "A and B are both true"
+        },
+        {
+          "label": "e",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Having a first degree relative with T2DM increases the risk of T2DM. Monozygotic twins have a 90% risk of developing T2DM"
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "A patient presents to the ER with polydipsia and polyuria that have been going on for several days. Blood glucose is 30 mmol. pH is 7.4. Creatinine is elevated and the patient is looking very sick. The patient’s mother has a history of T2DM. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "DKA"
+        },
+        {
+          "label": "b",
+          "text": "Septic shock"
+        },
+        {
+          "label": "c",
+          "text": "HHS"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Given the patient’s symptoms, very high BG, normal pH and their family history of T2DM, HHS is the most likely diagnosis. There is nothing in the question that supports a diagnosis of a septic shock."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "A patient with T1DM presents to the ophthalmologist for retinal evaluation. Retinal exam reveals the presence of new blood vessels in the retina. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "The patient needs to be monitored closely as they have pre-proliferative retinopathy"
+        },
+        {
+          "label": "b",
+          "text": "No further action is needed"
+        },
+        {
+          "label": "c",
+          "text": "Refer the patient to hematology"
+        },
+        {
+          "label": "d",
+          "text": "The patient requires treatment for proliferative retinopathy and effective glycemic control."
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "The presence of new blood vessels is indicative of proliferative retinopathy which requires treatment."
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE regarding the findings of DCCT trial?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Intensive BG control is associated with a reduction retinopathy only"
+        },
+        {
+          "label": "b",
+          "text": "Intensive BG control is associated with a reduction in retinopathy and preventing worsening of existing retinopathy"
+        },
+        {
+          "label": "c",
+          "text": "Intensive BG control is associated with a reduction retinopathy, neuropathy, and microalbuminuria"
+        },
+        {
+          "label": "d",
+          "text": "Both B and C are true"
+        },
+        {
+          "label": "e",
+          "text": "Only C is true"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Refer to Dr. McManus’s module on Prevention of Diabetes Complications"
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "You recently diagnosed Sally who is 25 with T2DM. When would you start annual screening for microalbuminuria?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Five years after diagnosis"
+        },
+        {
+          "label": "b",
+          "text": "Screening should start at diagnosis"
+        },
+        {
+          "label": "c",
+          "text": "When she is 30 years old"
+        },
+        {
+          "label": "d",
+          "text": "No screening is required"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "According to Diabetes Canada guidelines, screening for proteinuria begins at diagnosis for patients with T2DM and 5 years after diagnosis for patients with T1DM. Sally has T2DM so you would start screening her at diagnosis. (Link: https://guidelines.diabetes.ca/cpg/chapter29#sec5)"
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "Which of the following is a benefit of SMBG (self-monitoring of blood glucose)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Allows patients to determine if they’re hitting their glycemic control target"
+        },
+        {
+          "label": "b",
+          "text": "SMBG is needed to prevent hypoglycemia"
+        },
+        {
+          "label": "c",
+          "text": "It can guide decisions by clinicians"
+        },
+        {
+          "label": "d",
+          "text": "Only A and B are true"
+        },
+        {
+          "label": "e",
+          "text": "A, B and C are true"
+        }
+      ],
+      "answer": {
+        "correct_option": "e",
+        "explanation": "Refer to the targets for glycemic control module"
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE regarding insulin needs in pregnancy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Insulin needs remain constant throughout pregnancy"
+        },
+        {
+          "label": "b",
+          "text": "Insulin needs drop in the first trimester before rising again in the second and third trimesters"
+        },
+        {
+          "label": "c",
+          "text": "Insulin needs rise in the first and second trimesters before dropping in the third trimester"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Inuslin needs drop in the first trimester before rising again slowly in the second trimester and rising more rapidly in the third trimester"
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "A pregnant patient presents to your family medicine office at 25 weeks gestation for a routine visit. The patient’s random blood glucose is 12 mM after drinking 50g of glucose. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Order a confirmatory HbA1c"
+        },
+        {
+          "label": "b",
+          "text": "Ask the patient to fast and then repeat the test with 75g of oral glucose instead of 50g"
+        },
+        {
+          "label": "c",
+          "text": "The patient has gestational diabetes (GDM). You should refer them to diabetes education and a dietitian."
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The patient’s BG is >7.8 mM/L after a 50g oral glucose tolerance test. This is sufficient for a diagnosis of GDM. No fasting 75g oral glucose tolerance test is required in this case"
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE regarding diabetes and pregnancy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Both gestational diabetes (GDM) and pre-existing diabetes put the fetus at the risk of congenital malformations if uncontrolled."
+        },
+        {
+          "label": "b",
+          "text": "GDM is not associated with a risk of congenital malformations, but it puts the pregnant patient at risk of premature birth, C-section and macrosomia among other things"
+        },
+        {
+          "label": "c",
+          "text": "GDM is associated with an increased risk of T2DM in the mother later in life."
+        },
+        {
+          "label": "d",
+          "text": "Both B and C are true"
+        },
+        {
+          "label": "e",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "GDM is not associated with a risk of congenital malformations but it puts mother and fetus at risk of pregnancy complications"
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "How are long-acting insulin preparations able to have a long duration of action?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Due to their iron-binding properties"
+        },
+        {
+          "label": "b",
+          "text": "Due to first-pass metabolism in the liver"
+        },
+        {
+          "label": "c",
+          "text": "Due to their slow release from the hexameric form to the monomeric form"
+        },
+        {
+          "label": "d",
+          "text": "None of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Long-acting insulin preparations are designed to dissociate slowly from the stable hexameric form."
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "Which of the following anti-hyperglycemic drugs is associated with the highest risk of hypoglycemia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Metformin"
+        },
+        {
+          "label": "b",
+          "text": "Sulfonyureas"
+        },
+        {
+          "label": "c",
+          "text": "SGLT2 inhibitors"
+        },
+        {
+          "label": "d",
+          "text": "GLP1-RAs"
+        },
+        {
+          "label": "e",
+          "text": "Both A and C"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Of the drugs listed here, SU’s have the highest risk of hypoglycemia"
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "A 65-year-old patient with T2DM presents to the ER with dehydration and a significantly elevated creatinine. Which of the following medications might have contributed to this patient’s symptoms?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Metformin"
+        },
+        {
+          "label": "b",
+          "text": "SGLT2 inhibitor"
+        },
+        {
+          "label": "c",
+          "text": "GLP-RA"
+        },
+        {
+          "label": "d",
+          "text": "Insulin"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Given the patient’s symptoms (dehydration, renal failure..etc), it’s most likely that they’ve had polyuria and hypovolemia due to SGLT2 inhibitor use."
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "A 30-year-old patient presents to your family medicine office with concerns regarding their weight. The patient meets the criteria for pharmacotherapy. As part of your general assessment, you run a patient health questionnaire (PHQ-9) and suspect that the patient might be suffering from depression. Which medication would you not prescribe to this patient?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Orlistat"
+        },
+        {
+          "label": "b",
+          "text": "Semaglutide"
+        },
+        {
+          "label": "c",
+          "text": "Liraglutide"
+        },
+        {
+          "label": "d",
+          "text": "Bupropion/Naltrexone"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Bupropion/Naltrexone may worsen depression initially"
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "Which of the following is TRUE regarding bariatric surgery for obesity management?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Sleeve gastrectomy reduces the stomach to 25% of its original size"
+        },
+        {
+          "label": "b",
+          "text": "Sleeve gastrectomy is often recommended for patients with a high preoperative risk"
+        },
+        {
+          "label": "c",
+          "text": "Lapgastric band is not routinely recommended"
+        },
+        {
+          "label": "d",
+          "text": "All of the above are true"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Refer to the Intro to Obesity module"
+      }
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Part 1 of 2: Tom Paris presents with complaints of foot drop and difficulty swallowing. On history it is discovered that the weakness has been progressively getting worse over a number of months, and on physical examination you discover signs of atrophy, fasciculations, hyperreflexia, and spasticity. There is no evidence of sensory, bladder, or coordination issues. These findings are consistent in both the cervical and the lumbosacral regions. You order an MRI and are able to rule out any structural causes for these symptoms. What is your most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "MS"
+        },
+        {
+          "label": "b",
+          "text": "ALS"
+        },
+        {
+          "label": "c",
+          "text": "Radiculopathy"
+        },
+        {
+          "label": "d",
+          "text": "Spondylosis"
+        },
+        {
+          "label": "e",
+          "text": "Dermatomyositis"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "ALS can be diagnosed when you have a consistent history of relatively isolated motor symptoms which are progressive, exam demonstrates a combination of LMN and UMN signs in at least two regions (without prominent extra-motor involvement), and other investigations have ruled out other explanations for the symptoms."
+      }
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Part 2 of 2: What pharmacological treatments are available for the condition Tom Paris is suffering from? Select all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "b",
+          "text": "Riluzole"
+        },
+        {
+          "label": "c",
+          "text": "Plasmapheresis"
+        },
+        {
+          "label": "d",
+          "text": "Edaravone"
+        },
+        {
+          "label": "e",
+          "text": "There are no pharmacological treatments available."
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "b",
+          "d"
+        ],
+        "explanation": "Corticosteroids and plasmapheresis are treatments for MS. While there is no cure, there are treatments that slow the progression of ALS. Riluzole is a Glutamate antagonist, which reduces excitotoxicity and is modestly effective in slowing the progress of ALS. Edaravone is an antioxidant, and also modestly effective in slowing ALS progression."
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "Where is weakness associated with ALS localized to?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Brain"
+        },
+        {
+          "label": "b",
+          "text": "Spinal Cord"
+        },
+        {
+          "label": "c",
+          "text": "Motor Neuron/AHC"
+        },
+        {
+          "label": "d",
+          "text": "Root"
+        },
+        {
+          "label": "e",
+          "text": "Plexus"
+        },
+        {
+          "label": "f",
+          "text": "Nerve"
+        },
+        {
+          "label": "g",
+          "text": "NMJ"
+        },
+        {
+          "label": "h",
+          "text": "Muscle"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The weakness associated with ALS is localized to the Anterior Horn Cells."
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "A 3 month old female presents with low tone and mildly dysmorphic features. On examination she has appropriate strength for her age, brisk reflexes, and fisted hands, and no signs of muscle atrophy. Where does this lesion localize to?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Upper motor neuron"
+        },
+        {
+          "label": "b",
+          "text": "Lower motor neuron"
+        },
+        {
+          "label": "c",
+          "text": "Both upper and lower motor neuron"
+        },
+        {
+          "label": "d",
+          "text": "Connective tissue disorder"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "hypotonia without associated weakness in an infant is a sign of upper motor neuron localization. All other findings presented are also consistent with this. By the time the child with an upper motor neuron issue becomes 2-3 years old, the hypotonia will transition to hypertonia."
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "What is the primary method used to diagnose cerebral palsy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "MRI"
+        },
+        {
+          "label": "b",
+          "text": "CT scan"
+        },
+        {
+          "label": "c",
+          "text": "Physical examination"
+        },
+        {
+          "label": "d",
+          "text": "Genetic testing"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "Cerebral palsy is primarily diagnosed through a physical examination, during which a doctor will observe the individual's movements and muscle tone, and may also conduct tests of their reflexes and sensory abilities. CP can only be diagnosed after the patient is 2 years old. The physical examination may be supplemented with imaging tests, such as an MRI or CT scan, to assess the brain and spinal cord for any structural abnormalities. However, the physical examination is the primary method used to diagnose cerebral palsy."
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "What is the most common cause of cerebral palsy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Lack of oxygen to the brain"
+        },
+        {
+          "label": "b",
+          "text": "Infections during pregnancy"
+        },
+        {
+          "label": "c",
+          "text": "Traumatic brain injury"
+        },
+        {
+          "label": "d",
+          "text": "Genetic factors"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Lack of oxygen to the brain, either in utero, or during or shortly after birth, is the most common cause of cerebral palsy. This can occur for various reasons, such as complications during labor and delivery, or a congenital heart defect that impairs blood flow to the brain. Possible risk factors for cerebral palsy include infections during pregnancy, traumatic brain injury, and genetic factors."
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "What is the most common type of cerebral palsy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Spastic"
+        },
+        {
+          "label": "b",
+          "text": "Ataxic"
+        },
+        {
+          "label": "c",
+          "text": "Athetoid"
+        },
+        {
+          "label": "d",
+          "text": "Mixed"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Spastic cerebral palsy is the most common type, accounting for about 70-80% of cases. This type of cerebral palsy is characterized by stiff and tight muscles, which can cause problems with movement and coordination. Other types of cerebral palsy include ataxic, athetoid, and mixed. Ataxic cerebral palsy is characterized by problems with balance and coordination, athetoid cerebral palsy is characterized by involuntary movements, and mixed cerebral palsy is a combination of two or more types."
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "What are the potential complications of a mitochondrial disorder?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Seizures"
+        },
+        {
+          "label": "b",
+          "text": "Difficulty swallowing"
+        },
+        {
+          "label": "c",
+          "text": "Heart problems"
+        },
+        {
+          "label": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "All of the above. People with mitochondrial disorders may be at risk for a range of potential complications, including seizures, difficulty swallowing, and heart problems. These complications can vary depending on the specific type and severity of the disorder, and may require treatment to manage."
+      }
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "You suspect your patient has a mitochondrial disorder. You decide to run several test to confirm your suspicions. Which of the following findings would you expect, that make a mitochondrial disorder more likely? Select all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Increased blood lactate"
+        },
+        {
+          "label": "b",
+          "text": "Decreased CSF lactate"
+        },
+        {
+          "label": "c",
+          "text": "Mitochondrial DNA and nuclear mitochondrial gene panels return positive"
+        },
+        {
+          "label": "d",
+          "text": "MRI/MRS showing basal ganglia changes and increased muscle atrophy"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "explanation": "as CSF lactate is likely to be high with mitochondrial disorders"
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "A patient presents with symptoms of a neurodegenerative disorder, including movement problems, cognitive decline, and behavioral changes. They have a family history of similar symptoms, and genetic testing reveals a mutation in the HTT gene. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Alzheimer's disease"
+        },
+        {
+          "label": "b",
+          "text": "Parkinson's disease"
+        },
+        {
+          "label": "c",
+          "text": "Huntington's disease"
+        },
+        {
+          "label": "d",
+          "text": "Amyotrophic lateral sclerosis (ALS)"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": "The patient's symptoms, family history, and genetic test results are all consistent with a diagnosis of Huntington's disease. This is a neurodegenerative disorder caused by a mutation in the HTT gene, which leads to the death of nerve cells in the brain and the symptoms of the condition. In contrast, Alzheimer's disease is a disorder that affects memory and cognitive function, Parkinson's disease affects movement, and ALS affects muscle function."
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "How many repeats is considered diagnostic for Huntington disease in the HTT gene?",
+      "options": [
+        {
+          "label": "a",
+          "text": ">30"
+        },
+        {
+          "label": "b",
+          "text": ">40"
+        },
+        {
+          "label": "c",
+          "text": ">50"
+        },
+        {
+          "label": "d",
+          "text": ">60"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "40 is the cutoff for being diagnostic of Huntington Disease."
+      }
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "prompt": "Which of the following are early symptoms associated with increased ICP? Select all that apply.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Decreased LOC"
+        },
+        {
+          "label": "b",
+          "text": "Headache"
+        },
+        {
+          "label": "c",
+          "text": "Nausea and vomiting"
+        },
+        {
+          "label": "d",
+          "text": "Papilledema"
+        },
+        {
+          "label": "e",
+          "text": "Cushing response"
+        },
+        {
+          "label": "f",
+          "text": "Herniation"
+        }
+      ],
+      "multiple_correct_answers": true,
+      "answer": {
+        "correct_options": [
+          "a",
+          "b",
+          "c",
+          "e"
+        ],
+        "explanation": "Papilledema is a late response. Brain herniation is a terminal stage of increased ICP, resulting in shifting of the brain from one compartment to another, cranial nerve palsies, posterior cerebral artery compression or infarction, and possibly death."
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "Which type of the following gliomas is typically considered WHO Grade III?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Glioblastoma multiforme"
+        },
+        {
+          "label": "b",
+          "text": "Low grade glioma"
+        },
+        {
+          "label": "c",
+          "text": "Pilocytic astrocytoma"
+        },
+        {
+          "label": "d",
+          "text": "Anaplastic Glioma"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Anaplastic glioma is grade III, and has three subtypes: Astrocytoma, Oligodendroglioma, and Ependymoma. Pilocytic astrocytoma is grade I, Low grade glioma is grade II, and GLioblastoma multiforme is grade IV."
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "A 55-year-old woman comes to the physician because of a 6-month history of worsening involuntary movement of the left hand. She also reports that it takes her longer than usual to get up from a chair. Her symptoms are worse when she feels stressed at work. She has no history of serious illness and takes no medications. Neurological examination shows difficulty initiating movement and a tremor in the left hand at rest. The tremor decreases when the patient is asked to draw a circle. Which of the following is the most appropriate pharmacotherapy?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Methimazole"
+        },
+        {
+          "label": "b",
+          "text": "Pramipexole"
+        },
+        {
+          "label": "c",
+          "text": "Donpezil"
+        },
+        {
+          "label": "d",
+          "text": "Clonazepam"
+        }
+      ],
+      "answer": {
+        "correct_option": "b",
+        "explanation": "Pramipexole is a dopamine agonist, a first-line treatment in early Parkinson’s disease"
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "What are the components of the T.R.A.P. acronym for the typical symptoms of Parkinson’s",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tumor, Rigidity, Aphasia, Parasthesia"
+        },
+        {
+          "label": "b",
+          "text": "Tremor, Rigidity, Akinesia, Paresis"
+        },
+        {
+          "label": "c",
+          "text": "Tremor, Rigidity, Akinesia, Postural Instibility"
+        },
+        {
+          "label": "d",
+          "text": "Tumor, Rigidity, Akinesia, Polyrheumatica"
+        }
+      ],
+      "answer": {
+        "correct_option": "c",
+        "explanation": ""
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "A previously healthy 3 month-old infant is brought to the emergency department 6 hours after the onset of fever and persistent irritability. He had been well until 2 days ago, when he started feeding poorly and sleeping more than usual. He appears lethargic and irritable when roused for examination. His temperature is 39.0°C (102°F). He cries when he is picked up and when his neck is flexed. The remainder of the physical and neurological examinations show no other abnormalities. A gram stain of his lumbar puncture CSF showed Gram negative coccobacilli. What organism is responsible?",
+      "options": [
+        {
+          "label": "a",
+          "text": "E. coli"
+        },
+        {
+          "label": "b",
+          "text": "N. meningitidis"
+        },
+        {
+          "label": "c",
+          "text": "S. Pneumoniae"
+        },
+        {
+          "label": "d",
+          "text": "H. influenzae type B"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "H. influenzae type B, is a gram negative coccobacili that can cause meningitis symptoms in infants, especially those too young for the vaccination."
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "In an immunocompetent ADULT presenting with acute bacterial meningitis which IV medication regime is most appropriate?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Penicillin, Ancef, and Hydrocortisone"
+        },
+        {
+          "label": "b",
+          "text": "Flagyl, Rifampin, Dicofenac"
+        },
+        {
+          "label": "c",
+          "text": "Pip-tazo, Vancomycin, Ibuprofen"
+        },
+        {
+          "label": "d",
+          "text": "Ceftriaxone, Vancomycin, Dexamethasone"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "for an immunocompetent adult with meningitis the apporpriate medication regime is IV Cedtriaxone, Vancomycin, and Dexamethasone"
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "When neuronal regeneration goes awry and the axon haphazardly sprouts synkinesis can happen. What is an example of synkinesis?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Innervation to a new target"
+        },
+        {
+          "label": "b",
+          "text": "Innervation to the same target"
+        },
+        {
+          "label": "c",
+          "text": "Fusion of two nerves"
+        },
+        {
+          "label": "d",
+          "text": "New growth with faster conduction"
+        }
+      ],
+      "answer": {
+        "correct_option": "a",
+        "explanation": "Synkinesis is when the axon regenerates and attaches to a new target for example, the obicularis oris from a nerve that originally supplied the obicularis oculi."
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "A 42-year-old woman comes to the physician because of increasing fatigue and difficulty concentrating at work for the past 2 months. She has hypertension and a 22-year history of Crohn disease. She has been hospitalized and treated for acute exacerbations involving strictures multiple times in the past. She has not had significant gastrointestinal symptoms in over a year. Current medications include mesalamine, hydrochlorothiazide, and bisoprolol. Her temperature is 37.2°C, pulse is 72/min, and blood pressure is 140/90 mm Hg. Examination shows pale conjunctivae and a soft abdomen, she has a positive Romberg test, and has been finding herself almost losing balance in the shower and feels unsteady on the stairs, she has 3+ reflexes in Biceps, knee, and Achilles. Rectal examination is unremarkable, and she has no urinary symptoms. Laboratory studies show: Hgb 94, MCV 112, Iron studies normal, TSH normal Further physical evaluation of this patient is most likely to show which of the following findings?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tarry stools"
+        },
+        {
+          "label": "b",
+          "text": "Impaired vision in her right eye"
+        },
+        {
+          "label": "c",
+          "text": "Unexplained weight loss"
+        },
+        {
+          "label": "d",
+          "text": "Decreased vibration sensation"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Decreased vibration sensation is a key symptom in vitamin B12 deficiency, given the Chron’s history and the clinical picture it is the most likely diagnosis and the expected exam finding."
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "A 58-year-old woman is brought to the emergency department because of a 2-day history of increasing chest pain and shortness of breath. She has had a productive cough with foul-smelling sputum for 1 week. Seven months ago, the patient had an ischemic stroke. She has smoked one pack of cigarettes daily for 40 years. She has a 20-year history of alcohol use disorder but has not consumed any alcohol in the past 4 years. Her only medication is omeprazole. She appears to be in respiratory distress and speaks incoherently. Her temperature is 39.3°C, pulse is 123/min, respirations are 33/min, and blood pressure is 155/94 mm Hg. Auscultation of the lung shows rales and decreased breath sounds over the right upper lung field. A chest x-ray shows infiltrates in the right posterior upper lobe. Which of the following is the strongest predisposing factor for this patient's aspiration pneumonia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Smoking history"
+        },
+        {
+          "label": "b",
+          "text": "Alcohol misuse history"
+        },
+        {
+          "label": "c",
+          "text": "PPI use"
+        },
+        {
+          "label": "d",
+          "text": "History of ischemic stroke"
+        }
+      ],
+      "answer": {
+        "correct_option": "d",
+        "explanation": "Previous strokes can lead to dysphagia and increase the risk for aspiration pneumonia. Given the clinical picture of aspiration pneumonia her most relevant risk factor is the previous stroke."
+      }
+    }
+  ]
+}
