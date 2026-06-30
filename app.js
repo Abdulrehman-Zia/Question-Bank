@@ -156,7 +156,7 @@
         labels: REPORT_SETTINGS.labels.join(",")
       });
       const issueUrl = `https://github.com/${repo.owner}/${repo.repoName}/issues/new?${params.toString()}`;
-      window.location.href = issueUrl;
+      window.open(issueUrl, "_blank", "noopener");
     }
 
     function isQuestionCorrect(question, state) {
@@ -194,6 +194,9 @@
     function renderHub() {
       const grid = document.getElementById("quizGrid");
       const hubStatus = document.getElementById("hubStatus");
+      if (!grid || !hubStatus) {
+        return;
+      }
       grid.innerHTML = "";
 
       if (!app.quizEntries.length) {
@@ -566,8 +569,8 @@
                 <div class="order-row">
                   <div><strong>${i + 1}.</strong> ${escapeHtml(item.label)}. ${escapeHtml(item.text || "")}</div>
                   <div class="order-actions">
-                    <button type="button" class="mini" data-move="up" data-idx="${i}" ${st.graded || i === 0 ? "disabled" : ""}>Up</button>
-                    <button type="button" class="mini" data-move="down" data-idx="${i}" ${st.graded || i === st.order.length - 1 ? "disabled" : ""}>Down</button>
+                    <button type="button" class="mini" data-move="up" data-idx="${i}" aria-label="Move up" ${st.graded || i === 0 ? "disabled" : ""}>&uarr;</button>
+                    <button type="button" class="mini" data-move="down" data-idx="${i}" aria-label="Move down" ${st.graded || i === st.order.length - 1 ? "disabled" : ""}>&darr;</button>
                   </div>
                 </div>
               `;
@@ -703,7 +706,9 @@
 
     async function loadAllQuizzes() {
       const loadingText = document.getElementById("hubStatus");
-      loadingText.textContent = "Scanning question files...";
+      if (loadingText) {
+        loadingText.textContent = "Scanning question files...";
+      }
 
       const manifest = await loadManifest();
       const subjects = Array.isArray(manifest?.subjects) ? manifest.subjects : [];
