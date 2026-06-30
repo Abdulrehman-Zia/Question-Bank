@@ -45,13 +45,6 @@
       letter-spacing: -0.02em;
     }
 
-    .hero p {
-      margin: 10px 0 0;
-      color: var(--muted);
-      line-height: 1.5;
-      max-width: 760px;
-    }
-
     .meta {
       margin-top: 16px;
       display: flex;
