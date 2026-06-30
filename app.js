@@ -192,7 +192,7 @@
     }
 
     function renderHub() {
-      const grid = document.getElementById("weekGrid");
+      const grid = document.getElementById("quizGrid");
       const hubStatus = document.getElementById("hubStatus");
       grid.innerHTML = "";
 
@@ -230,23 +230,12 @@
         sectionEl.appendChild(heading);
 
         const sectionGrid = document.createElement("div");
-        sectionGrid.className = "grid";
+        sectionGrid.className = "subject-quiz-row";
 
         section.items.forEach((entry) => {
           const qList = app.allQuestionsByQuiz.get(entry.id) || [];
           totalQuestions += qList.length;
           qList.forEach((q) => typeSet.add(normalizeType(q.type)));
-
-          const countsByType = {};
-          qList.forEach((q) => {
-            const t = normalizeType(q.type);
-            countsByType[t] = (countsByType[t] || 0) + 1;
-          });
-
-          const chips = Object.entries(countsByType)
-            .sort((a, b) => a[0].localeCompare(b[0]))
-            .map(([typeKey, count]) => `<span class="chip">${TYPE_LABEL[typeKey] || typeKey}: ${count}</span>`)
-            .join("");
 
           const card = document.createElement("button");
           card.className = "card";
@@ -254,7 +243,6 @@
           card.innerHTML = `
             <h3>${entry.displayName}</h3>
             <div class="sub">${qList.length} questions</div>
-            <div class="chip-row">${chips}</div>
           `;
           card.addEventListener("click", () => openQuiz(entry.id));
           sectionGrid.appendChild(card);
@@ -264,10 +252,8 @@
         grid.appendChild(sectionEl);
       });
 
-      document.getElementById("totalWeeksPill").textContent = `Quizzes: ${app.quizEntries.length}`;
+      document.getElementById("totalQuizzesPill").textContent = `Quizzes: ${app.quizEntries.length}`;
       document.getElementById("totalQuestionsPill").textContent = `Questions: ${totalQuestions}`;
-      document.getElementById("typesPill").textContent =
-        `Types: ${[...typeSet].map((t) => TYPE_LABEL[t] || t).join(", ")}`;
     }
 
     function resetQuizState() {
@@ -715,7 +701,7 @@
       }
     }
 
-    async function loadAllWeeks() {
+    async function loadAllQuizzes() {
       const loadingText = document.getElementById("hubStatus");
       loadingText.textContent = "Scanning question files...";
 
@@ -772,4 +758,4 @@
     document.getElementById("shuffleBtn").addEventListener("click", shuffleCurrentPool);
     document.getElementById("restartBtn").addEventListener("click", applyFilter);
 
-    loadAllWeeks();
+    loadAllQuizzes();

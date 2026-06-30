@@ -78,6 +78,12 @@
       margin-bottom: 22px;
     }
 
+    #quizGrid {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
     .subject-title {
       margin: 0 0 10px;
       font-size: 1.05rem;
@@ -89,6 +95,18 @@
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
       gap: 12px;
+    }
+
+    .subject-quiz-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .subject-quiz-row .card {
+      min-width: 230px;
+      flex: 1 1 230px;
+      max-width: 280px;
     }
 
     .card {
