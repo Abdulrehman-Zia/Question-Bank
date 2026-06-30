@@ -1,0 +1,66 @@
+{
+  "subjects": [
+    {
+      "folder": "01-Endocrine",
+      "subject": "Endocrine",
+      "order": 1,
+      "files": [
+        "week_1.json",
+        "week_2.json",
+        "week_3.json",
+        "week_4.json"
+      ]
+    },
+    {
+      "folder": "02-Repro",
+      "subject": "Repro",
+      "order": 2,
+      "files": [
+        "week_5.json",
+        "week_6.json",
+        "week_7.json"
+      ]
+    },
+    {
+      "folder": "03-MSK & Rheumatology",
+      "subject": "MSK & Rheumatology",
+      "order": 3,
+      "files": [
+        "week_10.json",
+        "week_11.json",
+        "week_12.json",
+        "week_8.json",
+        "week_9.json"
+      ]
+    },
+    {
+      "folder": "04-Neurology",
+      "subject": "Neurology",
+      "order": 4,
+      "files": [
+        "week_13.json",
+        "week_14.json",
+        "week_15.json"
+      ]
+    },
+    {
+      "folder": "05-Optho",
+      "subject": "Optho",
+      "order": 5,
+      "files": [
+        "week_16.json"
+      ]
+    },
+    {
+      "folder": "06-Psychiatry",
+      "subject": "Psychiatry",
+      "order": 6,
+      "files": [
+        "week_17.json",
+        "week_18.json",
+        "week_19.json",
+        "week_20.json"
+      ]
+    }
+  ]
+}
