@@ -37,7 +37,7 @@
       "prompt": "A 2-year old boy is brought into your family practice clinic for the well baby visit. You noticed the following image when checking his eyes with the ophthalmoscope. What is the most appropriate next step? i. Make an urgent referral to ophthalmology ii. Start topical steroid eyedrops immediately iii. Ask parents for previous close-up shots of the eyes for comparison iv. Refer to optometry for a more extensive eye exam v. Provide parents with reassurance that this is a self limiting condition and their son will grow out of it vi. Try ophthalmoscope from an different angle and reassess",
       "media": {
         "type": "image",
-        "url": "./images/w16q2.jpg"
+        "url": "./w16q2.jpg"
       },
       "options": [
         {
