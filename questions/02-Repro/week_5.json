@@ -597,7 +597,7 @@
       "prompt": "What is this lesion called? What pathology is associated with this finding?",
       "media":{
         "type": "image",
-        "url": "./w5q22.jpg"
+        "url": "./w5q22.png"
       },
       "options": [
         {
